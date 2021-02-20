@@ -26,10 +26,10 @@ Awesome Developer Advocacy is a list of useful resources for anyone interested i
     -  [Single Posts]()
 -  [Videos](#videos)
     -  [Video Channels](#video-channels)
-    -  [Single Videos](#single-videos)
+    -  [Individual Videos](#individual-videos)
 -  [Podcasts](#podcasts)
     -  [Podcasting Series](#podcasting-series)
-    -  [Single Episodes](#single episodes)
+    -  [Individual Episodes](#individual-episodes)
 -  [Community Reports](#community-reports)
 -  [Communities](#communities)
 -  [Consultancy/Training](consultancytraining)
@@ -82,7 +82,7 @@ These are the blogs that have been publishing DevRel content continuously rather
 - [DevRel Weekly](https://devrelweekly.com/)
 - [HeavyBit Industries](https://www.heavybit.com/library/topic/developer-relations/)
 
-### Single Posts
+### Individual Posts
 
 These are one-off blog posts on topics related to the DevRel.
 
@@ -265,7 +265,7 @@ Video channels dedicated to different areas of DevRel:
 - [DerRel Folks - YouTube Channel](https://www.youtube.com/channel/UCrZJmJO0TLwh4N2HE9f7xeg)
 
 
-### Single Videos
+### Individual Videos
 
 Individual videos about DevRel:
 
@@ -286,7 +286,7 @@ Individual videos about DevRel:
 - [Under the Hood of Developer Marketing](https://www.devrelx.com/podcast)
 
 
-### Single Episodes
+### Individual Episodes
 
 - [Dan Moore went from sci-fi to devrel](https://devjourney.info/Guests/112-DanMoore.html)
     -  Podcast: [DevJourney](https://devjourney.info)
