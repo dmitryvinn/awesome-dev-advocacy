@@ -251,9 +251,6 @@ These are one-off blog posts on topics related to the DevRel.
 - [To Virtual Conference or To Not... That is the question](https://dev.to/jesswest/to-virtual-conference-or-to-not-that-is-the-question-37l0)
     -  Author: [Jess West](https://twitter.com/jessicaewest)
 
-- []()
-    -  Author: []()
-
 ## Videos
 
 ### Video Channels
