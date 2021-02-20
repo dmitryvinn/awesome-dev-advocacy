@@ -28,6 +28,8 @@ Awesome Developer Advocacy is a list of useful resources for anyone interested i
     * [Video Channels](#video-channels)
     * [Single Videos](#single-videos)
 * [Podcasts](#podcasts)
+    * [Podcasting Series](#podcasting-series)
+    * [Single Episodes](#single episodes)
 * [Community Reports](#community-reports)
 * [Communities](#communities)
 * [Consultancy/Training](consultancytraining)
@@ -44,6 +46,16 @@ Awesome Developer Advocacy is a list of useful resources for anyone interested i
 	* Author: [SlashData](https://twitter.com/SlashDataHQ)
 	* Focus Area: Developer Advocacy
 	* [Amazon Link](https://www.amazon.com/Developer-Marketing-Relations-Essential-Guide/dp/B08KH3T5TN)
+
+3) "The Developer Advocacy Handbook"
+	* Author: [Christian Heilmann](https://twitter.com/codepo8)
+	* Focus Area: Developer Advocacy
+	* [Free eBook](https://developer-advocacy.com/)
+
+4) "Getting Started in Developer Relations"
+	* Author: [Christian Heilmann](https://twitter.com/codepo8)
+	* Focus Area: Developer Advocacy
+	* [eBook](https://learn.samjulien.com/getting-started-in-developer-relations)
 
 ## Conferences
 
@@ -67,6 +79,8 @@ These are the blogs that have been publishing DevRel content continuously rather
 3) [DevRel.co](https://devrel.co/blog/)
 4) [StephanieMorillo's Blog](https://www.stephaniemorillo.co/blog)
 5) [Mary Thengvall's Blog](https://www.marythengvall.com/blog/category/DevRel)
+6) [DevRel Weekly](https://devrelweekly.com/)
+7) [HeavyBit Industries](https://www.heavybit.com/library/topic/developer-relations/)
 
 ### Single Posts
 
@@ -76,6 +90,30 @@ These are one-off blog posts on topics related to the DevRel.
     * Author: [Manbir Singh Marwah](https://twitter.com/manbirmarwah)
 2) [Hello, I am a Developer Advocate](https://medium.com/@joelmarcey/hello-i-am-a-developer-advocate-ff7db13058c7)
     * Author: [Joel Marcey](https://twitter.com/JoelMarcey)
+3) [Defining Developer Relations](https://www.leggetter.co.uk/2016/02/03/defining-developer-relations.html)
+    * Author: [Phil Leggetter](https://twitter.com/leggetter)
+4) [I am a developer evangelist - AmAA](https://www.reddit.com/r/IAmA/comments/xgb6l/i_am_a_developer_evangelist_amaa_starting_2pm_edt/)
+    * Author: [Rob Spectre](https://twitter.com/dN0t)
+5) [The road to being a kick-ass public speaker](http://christianheilmann.com/2011/04/11/the-road-to-being-a-kick-ass-public-speaker/)
+    * Author: [Chris Heilmann](https://twitter.com/codepo8)
+6) [Managing Time as a Developer Advocate (Without Losing Your Mind)](ttps://www.samjulien.com/managing-time-as-a-developer-advocate)
+    * Author: [Sam Julien](https://twitter.com/samjulien/)
+7) [A fresher’s guide to DevRel](https://medium.com/hackernoon/a-freshers-guide-to-devrel-10f0d814111e)
+    * Author: [Srushtika Neelakantam](https://twitter.com/Srushtika)
+8) [Sympathy for the DevRel](https://redmonk.com/jgovernor/2018/11/23/sympathy-for-the-devrel/)
+    * Author: [James Governor](https://twitter.com/monkchips)
+9) [Fly Less, Write More: the future of Developer Relations, and maybe, well, everything else](https://redmonk.com/jgovernor/2020/04/10/fly-less-write-more-the-future-of-developer-relations-and-maybe-well-everything-else/)
+    * Author: [James Governor](https://twitter.com/monkchips)
+10) [5 Biggest DevRel Challenges (and how to mitigate them)](https://blog.vanillaforums.com/5-biggest-devrel-challenges-and-how-to-mitigate-them)
+    * Author: [Mary Thengvall](https://twitter.com/mary_grace)
+11) [Back to Basics: How to DevRel without Travel](https://dev.to/jesswest/back-to-basics-how-to-devrel-without-travel-4l7b)
+    * Author: [Jess West](https://twitter.com/jessicaewest)
+12) [DevRel metrics and why they matter](https://seanfalconer.medium.com/devrel-metrics-and-why-they-matter-224563a4aa2d)
+    * Author: [Sean Falconer](https://twitter.com/seanfalconer)
+13) [From Dev to Devrel](https://seanfalconer.medium.com/devrel-metrics-and-why-they-matter-224563a4aa2d)
+    * Author: [Justin Garrison](https://twitter.com/rothgar)
+13) [DevRel Engineer One: Building a Developer Relations Team from The Ground Up](https://www.freecodecamp.org/news/devrel-engineer-one-building-a-developer-relations-team-from-the-ground-up/)
+    * Author: [Dave Nugent](https://twitter.com/drnugent)
 
 ## Videos
 
@@ -104,8 +142,15 @@ Individual videos about DevRel:
 
 ## Podcasts
 
+### Podcasting Series
+
 1) [DevRel Radio](https://devrelrad.io/)
 2) [Developer Advocate Stories](https://podcasts.apple.com/gb/podcast/developer-advocate-stories/id1527645854)
+3) [Community Pulse](https://www.communitypulse.io/)
+
+### Single Episodes
+
+1) [Dan Moore went from sci-fi to devrel](https://devjourney.info/Guests/112-DanMoore.html)
 
 ## Community Reports
 
@@ -124,6 +169,7 @@ Community reports help understand the state of the developer community in differ
 ## Consultancy/Training
 
 1) [Hoopy DevRel Consultancy](https://hoopy.io/)
+2) [DevRelate](https://devrelate.io/)
 
 
 ## Related
