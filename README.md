@@ -261,7 +261,7 @@ Video channels dedicated to different areas of DevRel:
 - [DevRel.Events - YouTube Channel](https://www.youtube.com/user/DrinkAndCode) 
 - [DevRelCon Tokyo - YouTube Channel](https://www.youtube.com/channel/UCjq8Gi9QoMYRBPbo9ReTiUw) 
 - [DevRel Asia - YouTube Channel](https://www.youtube.com/channel/UCjq8Gi9QoMYRBPbo9ReTiUw) 
-- [DevRel Russia - YouTube Channel](ttps://www.youtube.com/c/DevRelChannel) 
+- [DevRel Russia - YouTube Channel](https://www.youtube.com/c/DevRelChannel) 
 - [DerRel Folks - YouTube Channel](https://www.youtube.com/channel/UCrZJmJO0TLwh4N2HE9f7xeg)
 
 
