@@ -101,7 +101,7 @@ These are one-off blog posts on topics related to the DevRel.
 - [The road to being a kick-ass public speaker](http://christianheilmann.com/2011/04/11/the-road-to-being-a-kick-ass-public-speaker/)
     -  Author: [Chris Heilmann](https://twitter.com/codepo8)
 
-- [Managing Time as a Developer Advocate (Without Losing Your Mind)](ttps://www.samjulien.com/managing-time-as-a-developer-advocate)
+- [Managing Time as a Developer Advocate (Without Losing Your Mind)](https://www.samjulien.com/managing-time-as-a-developer-advocate)
     -  Author: [Sam Julien](https://twitter.com/samjulien/)
 
 - [A fresher’s guide to DevRel](https://medium.com/hackernoon/a-freshers-guide-to-devrel-10f0d814111e)
