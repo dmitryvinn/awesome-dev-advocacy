@@ -273,8 +273,6 @@ Individual videos about DevRel:
     -  Author: [Eddie Jaoude](https://twitter.com/eddiejaoude)
 - [Shifting to Online Community: The Future of DevRel](https://youtu.be/uGdW4X7mjX0)
     -  Author: [Heavybit](hhttps://twitter.com/heavybit)
-- [How to become a DevRel?](https://youtu.be/iUZerHctTB8)
-    -  Author: [Eddie Jaoude](https://twitter.com/eddiejaoude)
 
 ## Podcasts
 
