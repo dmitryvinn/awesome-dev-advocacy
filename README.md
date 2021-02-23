@@ -92,6 +92,9 @@ These are one-off blog posts on topics related to the DevRel.
 - [Hello, I am a Developer Advocate](https://medium.com/@joelmarcey/hello-i-am-a-developer-advocate-ff7db13058c7)
     -  Author: [Joel Marcey](https://twitter.com/JoelMarcey)
 
+- [Why Do We Pay These People Anyway?](https://medium.com/google-developers/why-do-we-pay-these-people-anyway-d7ed706d6d55#.438f1qn4x)
+    -  Author: [Reto Meier](https://twitter.com/retomeier)
+
 - [Defining Developer Relations](https://www.leggetter.co.uk/2016/02/03/defining-developer-relations.html)
     -  Author: [Phil Leggetter](https://twitter.com/leggetter)
 
