@@ -53,7 +53,7 @@ Awesome Developer Advocacy is a list of useful resources for anyone interested i
 	-  [Free eBook](https://developer-advocacy.com/)
 
 - "Getting Started in Developer Relations"
-	-  Author: [Christian Heilmann](https://twitter.com/codepo8)
+	-  Author: [Sam Julien](https://twitter.com/samjulien)
 	-  Focus Area: Developer Advocacy
 	-  [eBook](https://learn.samjulien.com/getting-started-in-developer-relations)
 
