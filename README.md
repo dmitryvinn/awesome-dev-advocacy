@@ -294,7 +294,7 @@ Individual videos about DevRel:
     -  Episode: #112
     -  Participants: [Dan Moore](https://twitter.com/mooreds), [Tim Bourguignon](https://twitter.com/timothep)
 
-- [Jason Lengstorf successfully bet on himself for his career](https://dev.to/devjourneyfm/104-jason-lengstorf-successfully-bet-on-himself-for-his-career)
+- [Jason Lengstorf successfully bet on himself for his career](https://devjourney.info/Guests/104-JasonLengstorf.html)
     -  Podcast: [DevJourney](https://devjourney.info)
     -  Episode: #104
     -  Participants: [Jason Lengstorf](https://www.twitter.com/jlengstorf), [Tim Bourguignon](https://twitter.com/timothep)
