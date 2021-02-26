@@ -272,6 +272,8 @@ Video channels dedicated to different areas of DevRel:
 
 Individual videos about DevRel:
 
+- [What is a Facebook Open Source Developer Advocate?](https://youtu.be/XdS5FNoTbgs)
+    -  Author: [Cami Williams](https://twitter.com/cwillycs)
 - [How to become a DevRel?](https://youtu.be/iUZerHctTB8)
     -  Author: [Eddie Jaoude](https://twitter.com/eddiejaoude)
 - [Shifting to Online Community: The Future of DevRel](https://youtu.be/uGdW4X7mjX0)
