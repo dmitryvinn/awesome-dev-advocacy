@@ -143,7 +143,7 @@ These are one-off blog posts on topics related to the DevRel.
 - [How to write a blog post: The four-drafts method](https://dev.to/amrutaranade/how-to-write-a-blog-post-the-four-drafts-method-1k7b)
     -  Author: [Amruta Ranade](https://twitter.com/AmrutaRanade)
 
-- [How to measure Developer Relations](hhttps://dev.to/maxkatz/how-to-measure-developer-relations-devrel-meetup-recap-7b9)
+- [How to measure Developer Relations](https://dev.to/maxkatz/how-to-measure-developer-relations-devrel-meetup-recap-7b9)
     -  Author: [Max Katz](https://twitter.com/maxkatz)
 
 - [DevRel and community building with the Golden Ratio](https://dev.to/hayleydenb/devrel-and-community-building-with-the-golden-ratio-27mh)
@@ -275,7 +275,7 @@ Individual videos about DevRel:
 - [How to become a DevRel?](https://youtu.be/iUZerHctTB8)
     -  Author: [Eddie Jaoude](https://twitter.com/eddiejaoude)
 - [Shifting to Online Community: The Future of DevRel](https://youtu.be/uGdW4X7mjX0)
-    -  Author: [Heavybit](hhttps://twitter.com/heavybit)
+    -  Author: [Heavybit](https://twitter.com/heavybit)
 
 ## Podcasts
 
