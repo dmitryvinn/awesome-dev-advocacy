@@ -349,7 +349,7 @@ Individual videos about DevRel:
 - [DevRel best practices and building intuitive products](https://dev.to/semaphoreuncut/eddie-zaneski-from-digitalocean-on-devrel-best-practices-and-building-intuitive-products)
     -  Podcast: [Semaphore Uncut](https://dev.to/semaphoreuncut/)
     -  Episode: N/A
-    -  Participants: [Eddie Zaneski](https://twitter.com/zenorocha), [Darko Fabijan](https://twitter.com/darkofabijan)
+    -  Participants: [Eddie Zaneski](https://twitter.com/eddiezane), [Darko Fabijan](https://twitter.com/darkofabijan)
 
 - [DevRel Content Creation with Stephanie Wong from Google Cloud](https://dev.to/semaphoreuncut/devrel-content-creation-with-stephanie-wong-from-google-cloud)
     -  Podcast: [Semaphore Uncut](https://dev.to/semaphoreuncut/)
