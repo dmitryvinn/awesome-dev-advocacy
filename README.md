@@ -254,6 +254,18 @@ These are one-off blog posts on topics related to the DevRel.
 - [To Virtual Conference or To Not... That is the question](https://dev.to/jesswest/to-virtual-conference-or-to-not-that-is-the-question-37l0)
     -  Author: [Jess West](https://twitter.com/jessicaewest)
 
+- [Submit a Talk to GopherCon!](https://carolynvanslyck.com/blog/2018/12/talk-at-gophercon/)
+    -  Author: [Carolyn Van Slyck](https://twitter.com/carolynvs)
+
+- [Storytelling On Stage: The Basics](https://blog.gopheracademy.com/storytelling-on-stage-the-basics/)
+    -  Author: Kris Brandow
+
+- [How to write a successful conference proposal](https://medium.com/@fox/how-to-write-a-successful-conference-proposal-4461509d3e32)
+    -  Author: [Karolina Szczur](https://twitter.com/fox)
+
+- [How to write a successful conference proposal](https://dave.cheney.net/2017/02/12/how-to-write-a-successful-conference-proposal)
+    -  Author: [Dave Cheney](https://twitter.com/davecheney)
+
 ## Videos
 
 ### Video Channels
