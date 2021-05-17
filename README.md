@@ -115,6 +115,9 @@ These are one-off blog posts on topics related to the DevRel.
 
 - [Fly Less, Write More: the future of Developer Relations, and maybe, well, everything else](https://redmonk.com/jgovernor/2020/04/10/fly-less-write-more-the-future-of-developer-relations-and-maybe-well-everything-else/)
     -  Author: [James Governor](https://twitter.com/monkchips)
+ 
+- [The Accidental Public Speaker or How I Got Over My Fear of Public Speaking](https://alexlakatos.com/avocados/2021/05/14/accidental-public-speaker/)
+    -  Author: [Alex Lakatos](https://twitter.com/lakatos88)
 
 - [5 Biggest DevRel Challenges (and how to mitigate them)](https://blog.vanillaforums.com/5-biggest-devrel-challenges-and-how-to-mitigate-them)
     -  Author: [Mary Thengvall](https://twitter.com/mary_grace)
@@ -290,6 +293,14 @@ Individual videos about DevRel:
     -  Author: [Eddie Jaoude](https://twitter.com/eddiejaoude)
 - [Shifting to Online Community: The Future of DevRel](https://youtu.be/uGdW4X7mjX0)
     -  Author: [Heavybit](https://twitter.com/heavybit)
+
+## Newsletters
+
+- [Developer Avocados 🥑 Weekly](https://tinyletter.com/developeravocados/)
+    -  Twitter: [Developer Avocados](https://twitter.com/DevRelAvocados)
+- [Tech Daily CFP](https://t.co/47fxtvAQH1)
+    -  Twitter: [Tech Daily CFP](https://twitter.com/TechDailyCFP)
+
 
 ## Podcasts
 
