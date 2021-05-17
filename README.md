@@ -27,6 +27,7 @@ Awesome Developer Advocacy is a list of useful resources for anyone interested i
 -  [Videos](#videos)
     -  [Video Channels](#video-channels)
     -  [Individual Videos](#individual-videos)
+-  [Newsletters](#newsletters)
 -  [Podcasts](#podcasts)
     -  [Podcasting Series](#podcasting-series)
     -  [Individual Episodes](#individual-episodes)
