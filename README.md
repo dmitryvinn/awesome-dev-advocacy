@@ -282,6 +282,7 @@ Video channels dedicated to different areas of DevRel:
 - [DevRel Asia - YouTube Channel](https://www.youtube.com/channel/UCjq8Gi9QoMYRBPbo9ReTiUw) 
 - [DevRel Russia - YouTube Channel](https://www.youtube.com/c/DevRelChannel) 
 - [DerRel Folks - YouTube Channel](https://www.youtube.com/channel/UCrZJmJO0TLwh4N2HE9f7xeg)
+- [CMX Hub](https://www.youtube.com/c/CMXHub)
 
 
 ### Individual Videos
