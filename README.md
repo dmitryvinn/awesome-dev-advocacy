@@ -295,6 +295,9 @@ Individual videos about DevRel:
     -  Author: [Eddie Jaoude](https://twitter.com/eddiejaoude)
 - [Shifting to Online Community: The Future of DevRel](https://youtu.be/uGdW4X7mjX0)
     -  Author: [Heavybit](https://twitter.com/heavybit)
+- [Communicate with Users, Build Something They Want - Ryan Hoover of Product Hunt](https://youtu.be/tckGI4C7k10)
+    -  Author: [Y Combinator](https://twitter.com/ycombinator)
+    -  Participants: [Ryan Hoover](https://twitter.com/rrhoover), [Craig Cannon](https://twitter.com/craigcannon)
 
 ## Newsletters
 
