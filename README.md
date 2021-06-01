@@ -298,6 +298,16 @@ Individual videos about DevRel:
 - [Communicate with Users, Build Something They Want - Ryan Hoover of Product Hunt](https://youtu.be/tckGI4C7k10)
     -  Author: [Y Combinator](https://twitter.com/ycombinator)
     -  Participants: [Ryan Hoover](https://twitter.com/rrhoover), [Craig Cannon](https://twitter.com/craigcannon)
+- [[Slashdata Webinar] Segmenting Developers into personas](https://youtu.be/liTCvhUCiIM)
+    -  Author: [SlashData](https://twitter.com/SlashDataHQ)
+- [What makes a developer program successful? Answers from Developer Program Leaders Survey](https://youtu.be/sHkd4dVfGB8)
+    -  Author: [SlashData](https://twitter.com/SlashDataHQ)
+    -  Participants: [Richard Muir](https://twitter.com/rmuir_data)
+- [LiveCast: Developer Empathy](https://youtu.be/f4bpS1Skgvk)
+    -  Participants: [Christina Voskoglou](https://twitter.com/ChristinaVoskog), [Adam DuVander](https://twitter.com/adamd)
+- [[Webinar Recording] Developer personas and psychographics](https://youtu.be/r7wH5Z6ePIE)
+    -  Author: [SlashData](https://twitter.com/SlashDataHQ)
+    -  Participants: [Christina Voskoglou](https://twitter.com/ChristinaVoskog)
 
 ## Newsletters
 
