@@ -92,7 +92,10 @@ These are one-off blog posts on topics related to the DevRel.
 
 - [What is Developer Advocacy?](https://medium.com/@ashleymcnamara/what-is-developer-advocacy-3a92442b627c)
     -  Author: [Ashley Willis](https://twitter.com/ashleymcnamara)
-
+    
+- [What the heck is a Developer Advocate?](https://www.freecodecamp.org/news/what-the-heck-is-a-developer-advocate-87ab4faccfc4/)
+    -  Author: [Wassim Chegham](https://twitter.com/manekinekko)
+    
 - [Decoding Developer Relations in a Blog](https://dev.to/manbir/decoding-developer-relations-in-a-blog-5823)
     -  Author: [Manbir Singh Marwah](https://twitter.com/manbirmarwah)
 
