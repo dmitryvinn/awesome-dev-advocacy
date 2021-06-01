@@ -90,6 +90,9 @@ These are one-off blog posts on topics related to the DevRel.
 - [Hello, I am a Developer Advocate](https://medium.com/@joelmarcey/hello-i-am-a-developer-advocate-ff7db13058c7)
     -  Author: [Joel Marcey](https://twitter.com/JoelMarcey)
 
+- [What is Developer Advocacy?](https://medium.com/@ashleymcnamara/what-is-developer-advocacy-3a92442b627c)
+    -  Author: [Ashley Willis](https://twitter.com/ashleymcnamara)
+
 - [Decoding Developer Relations in a Blog](https://dev.to/manbir/decoding-developer-relations-in-a-blog-5823)
     -  Author: [Manbir Singh Marwah](https://twitter.com/manbirmarwah)
 
