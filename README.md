@@ -141,8 +141,8 @@ These are one-off blog posts on topics related to the DevRel.
 - [DevRel Engineer One: Building a Developer Relations Team from The Ground Up](https://www.freecodecamp.org/news/devrel-engineer-one-building-a-developer-relations-team-from-the-ground-up/)
     -  Author: [Dave Nugent](https://twitter.com/drnugent)
 
-- [The Ultimate DevRel Guide To Travel](https://dev.to/vonagedev/the-ultimate-devrel-guide-to-travel-3ld6)
-    -  Author: [Luke O](https://twitter.com/lukeocodes)
+- [The Ultimate DevRel Guide To Travel](https://dev.to/lukeocodes/the-ultimate-devrel-guide-to-travel-3ld6)
+    -  Author: [Luke Oliff](https://twitter.com/lukeocodes)
 
 - [Developer relations in a coronavirus world: The same, but different](https://www.freecodecamp.org/news/devrel-engineer-one-building-a-developer-relations-team-from-the-ground-up/)
     -  Author: [Heidi Waterhouse](https://twitter.com/wiredferret)
