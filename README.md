@@ -100,7 +100,7 @@ These are one-off blog posts on topics related to the DevRel.
     -  Author: [Max Katz](https://twitter.com/maxkatz)
     
 - [Seven Months Later: My Developer Advocacy Journey So Far](https://dev.to/ibmdeveloper/seven-months-later-my-developer-advocacy-journey-so-far-a1l)
-    -  Author: [Max Katz](https://twitter.com/BradstonDev)
+    -  Author: [Bradston Henry](https://twitter.com/BradstonDev)
   
 - [The Subtle Art of Being A Developer Advocate](https://dev.to/wassimchegham/the-subtle-art-of-being-a-developer-advocate-gdg)
     -  Author: [Wassim Chegham](https://twitter.com/manekinekko)
