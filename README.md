@@ -89,7 +89,22 @@ These are one-off blog posts on topics related to the DevRel.
 
 - [Hello, I am a Developer Advocate](https://medium.com/@joelmarcey/hello-i-am-a-developer-advocate-ff7db13058c7)
     -  Author: [Joel Marcey](https://twitter.com/JoelMarcey)
+ 
+- [Welcome to the Golden Age of Developer Advocacy](https://dev.to/stripe/welcome-to-the-golden-age-of-developer-advocacy-51fe)
+    -  Author: [Chris Trag](https://twitter.com/chris_trag)
 
+- [Effective Developer Advocacy for Highly-Technical Projects](https://dev.to/drnugent/effective-developer-advocacy-for-highly-technical-projects-dl8)
+    -  Author: [Chris Trag](https://twitter.com/drnugent)
+  
+- [Why Developer Advocacy programs should consider working with partners](https://maxkatz.net/2019/02/22/why-developer-advocacy-programs-should-consider-working-with-partners/)
+    -  Author: [Max Katz](https://twitter.com/maxkatz)
+    
+- [Seven Months Later: My Developer Advocacy Journey So Far](https://dev.to/ibmdeveloper/seven-months-later-my-developer-advocacy-journey-so-far-a1l)
+    -  Author: [Max Katz](https://twitter.com/BradstonDev)
+  
+- [The Subtle Art of Being A Developer Advocate](https://dev.to/wassimchegham/the-subtle-art-of-being-a-developer-advocate-gdg)
+    -  Author: [Wassim Chegham](https://twitter.com/manekinekko)
+      
 - [What is Developer Advocacy?](https://medium.com/@ashleymcnamara/what-is-developer-advocacy-3a92442b627c)
     -  Author: [Ashley Willis](https://twitter.com/ashleymcnamara)
     
