@@ -194,9 +194,6 @@ These are one-off blog posts on topics related to the DevRel.
 - [DevRel Without Physical Conferences](https://dev.to/bengreenberg/devrel-without-physical-conferences-1c7)
     -  Author: [Ben Greenberg](https://twitter.com/RabbiGreenberg)
 
-- [DevRel Thoughts, Observations, & Ideas](https://dev.to/adron/devrel-thoughts-observations-ideas-5d32)
-    -  Author: [Adron Hall](https://twitter.com/Adron)
-
 - [DevRel: The basics.](https://pachicodes.com/blog/devrel-basics)
     -  Author: [Pachi Carlson](https://twitter.com/pachicodes)
 
@@ -250,9 +247,6 @@ These are one-off blog posts on topics related to the DevRel.
 
 - [Where to publish content?](https://maxkatz.org/2019/07/11/where-to-publish-content/)
     -  Author: [Max Katz](https://twitter.com/maxkatz)
-
-- [Measuring Success and KPIs in Developer Relations - Community Contributed Outline](https://dev.to/tessamero/measuring-success-and-kpis-in-developer-relations-community-contributed-outline-1383)
-    -  Author: [Tessa Mero](https://twitter.com/TessaMero)
 
 - [Strategies for building a successful Community](https://dev.to/yashsharma___/strategies-for-building-a-successful-community-20j5)
     -  Author: [Yash Sharma](https://twitter.com/YashSharma___)
@@ -337,11 +331,6 @@ Individual videos about DevRel:
     -  Podcast: [DevJourney](https://devjourney.info)
     -  Episode: #104
     -  Participants: [Jason Lengstorf](https://www.twitter.com/jlengstorf), [Tim Bourguignon](https://twitter.com/timothep)
-
-- [Obinna Ekwuno on the shift from engineering to the web, Gatsby and the incremental future](https://dev.to/thatsmyjamstackpodcast/s2e4-obinna-ekwuno-on-the-shift-from-engineering-to-the-web-gatsby-and-the-incremental-future)
-    -  Podcast: [That's My JAMstack](https://dev.to/thatsmyjamstackpodcast)
-    -  Episode: S2E4
-    -  Participants: [Obinna Ekwuno](https://twitter.com/Obinnaspeaks), [Bryan Robinson](https://twitter.com/brob)
 
 - [Conference Magic with PJ Hagerty](https://dev.to/greaterthancode/179-conference-magic-with-pj-hagerty)
     -  Podcast: [Greater Than Code](https://dev.to/greaterthancode)
