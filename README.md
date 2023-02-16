@@ -248,12 +248,6 @@ These are one-off blog posts on topics related to the DevRel.
 - [Developer Relations + Product - DevRelCarousels #5](https://dev.to/yashovardhan/developer-relations-product-devrelcarousels-5-2p0m)
     -  Author: [Yashovardhan Agrawal](https://twitter.com/yashovardhan)
 
-- [DevRel is like coffee.. and other profundities.](https://medium.com/@jeremymeiss/devrel-is-like-coffee-b3c461de15db)
-    -  Author: [Jeremy Meiss](https://twitter.com/IAmJerdog)
-
-- [Following Cooking Recipes Makes You a Clearer Writer]()
-    -  Author: [Amara Graham](https://twitter.com/MissAmaraKay)
-
 - [Where to publish content?](https://maxkatz.org/2019/07/11/where-to-publish-content/)
     -  Author: [Max Katz](https://twitter.com/maxkatz)
 
