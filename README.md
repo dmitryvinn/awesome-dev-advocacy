@@ -87,17 +87,10 @@ These are the blogs that have been publishing DevRel content continuously rather
 
 These are one-off blog posts on topics related to the DevRel.
 
-- [Hello, I am a Developer Advocate](https://medium.com/@joelmarcey/hello-i-am-a-developer-advocate-ff7db13058c7)
-    -  Author: [Joel Marcey](https://twitter.com/JoelMarcey)
- 
-- [Welcome to the Golden Age of Developer Advocacy](https://dev.to/stripe/welcome-to-the-golden-age-of-developer-advocacy-51fe)
-    -  Author: [Chris Trag](https://twitter.com/chris_trag)
 
 - [Effective Developer Advocacy for Highly-Technical Projects](https://dev.to/drnugent/effective-developer-advocacy-for-highly-technical-projects-dl8)
-    -  Author: [Chris Trag](https://twitter.com/drnugent)
-  
-- [Why Developer Advocacy programs should consider working with partners](https://maxkatz.net/2019/02/22/why-developer-advocacy-programs-should-consider-working-with-partners/)
-    -  Author: [Max Katz](https://twitter.com/maxkatz)
+    -  Author: [Chris Trag](https://twitter.com/chris_trag)
+ 
     
 - [Seven Months Later: My Developer Advocacy Journey So Far](https://dev.to/ibmdeveloper/seven-months-later-my-developer-advocacy-journey-so-far-a1l)
     -  Author: [Bradston Henry](https://twitter.com/BradstonDev)
@@ -285,9 +278,6 @@ These are one-off blog posts on topics related to the DevRel.
 - [Storytelling On Stage: The Basics](https://blog.gopheracademy.com/storytelling-on-stage-the-basics/)
     -  Author: Kris Brandow
 
-- [How to write a successful conference proposal](https://medium.com/@fox/how-to-write-a-successful-conference-proposal-4461509d3e32)
-    -  Author: [Karolina Szczur](https://twitter.com/fox)
-
 - [How to write a successful conference proposal](https://dave.cheney.net/2017/02/12/how-to-write-a-successful-conference-proposal)
     -  Author: [Dave Cheney](https://twitter.com/davecheney)
 
@@ -297,7 +287,6 @@ These are one-off blog posts on topics related to the DevRel.
 
 Video channels dedicated to different areas of DevRel:
 
-- [Dev Rel - YouTube Channel](https://www.youtube.com/channel/UCabc3QtCLKsNeTOx9cqDSlQ) 
 - [DevRel.Events - YouTube Channel](https://www.youtube.com/user/DrinkAndCode) 
 - [DevRelCon Tokyo - YouTube Channel](https://www.youtube.com/channel/UCjq8Gi9QoMYRBPbo9ReTiUw) 
 - [DevRel Asia - YouTube Channel](https://www.youtube.com/channel/UCjq8Gi9QoMYRBPbo9ReTiUw) 
@@ -349,11 +338,6 @@ Individual videos about DevRel:
 
 
 ### Individual Episodes
-
-- [Dan Moore went from sci-fi to devrel](https://devjourney.info/Guests/112-DanMoore.html)
-    -  Podcast: [DevJourney](https://devjourney.info)
-    -  Episode: #112
-    -  Participants: [Dan Moore](https://twitter.com/mooreds), [Tim Bourguignon](https://twitter.com/timothep)
 
 - [Jason Lengstorf successfully bet on himself for his career](https://devjourney.info/Guests/104-JasonLengstorf.html)
     -  Podcast: [DevJourney](https://devjourney.info)
