@@ -182,11 +182,6 @@ These are one-off blog posts on topics related to the DevRel.
 - [My long, winding road to DevRel](https://dev.to/jerdog/my-long-winding-road-to-devrel-ffl)
     -  Author: [Jeremy Meiss](https://twitter.com/IAmJerdog)
 
-- [Tips for speaking to college students about DevRel](https://dev.to/alnacle/tips-for-speaking-to-college-students-about-devrel-32g5)
-    -  Author: [Alvaro Navarro](https://twitter.com/alnacle)
-
-- [Acing the DevRel Interview](https://thagomizer.com/blog/2019/10/11/acing-the-devrel-interview.html)
-    -  Author: [Aja Hammerly](https://twitter.com/the_thagomizer)
 
 - [Content Strategy for DevRel Teams: A Primer](https://www.stephaniemorillo.co/post/content-strategy-for-devrel-teams-a-primer)
     -  Author: [Stephanie Morillo](https://twitter.com/radiomorillo)
@@ -289,8 +284,7 @@ Individual videos about DevRel:
 
 - [What is a Facebook Open Source Developer Advocate?](https://youtu.be/XdS5FNoTbgs)
     -  Author: [Cami Williams](https://twitter.com/cwillycs)
-- [How to become a DevRel?](https://youtu.be/iUZerHctTB8)
-    -  Author: [Eddie Jaoude](https://twitter.com/eddiejaoude)
+
 - [Shifting to Online Community: The Future of DevRel](https://youtu.be/uGdW4X7mjX0)
     -  Author: [Heavybit](https://twitter.com/heavybit)
 - [Communicate with Users, Build Something They Want - Ryan Hoover of Product Hunt](https://youtu.be/tckGI4C7k10)
