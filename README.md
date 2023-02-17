@@ -189,12 +189,6 @@ These are one-off blog posts on topics related to the DevRel.
 - [DevRel Without Physical Conferences](https://dev.to/bengreenberg/devrel-without-physical-conferences-1c7)
     -  Author: [Ben Greenberg](https://twitter.com/RabbiGreenberg)
 
-- [DevRel: The basics.](https://pachicodes.com/blog/devrel-basics)
-    -  Author: [Pachi Carlson](https://twitter.com/pachicodes)
-
-- [How I Write Online Articles](https://johnpapa.net/how-i-write-online-articles/)
-    -  Author: [John Papa](https://twitter.com/John_Papa)
-
 - [7 Tips for Breaking Into DevRel](https://dev.to/dabit3/7-tips-for-breaking-into-devrel-7jk)
     -  Author: [Nader Dabit](https://twitter.com/dabit3)
 
@@ -260,10 +254,6 @@ These are one-off blog posts on topics related to the DevRel.
 
 - [Storytelling On Stage: The Basics](https://blog.gopheracademy.com/storytelling-on-stage-the-basics/)
     -  Author: Kris Brandow
-
-- [How to write a successful conference proposal](https://dave.cheney.net/2017/02/12/how-to-write-a-successful-conference-proposal)
-    -  Author: [Dave Cheney](https://twitter.com/davecheney)
-
 ## Videos
 
 ### Video Channels
