@@ -122,9 +122,6 @@ These are one-off blog posts on topics related to the DevRel.
 - [Managing Time as a Developer Advocate (Without Losing Your Mind)](https://www.samjulien.com/managing-time-as-a-developer-advocate)
     -  Author: [Sam Julien](https://twitter.com/samjulien/)
 
-- [A fresher’s guide to DevRel](https://medium.com/hackernoon/a-freshers-guide-to-devrel-10f0d814111e)
-    -  Author: [Srushtika Neelakantam](https://twitter.com/Srushtika)
-
 - [Sympathy for the DevRel](https://redmonk.com/jgovernor/2018/11/23/sympathy-for-the-devrel/)
     -  Author: [James Governor](https://twitter.com/monkchips)
 
