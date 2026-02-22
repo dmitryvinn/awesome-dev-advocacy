@@ -334,6 +334,9 @@ Individual videos about DevRel:
 
 - [Developer Avocados 🥑 Weekly](https://tinyletter.com/developeravocados/)
     -  Twitter: [Developer Avocados](https://twitter.com/DevRelAvocados)
+- [daily.dev Digest](https://daily.dev)
+    - A community-driven newsletter delivering the most engaged developer stories, curated by 1M+ developers. Great channel for developer advocacy content distribution. [Sponsor](https://business.daily.dev)
+    -  Twitter: [daily.dev](https://twitter.com/dailydotdev)
 - [Tech Daily CFP](https://t.co/47fxtvAQH1)
     -  Twitter: [Tech Daily CFP](https://twitter.com/TechDailyCFP)
 
