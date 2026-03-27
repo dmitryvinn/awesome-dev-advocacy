@@ -15,15 +15,15 @@
 
 This project continues a trend started by [Sindre Sorhus](https://github.com/sindresorhus) where he created a project to list useful resources for various topics: NodeJS, JVM, Networking, etc.
 
-Awesome Developer Advocacy is a curated list of many resources for anyone interested in DevRel. These links aim to help those who are just starting, planning to get involved, or looking to further their skills in the Developer Advocacy field.
+Awesome Developer Advocacy is a curated list of **905** resources for anyone interested in DevRel. These links aim to help those who are just starting, planning to get involved, or looking to further their skills in the Developer Advocacy field.
 
 # Table of Contents
 
 -  [Books](#books) (51)
 -  [Conferences](#conferences) (16)
 -  [Blogs](#blogs) (254)
-    -  [Blogging Series](#blogging-series) (97)
-    -  [Individual Posts](#individual-posts) (157)
+    -  [Blogging Series](#blogging-series) (87)
+    -  [Individual Posts](#individual-posts) (167)
 -  [Videos](#videos) (125)
     -  [Video Channels](#video-channels) (27)
     -  [Individual Videos](#individual-videos) (98)
@@ -325,11 +325,9 @@ These are the blogs that have been publishing DevRel content continuously rather
 - [#TCCS 13: What is Internal Developer Advocacy](https://www.everythingtechnicalwriting.com/internal-developer-advocacy/)
 - [10 Engaging SaaS Changelog Examples to Inspire You](https://www.getbeamer.com/blog/10-engaging-saas-changelog-examples-to-inspire-you)
 - [2025 Developer Tool Trends: What Marketers Need to Know](https://business.daily.dev/resources/2025-developer-tool-trends-what-marketers-need-to-know/)
-- 7 tips to launch a career as a developer advocate
 - [A Day in the Life of a Developer Advocate](https://www.redpanda.com/blog/developer-advocate-remote-christina-lin)
 - [API Developer Experience (DX) Resources | API Guide](https://www.moesif.com/blog/api-guide/api-developer-experience/)
 - [API Evangelism and API Advocacy: Is There A Difference?](https://nordicapis.com/api-evangelism-and-api-advocacy-is-there-a-difference/)
-- Acing the DevRel Interview
 - [Android Developers Blog](https://android-developers.googleblog.com/)
 - [Angie Jones' Blog](https://angiejones.tech/)
 - [Best Community Engagement Strategies](https://www.advocu.com/post/best-community-engagement-strategies)
@@ -349,16 +347,14 @@ These are the blogs that have been publishing DevRel content continuously rather
 - [DevRel Resources](https://github.com/odyslam/devrel-resources)
 - [DevRel Weekly](https://devrelweekly.com/)
 - [DevRel is More Than Marketing. It's Co-creation.](https://chrisreddington.com/blog/devrel-value-co-creation-not-marketing/)
-- DevRel.co
-- DevRel.net
+- [DevRel.co](https://devrel.co/)
+- [DevRel.net](https://developerrelations.com/)
 - [DevRel/Engineering Leadership Resources](https://momack.medium.com/engineering-leadership-resources-2fdc6ea75fa3)
-- DevRel: The basics.
 - [Developer Advocate: Complete Career Guide for DevRel Professionals](https://www.reo.dev/blog/developer-advocate-guide-devrel)
 - [Developer Awards](https://create.roblox.com/docs/creator-programs/developer-awards)
 - [Developer Engagement Strategies: Behind the Scenes with PayPal's DevRel Expert Christina Monti](https://www.advocu.com/post/developer-engagement-strategies-behind-the-scenes-with-paypals-devrel-expert-christina-monti)
 - [Developer Experience (DevEx) in 2026](https://dev.to/austinwdigital/developer-experience-devex-in-2026-the-real-competitive-advantage-2996)
 - [Developer Experience: Prerequisite and Product of DevRel](https://chrisreddington.com/blog/devrel-developer-experience/)
-- Developer Relations at Camunda - 2018 Recap
 - [DeveloperRelations.com](https://developerrelations.com)
 - [Dillion Megida's Blog](https://dillionmegida.com/blog/)
 - [Driving Developer Adoption in 2025](https://instruqt.com/blog/driving-developer-adoption-in-2025-insights-strategies-and-expert-advice)
@@ -366,11 +362,8 @@ These are the blogs that have been publishing DevRel content continuously rather
 - [Everything Technical Writing](https://www.everythingtechnicalwriting.com/)
 - [Evolution and Value of Developer Relations](https://jimmysong.io/blog/devrel-role-evolution-and-value/)
 - [Exploring Salaries in DevRel Careers: Research](https://develocity.io/exploring-salaries-in-developer-relations/)
-- Fly Less, Write More: the future of Developer Relations, and maybe, well, everything else
-- Following Cooking Recipes Makes You a Clearer Writer
 - [Guide to Building Developer Advocacy Communities](https://business.daily.dev/resources/developer-advocacy-communities-guide/)
-- Heart or Mind? Community or Business? The DevRel Paradox
-- HeavyBit Industries
+- [HeavyBit Industries](https://www.heavybit.com/library)
 - [How Publishing a Changelog Can Help You Retain More Users](https://www.getbeamer.com/blog/how-publishing-a-changelog-can-help-you-retain-more-users)
 - [How to Apply for Your First DevRel Job](https://developerrelations.com/origin-stories/phil-leggetter/)
 - [How to Build a Developer Community](https://reimer.me/blog/how-to-build-a-developer-community)
@@ -388,14 +381,13 @@ These are the blogs that have been publishing DevRel content continuously rather
 - [Minko Gechev's Blog](https://blog.mgechev.com/)
 - [My first year as a Developer Advocate](https://patloeber.com/first-year-developer-advocate/)
 - [Navigating Your First Year as a Developer Advocate](https://medium.com/@Anita-ihuman/navigating-your-first-year-as-a-developer-advocate-for-a-startup-9445516df46c)
-- Orbit: DevRel Tool - Blog
+- [Orbit: DevRel Tool - Blog](https://github.com/orbit-love/orbit-model)
 - [ProProfs Blog](https://www.proprofs.com/blog/)
 - [ShiftMag - Insightful engineering content & community](https://shiftmag.dev/?utm_source=newslepear.beehiiv.com&utm_medium=referral&utm_campaign=141-how-to-get-your-engineers-to-blog-executive-dinners-and-a-benchmarking-ad-campaign-from-clickhouse)
 - [Specialization and Career Paths for Developer Relations](https://vera-tiago.medium.com/specialization-and-career-paths-for-developer-relations-b64e16a26f45)
 - [Stephanie Morillo's Content](https://dev.to/radiomorillo)
-- StephanieMorillo's Blog
+- [StephanieMorillo's Blog](https://www.stephaniemorillo.co/links)
 - [Steven Cooper's Website](http://www.developersteve.com/)
-- Sympathy for the DevRel
 - [Ted Spence's Blog](https://tedspence.com/)
 - [The Anatomy of a Successful Developer Advocate Program: Empowering Your Community](https://www.doc-e.ai/post/the-anatomy-of-a-successful-developer-advocate-program-empowering-your-community)
 - [The Complete Guide to Building and Growing a Vibrant Developer Community](https://www.advocu.com/post/the-complete-guide-to-building-and-growing-a-vibrant-developer-community)
@@ -407,14 +399,12 @@ These are the blogs that have been publishing DevRel content continuously rather
 - [Top 100 Software Testing Blogs and Websites To Follow](https://blog.feedspot.com/software_testing_blogs/)
 - [Voxgig DevRel Insights](https://voxgig.substack.com/)
 - [Web API Design Best Practices](https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design)
-- Welcome to the Golden Age of Developer Advocacy
 - [Wesley Faulkner's Website](https://wesleyfaulkner.com/)
 - [What Are Breaking Changes?](https://carlosschults.net/en/what-are-breaking-changes)
 - [What Goes Into Developer Incentive Programs?](https://x-team.com/magazine/developers-incentive-plans)
 - [What I've Learned from 6 Years as a Developer Advocate](https://nathanpeck.com/things-learned-from-six-years-developer-advocacy/)
 - [What Is Developer Advocacy? (2025 Edition)](https://ashley.dev/posts/what-is-developer-advocacy)
 - [What is an internal developer platform?](https://cloud.google.com/discover/what-is-an-internal-developer-platform)
-- What is developer evangelism?
 - [What makes a team effective at Google](https://www.thinkwithgoogle.com/intl/en-emea/consumer-insights/consumer-trends/five-dynamics-effective-team/)
 - [Why Your API Needs a Dedicated Developer Experience Team](https://nordicapis.com/why-your-api-needs-a-dedicated-developer-experience-team/)
 - [Why care about the developer experience?](https://seanfalconer.medium.com/why-care-about-the-developer-experience-b2907a639ac3)
@@ -456,6 +446,9 @@ These are one-off blog posts on topics related to the DevRel.
 - [7 things that look like DevRel but aren’t](https://www.linkedin.com/posts/marcosplacona_7-things-that-look-like-devrel-but-arent-activity-7400278074610831361-9ZRZ/?utm_source=share&utm_medium=member_ios&rcm=ACoAAA6PPusBHGh3FZIjVWx49BUzJv6Bq6AODbE)
     -  Author: Marcos Placona
 
+- [7 tips to launch a career as a developer advocate](https://dev.to/sidneyallen/7-tips-to-launch-a-career-as-a-developer-advocate-4a0l)
+    -  Author: Sidney Maestre
+
 - [9 signs your marketing team is broken](https://www.optimizely.com/insights/blog/unaligned-marketing-team/)
     -  Author: Leah Messenger
 
@@ -473,6 +466,9 @@ These are one-off blog posts on topics related to the DevRel.
 
 - [API Reliability Report 2026: Uptime Patterns Across 215+ Services](https://nordicapis.com/api-reliability-report-2026-uptime-patterns-across-215-services/)
     -  Author: Shibley Burnett
+
+- [Acing the DevRel Interview](https://dev.to/thagomizer/acing-the-devrel-interview-115p)
+    -  Author: Aja Hammerly
 
 - [Announcing our Developer Journey Map FigJam Template](https://www.devrel.agency/post/figjamtemplate)
     -  Author: DevRel.Agency
@@ -552,6 +548,9 @@ These are one-off blog posts on topics related to the DevRel.
 - [DevRel metrics and why they matter](https://seanfalconer.medium.com/devrel-metrics-and-why-they-matter-224563a4aa2d)
     -  Author: Sean Falconer
 
+- [DevRel: The basics.](https://dev.to/abacatedevrel/devrel-the-basics-j3o)
+    -  Author: Pachi Carlson
+
 - [Developer Advocacy: Frequently Asked Questions](https://dev.to/di/developer-advocacy-frequently-asked-questions-577k)
     -  Author: Dustin Ingram
 
@@ -576,6 +575,9 @@ These are one-off blog posts on topics related to the DevRel.
 - [Developer Relations Career Guide: Skills, Path & Insights 2025](https://draft.dev/learn/developer-relations-career-insights-from-7-industry-leaders)
     -  Author: Karl Hughes
 
+- [Developer Relations at Camunda - 2018 Recap](https://berndruecker.io/developer-relations-at-camunda-2018-recap/)
+    -  Author: Bernd Ruecker
+
 - [Developer Relations: A Five-Level Maturity Model](https://softwareas.com/developer-relations-a-five-level-maturity-model/)
     -  Author: Michael Mahemoff
 
@@ -597,6 +599,12 @@ These are one-off blog posts on topics related to the DevRel.
 - [First DevRel Hiring Process](https://dx.tips/first-devrel-hire)
     -  Author: Shawn \
 
+- [Fly Less, Write More: the future of Developer Relations, and maybe, well, everything else](https://redmonk.com/jgovernor/2020/04/)
+    -  Author: James Governor
+
+- [Following Cooking Recipes Makes You a Clearer Writer](https://dev.to/missamarakay/following-cooking-recipes-makes-you-a-clearer-writer-460a)
+    -  Author: Amara Graham
+
 - [From Staff Technical Writer to Developer Advocate; Read Amruta Ranade’s story](https://www.everythingtechnicalwriting.com/from-staff-technical-writer-to-developer-advocate-read-amruta-ranades-story/)
     -  Author: Amruta Ranade
 
@@ -605,6 +613,9 @@ These are one-off blog posts on topics related to the DevRel.
 
 - [GitHub Changelog](https://github.blog/changelog)
     -  Author: GitHub
+
+- [Heart or Mind? Community or Business? The DevRel Paradox](https://dev.to/akhilsharma_10270)
+    -  Author: Akhil Sharma
 
 - [Hello, I am a Developer Advocate](https://medium.com/@joelmarcey/hello-i-am-a-developer-advocate-ff7db13058c7)
     -  Author: Joel Marcey
@@ -783,6 +794,9 @@ These are one-off blog posts on topics related to the DevRel.
 - [Submit a Talk to GopherCon!](https://carolynvanslyck.com/blog/2018/12/talk-at-gophercon/)
     -  Author: Carolyn Van Slyck
 
+- [Sympathy for the DevRel](https://redmonk.com/jgovernor/sympathy-for-the-devrel/)
+    -  Author: James Governor
+
 - [Technical Content Marketing: A 7-Step Strategy](https://www.heretto.com/blog/effective-digital-content-strategy-for-technical-content)
     -  Author: Ren Taylor
 
@@ -853,13 +867,16 @@ These are one-off blog posts on topics related to the DevRel.
     -  Author: Jerry Neumann
 
 - [Welcome to the Golden Age of Developer Advocacy](https://blog.trag.dev/welcome-to-the-golden-age-of-developer-advocacy)
-    -  Author: Erin Mikail Staples
+    -  Author: Chris Trag
 
 - [What About Juniors?](https://brooker.co.za/blog/2026/03/25/ic-junior.html)
     -  Author: Marc Brooker
 
 - [What is Developer Advocacy?](https://medium.com/@ashleymcnamara/what-is-developer-advocacy-3a92442b627c)
     -  Author: Ashley Willis
+
+- [What is developer evangelism?](https://dev.to/sidneyallen/what-is-developer-evangelism-2hhi)
+    -  Author: Sidney Maestre
 
 - [What the heck is a Developer Advocate?](https://www.freecodecamp.org/news/what-the-heck-is-a-developer-advocate-87ab4faccfc4/)
     -  Author: Wassim Chegham
@@ -1175,8 +1192,6 @@ Individual videos about DevRel:
 
 - [Developer Avocados Weekly](https://developeravocados.net/)
 
-- Developer Avocados 🥑 Weekly
-
 - [Developer Led](https://developerled.substack.com/)
 
 - [Developer Markepear](https://www.markepear.dev/newsletter)
@@ -1233,14 +1248,14 @@ Individual videos about DevRel:
 - [Build to Succeed](https://verygood.ventures/podcasts)
 - [Building Developer Communities](https://dev.to/ladybugpodcast/building-developer-communities)
 - [Building platforms, ecosystems & open-source communities: Lessons from Viam & MongoDB](https://sfelc.com/podcasts/building-platforms-ecosystems-and-open-source-communities-lessons-from-viam-and-mongodb-eliot-horowitz-viam)
-- Community Pulse
+- [Community Pulse](https://www.communitypulse.io/)
 - [Conference Magic with PJ Hagerty](https://dev.to/greaterthancode/179-conference-magic-with-pj-hagerty)
 - [Create Value for Others with Nader Dabit](https://dev.to/reactpodcast/44-create-value-for-others-with-nader-dabit-on-podcasting-speaking-mobile-devrel-at-aws-amplify-appsync-for-simple-graphql-servers-and-his-new-book-react-native-in-action)
 - [Dan Moore went from sci-fi to devrel](https://devjourney.info/Guests/112-DanMoore.html)
 - [Defining Developer Relations with Angie Jones](https://hanselminutes.com/954/defining-developer-relations-with-angie-jones)
 - [DevRel AI Radio](https://open.spotify.com/show/6EsealXCvPadAgW3yjntI9)
 - [DevRel Book Club](https://developerrelations.com/podcasts/devrel-book-club/)
-- DevRel Content Creation with Stephanie Wong from Google Cloud
+- [DevRel Content Creation with Stephanie Wong from Google Cloud](https://semaphore.io/blog/devrel-content-creation-with-stephanie-wong-from-google-cloud)
 - [DevRel Radio](https://devrelrad.io/)
 - [DevRel Roundtable](https://developerrelations.com/podcasts/devrel-roundtable/)
 - [DevRel best practices and building intuitive products](https://dev.to/semaphoreuncut/eddie-zaneski-from-digitalocean-on-devrel-best-practices-and-building-intuitive-products)
@@ -1263,7 +1278,7 @@ Individual videos about DevRel:
 - [The Community-Led Growth Show](https://open.spotify.com/show/7eQhR01Fs098yMZ5qXtvjC)
 - [The Not-Boring Tech Writer](https://thenotboringtechwriter.com/)
 - [The Truth About Developer Relations with Simona Cotin, Tara Manicsic, Tierney Cyren, and Tracy Lee](https://dev.to/modernweb/s05e03-the-truth-about-developer-relations-with-simona-cotin-tara-manicsic-tierney-cyren-and-tracy-lee)
-- Under the Hood of Developer Marketing
+- [Under the Hood of Developer Marketing](https://open.spotify.com/show/7DyhFVdj0Pa0aQm4TVLXcT)
 - [Voxgig Podcast](https://voxgig.com/podcast)
 - [What's Up with Internal Developer Portals?](https://getdx.com/podcast/internal-developer-portals/)
 
@@ -1313,13 +1328,13 @@ Community reports help understand the state of the developer community in differ
 
 - [Open Source Programs (OSPO) Survey](https://github.com/todogroup/osposurvey)
 
-- StackOverflow Developer Survey
+- [StackOverflow Developer Survey](https://survey.stackoverflow.co/)
 
 - [StackOverflow Developer Survey (2020)](https://insights.stackoverflow.com/survey/2020)
 
-- State of DevRel Report
+- [State of DevRel Report](https://www.stateofdeveloperrelations.com/)
 
-- State of DevRel Report (2020)
+- [State of DevRel Report (2020)](https://developerrelations.com/reports/)
 
 - [State of DevRel Report 2024](https://www.stateofdeveloperrelations.com/2024devrelreport)
     -  Author: Caroline Lewko & DevRel.Agency
@@ -1375,7 +1390,7 @@ Community reports help understand the state of the developer community in differ
 - [DevRel Foundation Discord](https://dev-rel.org/join-us)
 - [DevRel India](https://devrelindia.in/)
 - [DevRel Uni Community](https://discord.gg/TcAC7RVB7H)
-- DevRelX
+- [DevRelX](https://www.slashdata.co/devrelx)
 - [Developer DAO](https://www.developerdao.com/)
 - [Developer Relations Foundation](https://dev-rel.org/)
 - [DxMentorship - Developer Advocacy Mentorship Program](https://www.dxmentorship.com/)
