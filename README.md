@@ -1,4 +1,5 @@
-# Awesome Developer Advocacy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Developer Advocacy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![DevRel Academy](https://img.shields.io/badge/Browse_Interactively-devrelacademy.com-00e5a0?style=for-the-badge )](https://devrelacademy.com )
+
 
 <div align="center">
 	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
