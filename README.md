@@ -1697,6 +1697,7 @@ Community reports help understand the state of the developer community in differ
 - [write-good](https://github.com/btford/write-good)
 
 - [ércule](https://app.ercule.com/)
+- [submission-site-discovery](https://github.com/SeeleAI/submission-site-discovery) - Automated discovery of product submission sites, launch directories, and distribution channels for indie hackers.
 
 ## Courses & Training
 
