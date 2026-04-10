@@ -16,27 +16,27 @@
 
 This project continues a trend started by [Sindre Sorhus](https://github.com/sindresorhus) where he created a project to list useful resources for various topics: NodeJS, JVM, Networking, etc.
 
-Awesome Developer Advocacy is a curated list of **905** resources for anyone interested in DevRel. These links aim to help those who are just starting, planning to get involved, or looking to further their skills in the Developer Advocacy field.
+Awesome Developer Advocacy is a curated list of **891** resources for anyone interested in DevRel. These links aim to help those who are just starting, planning to get involved, or looking to further their skills in the Developer Advocacy field.
 
 # Table of Contents
 
--  [Books](#books) (51)
+-  [Books](#books) (50)
 -  [Conferences](#conferences) (16)
--  [Blogs](#blogs) (254)
-    -  [Blogging Series](#blogging-series) (87)
-    -  [Individual Posts](#individual-posts) (167)
--  [Videos](#videos) (125)
-    -  [Video Channels](#video-channels) (27)
-    -  [Individual Videos](#individual-videos) (98)
--  [Newsletters](#newsletters) (30)
--  [Podcasts](#podcasts) (49)
+-  [Blogs](#blogs) (244)
+    -  [Blogging Series](#blogging-series) (85)
+    -  [Individual Posts](#individual-posts) (159)
+-  [Videos](#videos) (123)
+    -  [Video Channels](#video-channels) (26)
+    -  [Individual Videos](#individual-videos) (97)
+-  [Newsletters](#newsletters) (28)
+-  [Podcasts](#podcasts) (47)
     -  [Podcasting Series](#podcasting-series) (40)
-    -  [Individual Episodes](#individual-episodes) (9)
--  [Community Reports](#community-reports) (23)
--  [Communities](#communities) (72)
--  [Tools & Services](#tools--services) (124)
+    -  [Individual Episodes](#individual-episodes) (7)
+-  [Community Reports](#community-reports) (22)
+-  [Communities](#communities) (71)
+-  [Tools & Services](#tools--services) (123)
 -  [Courses & Training](#courses--training) (18)
--  [Guides & Resources](#guides--resources) (143)
+-  [Guides & Resources](#guides--resources) (136)
 -  [Related](#related)
 
 ## Books
@@ -176,10 +176,6 @@ Awesome Developer Advocacy is a curated list of **905** resources for anyone int
 	-  Focus Area: Developer Advocacy
 	-  [Link](https://www.jonobacon.com/books/peoplepowered/)
 
-- "Picks & Shovels: Developer Marketing for Startups and Growing Companies"
-	-  Author: Strategic Nerds
-	-  Focus Area: Developer Advocacy
-	-  [Link](https://www.strategicnerds.com/developer-relations)
 
 - "Platform Engineering"
 	-  Author: Camille Fournier & Ian Nowland
@@ -335,7 +331,6 @@ These are the blogs that have been publishing DevRel content continuously rather
 - [Best Practices for Managing and Leading a Team of Developer Advocates](https://www.advocu.com/post/best-practices-for-managing-and-leading-a-team-of-developer-advocates)
 - [Best Practices in API Design](https://swagger.io/resources/articles/best-practices-in-api-design/)
 - [Black Girl Bytes by Rizèl Scarlett](https://dev.to/blackgirlbytes)
-- [Bolaji Ayodeji's Blog](https://blog.bolajiayodeji.com/)
 - [Building Internal Developer Platforms That Actually Work](https://www.axelerant.com/blog/building-internal-developer-platforms)
 - [Chris Reddington's DevRel Blog](https://chrisreddington.com/blog/)
 - [Climbing the DevRel Career Ladder](https://www.everythingtechnicalwriting.com/climbing-the-devrel-career-ladder/)
@@ -480,7 +475,6 @@ These are one-off blog posts on topics related to the DevRel.
 - [Back to Basics: How to DevRel without Travel](https://dev.to/jesswest/back-to-basics-how-to-devrel-without-travel-4l7b)
     -  Author: Jess West
 
-- [Best Pitches/Demos of All Time](https://dx.tips/pitches)
     -  Author: Shawn \
 
 - [Beyond the Hype: 5 Takeaways on the Future of Building with AI | Wizeline](https://www.wizeline.ai/beyond-the-hype-5-takeaways-on-the-future-of-building-with-ai/?utm_source=linkedin&utm_medium=social-organic&utm_campaign=beyond-the-hype-five-takeaways-on-the-ai-blog)
@@ -597,7 +591,6 @@ These are one-off blog posts on topics related to the DevRel.
 - [Essential CLI/TUI Tools for Developers](https://www.freecodecamp.org/news/essential-cli-tui-tools-for-developers/)
     -  Author: Alex Pliutau
 
-- [First DevRel Hiring Process](https://dx.tips/first-devrel-hire)
     -  Author: Shawn \
 
 - [Fly Less, Write More: the future of Developer Relations, and maybe, well, everything else](https://redmonk.com/jgovernor/2020/04/)
@@ -867,7 +860,6 @@ These are one-off blog posts on topics related to the DevRel.
 - [We Have Learned Nothing: Startup Pundits Sold Us a Failed Science of Entrepreneurship. The Red Queen Offers Something Better.](https://colossus.com/article/we-have-learned-nothing-startup-pundits/)
     -  Author: Jerry Neumann
 
-- [Welcome to the Golden Age of Developer Advocacy](https://blog.trag.dev/welcome-to-the-golden-age-of-developer-advocacy)
     -  Author: Chris Trag
 
 - [What About Juniors?](https://brooker.co.za/blog/2026/03/25/ic-junior.html)
@@ -1185,7 +1177,6 @@ Individual videos about DevRel:
 
 - [Create a Complete Video Ad with VEO3.1 in 4 Steps](https://www.kieranflanagan.io/p/create-a-complete-video-ad-with-veo31?hide_intro_popup=true&utm_source=newslepear.beehiiv.com&utm_medium=referral&utm_campaign=141-how-to-get-your-engineers-to-blog-executive-dinners-and-a-benchmarking-ad-campaign-from-clickhouse)
 
-- [DX Tips: The DevTools Magazine](https://dx.tips/)
 
 - [DevOps'ish](https://devopsish.com/)
 
@@ -1590,7 +1581,6 @@ Community reports help understand the state of the developer community in differ
 
 - [Kratix | The Open-source Platform Engineering Framework](https://www.kratix.io/)
 
-- [LinearB](https://linearb.io/)
 
 - [Listen Community Consulting](https://listen.community/)
 
@@ -1867,7 +1857,6 @@ Community reports help understand the state of the developer community in differ
 - [Developer Roadmaps](https://roadmap.sh/)
     -  Author: Kamran Ahmed
 
-- [Developer content strategy: creating content developers actually read](https://www.strategicnerds.com/blog/developer-content-strategy)
 
 - [Developer's Guide to the Speaking and Conference Galaxy](https://www.infobip.com/developers/blog/developers-guide-to-the-speaking-and-conference-galaxy)
 
@@ -1993,7 +1982,6 @@ Community reports help understand the state of the developer community in differ
 - [The 2021 CMX Community Industry Report](https://web.archive.org/web/20230401170204/https://cmxhub.com/community-industry-report-2021/)
     -  Author: CMX
 
-- [The 21 Developer Productivity Metrics You Should Measure](https://linearb.io/blog/developer-productivity-metrics)
 
 - [The 90-Day Developer Onboarding Best Practices That Actually Works](https://fullscale.io/blog/developer-onboarding-best-practices/)
 
@@ -2020,7 +2008,6 @@ Community reports help understand the state of the developer community in differ
     -  Author: Meshcloud
     -  A comprehensive guide to platform engineering, covering topics such as developer advocacy and building strong relationships with development teams.
 
-- [The complete developer marketing guide (2026 edition)](https://www.strategicnerds.com/blog/the-complete-developer-marketing-guide-2026)
     -  Author: Prashant Sridharan
     -  A comprehensive guide to developer marketing, covering positioning, messaging, content creation, community building, developer relations, and go-to-market execution.
 
@@ -2060,7 +2047,6 @@ Community reports help understand the state of the developer community in differ
 
 - [Why DevRel is the New Moat in the AI Age](https://www.linkedin.com/posts/dthompsondev_features-can-be-copied-overnight-especially-activity-7396943843733995520-oph2)
 
-- [Your Docs Are for AI Now](https://www.strategicnerds.com/blog/your-docs-are-for-ai-now)
 
 - [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps)
     -  Author: Adam Garrett-Harris
