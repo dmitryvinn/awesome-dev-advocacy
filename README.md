@@ -16,7 +16,7 @@
 
 This project continues a trend started by [Sindre Sorhus](https://github.com/sindresorhus) where he created a project to list useful resources for various topics: NodeJS, JVM, Networking, etc.
 
-Awesome Developer Advocacy is a curated list of **891** resources for anyone interested in DevRel. These links aim to help those who are just starting, planning to get involved, or looking to further their skills in the Developer Advocacy field.
+Awesome Developer Advocacy is a curated list of **953** resources for anyone interested in DevRel. These links aim to help those who are just starting, planning to get involved, or looking to further their skills in the Developer Advocacy field.
 
 # Table of Contents
 
@@ -37,6 +37,15 @@ Awesome Developer Advocacy is a curated list of **891** resources for anyone int
 -  [Tools & Services](#tools--services) (123)
 -  [Courses & Training](#courses--training) (18)
 -  [Guides & Resources](#guides--resources) (136)
+-  [Agent Skills](#agent-skills) (62)
+    -  [Developer Advocacy & Relations](#developer-advocacy--relations) (7)
+    -  [Technical Writing & Documentation](#technical-writing--documentation) (9)
+    -  [Content Creation & Marketing](#content-creation--marketing) (8)
+    -  [Speaking & Presentations](#speaking--presentations) (7)
+    -  [Community Building](#community-building) (7)
+    -  [Code Review & Quality](#code-review--quality) (7)
+    -  [AI & LLM Tools](#ai--llm-tools) (10)
+    -  [API & Developer Experience](#api--developer-experience) (6)
 -  [Related](#related)
 
 ## Books
@@ -2051,6 +2060,211 @@ Community reports help understand the state of the developer community in differ
 - [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps)
     -  Author: Adam Garrett-Harris
     -  A curated list of command-line applications covering a wide range of categories, from development and productivity to entertainment.
+
+## Agent Skills
+
+AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that help DevRel professionals automate and enhance their workflows. Compatible with Claude Code, OpenAI Codex CLI, Gemini CLI, and other AI coding agents.
+
+### Developer Advocacy & Relations
+
+- [developer-growth-analysis](https://skillsmp.com/skills/composiohq-awesome-claude-skills-developer-growth-analysis-skill-md) — by ComposioHQ
+	- [GitHub](https://github.com/ComposioHQ/awesome-claude-skills)
+
+- [developer-advocacy](https://skillsmp.com/skills/absolutelyskilled-absolutelyskilled-skills-developer-advocacy-skill-md) — by AbsolutelySkilled
+	- [GitHub](https://github.com/AbsolutelySkilled/AbsolutelySkilled/tree/main/skills/developer-advocacy)
+
+- [developer-experience](https://skillsmp.com/skills/neversight-learn-skills-dev-data-skills-md-absolutelyskilled-absolutelyskilled-developer-experience-skill-md) — by NeverSight
+	- [GitHub](https://github.com/NeverSight/learn-skills.dev)
+
+- [dev-communications](https://skillsmp.com/skills/omer-metin-skills-for-antigravity-skills-dev-communications-skill-md) — by omer-metin
+	- [GitHub](https://github.com/omer-metin/skills-for-antigravity)
+
+- [devrel-sdk](https://skillsmp.com/skills/longtho638-jpg-mekong-cli-clipmart-mekong-saas-startup-skills-devrel-sdk-skill-md) — by longtho638-jpg
+
+- [developer-experience](https://skillsmp.com/skills/absolutelyskilled-absolutelyskilled-skills-developer-experience-skill-md) — by AbsolutelySkilled
+	- [GitHub](https://github.com/AbsolutelySkilled/AbsolutelySkilled/tree/main/skills/developer-experience)
+
+- [developer-advocacy](https://skillsmp.com/skills/neversight-learn-skills-dev-data-skills-md-absolutelyskilled-absolutelyskilled-developer-advocacy-skill-md) — by NeverSight
+	- [GitHub](https://github.com/NeverSight/learn-skills.dev/tree/main/data/skills-md/absolutelyskilled/absolutelyskilled/developer-advocacy)
+
+- [afrexai-devrel-engine](https://skillsmp.com/skills/dvcrn-openclaw-skills-marketplace-plugins-1kalin-afrexai-devrel-engine-skills-afrexai-devrel-engine-skill-md) — by dvcrn
+	- [GitHub](https://github.com/dvcrn/openclaw-skills-marketplace/tree/main/plugins/1kalin--afrexai-devrel-engine/skills/afrexai-devrel-engine)
+
+### Technical Writing & Documentation
+
+- [documentation-writer](https://skillsmp.com/skills/github-awesome-copilot-skills-documentation-writer-skill-md) — by github
+	- [GitHub](https://github.com/github/awesome-copilot-skills)
+
+- [documentation](https://skillsmp.com/skills/sickn33-antigravity-awesome-skills-skills-documentation-skill-md) — by sickn33
+	- [GitHub](https://github.com/sickn33/antigravity-awesome-skills)
+
+- [api-documentation](https://skillsmp.com/skills/sickn33-antigravity-awesome-skills-skills-api-documentation-skill-md) — by sickn33
+	- [GitHub](https://github.com/sickn33/antigravity-awesome-skills)
+
+- [api-documentation-generator](https://skillsmp.com/skills/luongnv89-claude-howto-03-skills-doc-generator-skill-md) — by luongnv89
+	- [GitHub](https://github.com/luongnv89/claude-howto)
+
+- [documentation-builder](https://skillsmp.com/skills/partme-ai-full-stack-skills-skills-dev-utils-skills-documentation-builder-skill-md) — by partme-ai
+	- [GitHub](https://github.com/partme-ai/full-stack-skills)
+
+- [documentation-patterns](https://skillsmp.com/skills/yonatangross-orchestkit-plugins-ork-skills-documentation-patterns-skill-md) — by yonatangross
+	- [GitHub](https://github.com/yonatangross/orchestkit)
+
+- [technical-writing-pro](https://skillsmp.com/skills/lgili-skillex-skills-technical-writing-pro-skill-md) — by lgili
+	- [GitHub](https://github.com/lgili/skillex/tree/main/skills/technical-writing-pro)
+
+- [technical-writing](https://skillsmp.com/skills/palacioai-modo-prontuario-github-skills-technical-writing-skill-md) — by palacioai
+	- [GitHub](https://github.com/palacioai/modo-prontuario/tree/main/.github/.skills/technical-writing)
+
+- [technical-writing](https://skillsmp.com/skills/mkobit-dotfiles-src-ai-skills-technical-writing-skill-md) — by mkobit
+	- [GitHub](https://github.com/mkobit/dotfiles/tree/main/src/ai/skills/technical-writing)
+
+### Content Creation & Blogging
+
+- [content-creation](https://skillsmp.com/skills/kortix-ai-suna-core-kortix-master-opencode-skills-general-knowledge-worker-content-creation-skill-md) — by kortix-ai
+	- [GitHub](https://github.com/kortix-ai/suna)
+
+- [blog-writing](https://skillsmp.com/skills/sickn33-antigravity-awesome-skills-skills-blog-writing-skill-md) — by sickn33
+	- [GitHub](https://github.com/sickn33/antigravity-awesome-skills)
+
+- [seo-content-optimization](https://skillsmp.com/skills/sickn33-antigravity-awesome-skills-skills-seo-content-optimization-skill-md) — by sickn33
+	- [GitHub](https://github.com/sickn33/antigravity-awesome-skills)
+
+- [newsletter-writing](https://skillsmp.com/skills/sickn33-antigravity-awesome-skills-skills-newsletter-writing-skill-md) — by sickn33
+	- [GitHub](https://github.com/sickn33/antigravity-awesome-skills)
+
+- [copywriting](https://skillsmp.com/skills/sickn33-antigravity-awesome-skills-skills-copywriting-skill-md) — by sickn33
+	- [GitHub](https://github.com/sickn33/antigravity-awesome-skills)
+
+- [content-creation](https://skillsmp.com/skills/fivebucksventures-fiveagents-marketplace-plugins-link-skills-skills-content-creation-skill-md) — by fivebucksventures
+	- [GitHub](https://github.com/fivebucksventures/fiveagents-marketplace/tree/main/plugins/link-skills/skills/content-creation)
+
+- [content-creation](https://skillsmp.com/skills/litaibaiabai-skills-collection-content-creation-skill-md) — by litaibaiabai
+	- [GitHub](https://github.com/litaibaiabai/Skills-Collection/tree/main/content-creation)
+
+- [content-creation](https://skillsmp.com/skills/avav25-ai-assets-claude-skills-content-creation-skill-md) — by avav25
+	- [GitHub](https://github.com/avav25/ai-assets/tree/main/.claude/skills/content-creation)
+
+### Public Speaking & Presentations
+
+- [presentation-structure](https://skillsmp.com/skills/shanraisshan-claude-code-best-practice-claude-skills-presentation-presentation-structure-skill-md) — by shanraisshan
+	- [GitHub](https://github.com/shanraisshan/claude-code-best-practice)
+
+- [presentation-styling](https://skillsmp.com/skills/shanraisshan-claude-code-best-practice-claude-skills-presentation-presentation-styling-skill-md) — by shanraisshan
+	- [GitHub](https://github.com/shanraisshan/claude-code-best-practice)
+
+- [presentations](https://skillsmp.com/skills/kortix-ai-suna-core-kortix-master-opencode-skills-general-knowledge-worker-presentations-skill-md) — by kortix-ai
+	- [GitHub](https://github.com/kortix-ai/suna)
+
+- [slide-deck-creator](https://skillsmp.com/skills/sickn33-antigravity-awesome-skills-skills-slide-deck-creator-skill-md) — by sickn33
+	- [GitHub](https://github.com/sickn33/antigravity-awesome-skills)
+
+- [presentation](https://skillsmp.com/skills/zm2231-personal-os-cowork-claude-skills-presentation-skill-md) — by zm2231
+	- [GitHub](https://github.com/zm2231/personal-os-cowork/tree/main/.claude/skills/presentation)
+
+- [presentation-design](https://skillsmp.com/skills/markschue-agent-skills-skills-presentation-design-skill-md) — by MarkSchue
+	- [GitHub](https://github.com/MarkSchue/agent-skills/tree/main/skills/presentation-design)
+
+### Community Building & Management
+
+- [community-engagement](https://skillsmp.com/skills/sickn33-antigravity-awesome-skills-skills-community-engagement-skill-md) — by sickn33
+	- [GitHub](https://github.com/sickn33/antigravity-awesome-skills)
+
+- [social-media-management](https://skillsmp.com/skills/sickn33-antigravity-awesome-skills-skills-social-media-management-skill-md) — by sickn33
+	- [GitHub](https://github.com/sickn33/antigravity-awesome-skills)
+
+- [community-management](https://skillsmp.com/skills/kortix-ai-suna-core-kortix-master-opencode-skills-general-knowledge-worker-community-management-skill-md) — by kortix-ai
+	- [GitHub](https://github.com/kortix-ai/suna)
+
+- [discord-bot-development](https://skillsmp.com/skills/sickn33-antigravity-awesome-skills-skills-discord-bot-development-skill-md) — by sickn33
+	- [GitHub](https://github.com/sickn33/antigravity-awesome-skills)
+
+- [game-community-management](https://skillsmp.com/skills/winbda-claude-skills-collection-skills-game-community-management-skill-md) — by Winbda
+	- [GitHub](https://github.com/Winbda/claude-skills-collection/tree/master/skills/game-community-management)
+
+- [crypto-community-management](https://skillsmp.com/skills/winbda-claude-skills-collection-skills-crypto-community-management-skill-md) — by Winbda
+	- [GitHub](https://github.com/Winbda/claude-skills-collection/tree/master/skills/crypto-community-management)
+
+- [discord-community-management](https://skillsmp.com/skills/shiftshapr-agent-lab-cursor-skills-discord-community-management-skill-md) — by shiftshapr
+	- [GitHub](https://github.com/shiftshapr/agent-lab/tree/main/.cursor/skills/discord-community-management)
+
+### Code Review & Developer Tools
+
+- [code-reviewer](https://skillsmp.com/skills/google-gemini-gemini-cli-gemini-skills-code-reviewer-skill-md) — by google-gemini
+	- [GitHub](https://github.com/google-gemini/gemini-cli)
+
+- [code-reviewer](https://skillsmp.com/skills/shubhamsaboo-awesome-llm-apps-awesome-agent-skills-code-reviewer-skill-md) — by Shubhamsaboo
+	- [GitHub](https://github.com/Shubhamsaboo/awesome-llm-apps)
+
+- [code-review](https://skillsmp.com/skills/lobehub-lobehub-agents-skills-code-review-skill-md) — by lobehub
+	- [GitHub](https://github.com/lobehub/lobehub)
+
+- [code-review-excellence](https://skillsmp.com/skills/wshobson-agents-plugins-developer-essentials-skills-code-review-excellence-skill-md) — by wshobson
+	- [GitHub](https://github.com/wshobson/agents-plugins)
+
+- [code-review-specialist](https://skillsmp.com/skills/luongnv89-claude-howto-03-skills-code-review-skill-md) — by luongnv89
+	- [GitHub](https://github.com/luongnv89/claude-howto)
+
+- [code-review](https://skillsmp.com/skills/timi-ty-agent-forge-skills-code-review-skill-md) — by timi-ty
+	- [GitHub](https://github.com/timi-ty/agent-forge/tree/main/skills/code-review)
+
+- [code-review](https://skillsmp.com/skills/zoppy-crm-github-skills-backend-code-review-skill-md) — by Zoppy-crm
+	- [GitHub](https://github.com/Zoppy-crm/.github/tree/development/skills/backend/code-review)
+
+- [code-review](https://skillsmp.com/skills/zm2231-personal-os-cowork-claude-skills-code-review-skill-md) — by zm2231
+	- [GitHub](https://github.com/zm2231/personal-os-cowork/tree/main/.claude/skills/code-review)
+
+### AI & LLM Tools
+
+- [llm-wiki](https://skillsmp.com/skills/nousresearch-hermes-agent-skills-research-llm-wiki-skill-md) — by NousResearch
+	- [GitHub](https://github.com/NousResearch/hermes-agent-skills)
+
+- [prompt-engineering-patterns](https://skillsmp.com/skills/wshobson-agents-plugins-llm-application-dev-skills-prompt-engineering-patterns-skill-md) — by wshobson
+	- [GitHub](https://github.com/wshobson/agents-plugins)
+
+- [llm-evaluation](https://skillsmp.com/skills/wshobson-agents-plugins-llm-application-dev-skills-llm-evaluation-skill-md) — by wshobson
+	- [GitHub](https://github.com/wshobson/agents-plugins)
+
+- [prompt-engineering](https://skillsmp.com/skills/sickn33-antigravity-awesome-skills-skills-prompt-engineering-skill-md) — by sickn33
+	- [GitHub](https://github.com/sickn33/antigravity-awesome-skills)
+
+- [llm-ops](https://skillsmp.com/skills/sickn33-antigravity-awesome-skills-skills-llm-ops-skill-md) — by sickn33
+	- [GitHub](https://github.com/sickn33/antigravity-awesome-skills)
+
+- [llm-structured-output](https://skillsmp.com/skills/sickn33-antigravity-awesome-skills-skills-llm-structured-output-skill-md) — by sickn33
+	- [GitHub](https://github.com/sickn33/antigravity-awesome-skills)
+
+- [llmfit-advisor](https://skillsmp.com/skills/alexsjones-llmfit-skills-llmfit-advisor-skill-md) — by alexsjones
+	- [GitHub](https://github.com/alexsjones/llmfit)
+
+- [llm-evaluation](https://skillsmp.com/skills/projectious-work-processkit-src-skills-llm-evaluation-skill-md) — by projectious-work
+	- [GitHub](https://github.com/projectious-work/processkit/tree/main/src/skills/llm-evaluation)
+
+- [llm-wiki](https://skillsmp.com/skills/cowork-os-cowork-os-resources-skills-llm-wiki-skill-md) — by CoWork-OS
+	- [GitHub](https://github.com/CoWork-OS/CoWork-OS/tree/main/resources/skills/llm-wiki)
+
+- [llm-interaction-awareness](https://skillsmp.com/skills/hiyenwong-ai-collection-collection-skills-llm-interaction-awareness-skill-md) — by hiyenwong
+	- [GitHub](https://github.com/hiyenwong/ai_collection/tree/main/collection/skills/llm-interaction-awareness)
+
+### API Design & Developer Experience
+
+- [api-documentation-writer](https://skillsmp.com/skills/onewave-ai-claude-skills-api-documentation-writer-skill-md) — by OneWave-AI
+	- [GitHub](https://github.com/OneWave-AI/claude-skills)
+
+- [api-documentation-discovery](https://skillsmp.com/skills/majiayu000-claude-skill-registry-skills-data-api-documentation-discovery-skill-md) — by majiayu000
+	- [GitHub](https://github.com/majiayu000/claude-skill-registry)
+
+- [developer-tools](https://skillsmp.com/skills/miles990-claude-software-skills-domain-applications-developer-tools-skill-md) — by miles990
+	- [GitHub](https://github.com/miles990/claude-software-skills)
+
+- [api-design-patterns](https://skillsmp.com/skills/mybono-ai-orchestrator-skills-api-design-patterns-skill-md) — by Mybono
+	- [GitHub](https://github.com/Mybono/ai-orchestrator/tree/main/skills/api-design-patterns)
+
+- [api-design](https://skillsmp.com/skills/0xc000022070-agentic-flake-examples-3-home-manager-skills-api-design-skill-md) — by 0xc000022070
+	- [GitHub](https://github.com/0xc000022070/agentic-flake/tree/main/examples/3-home-manager/skills/api-design)
+
+- [api-design](https://skillsmp.com/skills/projectious-work-processkit-src-skills-api-design-skill-md) — by projectious-work
+	- [GitHub](https://github.com/projectious-work/processkit/tree/main/src/skills/api-design)
 
 ## Related
 
