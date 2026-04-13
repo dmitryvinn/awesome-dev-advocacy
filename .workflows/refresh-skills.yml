@@ -1,0 +1,64 @@
+name: Refresh Agent Skills
+
+on:
+  # Weekly — Sunday 06:00 UTC (well within SkillsMP rate limits)
+  schedule:
+    - cron: '0 6 * * 0'
+
+  # Manual trigger
+  workflow_dispatch:
+
+jobs:
+  refresh-skills:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout (full history)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GH_PAT || github.token }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Refresh skills from SkillsMP API
+        env:
+          SKILLSMP_API_KEY: ${{ secrets.SKILLSMP_API_KEY }}
+        run: node scripts/refresh-skills.mjs
+
+      - name: Check for changes
+        id: changes
+        run: |
+          if git diff --quiet README.md; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "No skill changes detected"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            echo "Changes detected:"
+            git diff --stat README.md
+          fi
+
+      - name: Commit and push
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          TOTAL=$(jq -r '.totalSkills' scripts/skills-refresh-report.json)
+          NEW=$(jq -r '.newSkillsAdded' scripts/skills-refresh-report.json)
+          git add README.md scripts/skills-refresh-report.json
+          git commit -m "chore(skills): refresh Agent Skills — ${TOTAL} total, ${NEW} new"
+          git push
+
+      - name: Upload refresh report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: skills-refresh-${{ github.run_id }}
+          path: scripts/skills-refresh-report.json
+          retention-days: 30
