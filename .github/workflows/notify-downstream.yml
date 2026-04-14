@@ -1,0 +1,19 @@
+name: Notify Downstream
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'README.md'
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger devrelacademy.com content sync
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.DOWNSTREAM_PAT }}
+          repository: dmitryvinn/devrelacademy.com
+          event-type: upstream-content-changed
+          client-payload: '{"source": "awesome-dev-advocacy", "trigger": "readme-push"}'
