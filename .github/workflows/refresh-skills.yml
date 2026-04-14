@@ -1,11 +1,8 @@
 name: Refresh Agent Skills
 
 on:
-  # Weekly — Sunday 06:00 UTC (well within SkillsMP rate limits)
   schedule:
-    - cron: '0 6 * * 0'
-
-  # Manual trigger
+    - cron: '0 6 * * 0'   # Weekly — Sunday 06:00 UTC
   workflow_dispatch:
 
 jobs:
@@ -14,7 +11,6 @@ jobs:
     timeout-minutes: 15
     permissions:
       contents: write
-
     steps:
       - name: Checkout (full history)
         uses: actions/checkout@v4
