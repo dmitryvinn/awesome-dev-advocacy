@@ -1,0 +1,97 @@
+name: Resource Freshness Audit
+
+on:
+  schedule:
+    - cron: '0 9 1 * *'   # Monthly — 1st of month 09:00 UTC
+  workflow_dispatch:
+
+jobs:
+  freshness-audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      issues: write
+      contents: read
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Deep link check with Lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --verbose
+            --no-progress
+            --accept 200,204,301,302,307,308
+            --timeout 60
+            --max-retries 5
+            --exclude-mail
+            --max-concurrency 5
+            README.md
+          output: freshness-report.md
+          fail: false
+
+      - name: Create or update freshness issue
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const report = fs.readFileSync('freshness-report.md', 'utf8');
+            const failures = (report.match(/\[FAIL\]|\[ERROR\]/g) || []).length;
+            const redirects = (report.match(/\[REDIRECT\]/g) || []).length;
+            const problems = failures + redirects;
+            if (problems === 0) {
+              console.log('All resources healthy — skipping issue');
+              return;
+            }
+
+            const body = [
+              `## Resource Freshness Audit`,
+              ``,
+              `Monthly audit found **${failures}** broken and **${redirects}** redirected link(s).`,
+              ``,
+              `<details><summary>Full Report</summary>`,
+              ``,
+              '```',
+              report,
+              '```',
+              `</details>`,
+              ``,
+              `_Generated on ${new Date().toISOString().split('T')[0]}._`,
+            ].join('\n');
+
+            const { data: issues } = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              labels: 'freshness-audit',
+              per_page: 1,
+            });
+
+            const title = `Freshness Audit — ${failures} broken, ${redirects} redirected`;
+
+            if (issues.length > 0) {
+              await github.rest.issues.update({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issues[0].number,
+                title,
+                body,
+              });
+            } else {
+              await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title,
+                body,
+                labels: ['freshness-audit'],
+              });
+            }
+
+      - name: Upload report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: freshness-report-${{ github.run_id }}
+          path: freshness-report.md
+          retention-days: 90
