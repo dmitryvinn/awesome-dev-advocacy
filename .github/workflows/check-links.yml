@@ -1,0 +1,93 @@
+name: Check Links
+
+on:
+  schedule:
+    - cron: '0 8 * * 1'   # Weekly — Monday 08:00 UTC
+  workflow_dispatch:
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      issues: write
+      contents: read
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Check README links with Lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --verbose
+            --no-progress
+            --accept 200,204,301,302,307,308
+            --timeout 30
+            --max-retries 3
+            --exclude-mail
+            README.md
+          output: lychee-report.md
+          fail: false
+
+      - name: Create or update issue if broken links found
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const report = fs.readFileSync('lychee-report.md', 'utf8');
+            // Count failures (lines starting with [FAIL] or [ERROR])
+            const failures = (report.match(/\[FAIL\]|\[ERROR\]/g) || []).length;
+            if (failures === 0) {
+              console.log('All links healthy — skipping issue');
+              return;
+            }
+
+            const body = [
+              `## Broken Links Report`,
+              ``,
+              `The weekly link checker found **${failures}** broken link(s) in README.md.`,
+              ``,
+              `<details><summary>Full Report</summary>`,
+              ``,
+              '```',
+              report,
+              '```',
+              `</details>`,
+              ``,
+              `_Generated on ${new Date().toISOString().split('T')[0]}._`,
+            ].join('\n');
+
+            const { data: issues } = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              labels: 'broken-links',
+              per_page: 1,
+            });
+
+            if (issues.length > 0) {
+              await github.rest.issues.update({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issues[0].number,
+                title: `Broken Links — ${failures} link(s) need attention`,
+                body,
+              });
+            } else {
+              await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title: `Broken Links — ${failures} link(s) need attention`,
+                body,
+                labels: ['broken-links'],
+              });
+            }
+
+      - name: Upload report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: link-check-${{ github.run_id }}
+          path: lychee-report.md
+          retention-days: 30
