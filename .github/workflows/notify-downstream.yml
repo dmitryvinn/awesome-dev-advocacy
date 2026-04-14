@@ -4,7 +4,10 @@ on:
   push:
     branches: [main]
     paths:
-      - 'README.md'
+      - 'conferences.json'
+  workflow_dispatch:    # ← add this line
+
+      
 
 jobs:
   notify:
