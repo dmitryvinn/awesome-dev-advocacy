@@ -2067,6 +2067,9 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 
 ### Developer Advocacy & Relations
 
+- [developer-advocacy](https://skillsmp.com/skills/cody-w-tucker-skills-skills-developer-advocacy-skill-md) — by Cody-W-Tucker
+	- [GitHub](https://github.com/Cody-W-Tucker/skills/tree/main/skills/developer-advocacy)
+
 - [developer-advocacy](https://skillsmp.com/skills/meghal86-stacksignal-agents-skills-developer-advocacy-skill-md) — by meghal86
 	- [GitHub](https://github.com/meghal86/stacksignal/tree/main/.agents/skills/developer-advocacy)
 
@@ -2085,20 +2088,17 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [developer-experience](https://skillsmp.com/skills/absolutelyskilled-absolutelyskilled-skills-developer-experience-skill-md) — by AbsolutelySkilled
 	- [GitHub](https://github.com/AbsolutelySkilled/AbsolutelySkilled/tree/main/skills/developer-experience)
 
-- [developer-advocacy](https://skillsmp.com/skills/neversight-learn-skills-dev-data-skills-md-absolutelyskilled-absolutelyskilled-developer-advocacy-skill-md) — by NeverSight
-	- [GitHub](https://github.com/NeverSight/learn-skills.dev/tree/main/data/skills-md/absolutelyskilled/absolutelyskilled/developer-advocacy)
-
 - [developer-experience](https://skillsmp.com/skills/neversight-learn-skills-dev-data-skills-md-absolutelyskilled-absolutelyskilled-developer-experience-skill-md) — by NeverSight
 	- [GitHub](https://github.com/NeverSight/learn-skills.dev/tree/main/data/skills-md/absolutelyskilled/absolutelyskilled/developer-experience)
 
-- [developer-advocacy](https://skillsmp.com/skills/esokullu-learn-skills-dev-data-skills-md-absolutelyskilled-absolutelyskilled-developer-advocacy-skill-md) — by esokullu
-	- [GitHub](https://github.com/esokullu/learn-skills.dev/tree/main/data/skills-md/absolutelyskilled/absolutelyskilled/developer-advocacy)
+- [developer-advocacy](https://skillsmp.com/skills/neversight-learn-skills-dev-data-skills-md-absolutelyskilled-absolutelyskilled-developer-advocacy-skill-md) — by NeverSight
+	- [GitHub](https://github.com/NeverSight/learn-skills.dev/tree/main/data/skills-md/absolutelyskilled/absolutelyskilled/developer-advocacy)
 
 - [developer-experience](https://skillsmp.com/skills/esokullu-learn-skills-dev-data-skills-md-absolutelyskilled-absolutelyskilled-developer-experience-skill-md) — by esokullu
 	- [GitHub](https://github.com/esokullu/learn-skills.dev/tree/main/data/skills-md/absolutelyskilled/absolutelyskilled/developer-experience)
 
-- [developer-experience](https://skillsmp.com/skills/websitetalkingheadsvideo-valleybynight-agent-skills-developer-experience-skill-md) — by websitetalkingheadsvideo
-	- [GitHub](https://github.com/websitetalkingheadsvideo/ValleyByNight/tree/main/.agent/skills/developer-experience)
+- [developer-advocacy](https://skillsmp.com/skills/esokullu-learn-skills-dev-data-skills-md-absolutelyskilled-absolutelyskilled-developer-advocacy-skill-md) — by esokullu
+	- [GitHub](https://github.com/esokullu/learn-skills.dev/tree/main/data/skills-md/absolutelyskilled/absolutelyskilled/developer-advocacy)
 
 - [developer-advocacy](https://skillsmp.com/skills/websitetalkingheadsvideo-valleybynight-agent-skills-developer-advocacy-skill-md) — by websitetalkingheadsvideo
 	- [GitHub](https://github.com/websitetalkingheadsvideo/ValleyByNight/tree/main/.agent/skills/developer-advocacy)
@@ -2106,17 +2106,17 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [basic-dremio-rest-api](https://skillsmp.com/skills/developer-advocacy-dremio-dremio-skills-bundle-basic-dremio-skill-skill-md) — by developer-advocacy-dremio
 	- [GitHub](https://github.com/developer-advocacy-dremio/dremio-skills-bundle/tree/main/basic-dremio-skill)
 
-- [dremio-iceberg-operations](https://skillsmp.com/skills/developer-advocacy-dremio-dremio-skills-bundle-dremio-iceberg-skill-skill-md) — by developer-advocacy-dremio
-	- [GitHub](https://github.com/developer-advocacy-dremio/dremio-skills-bundle/tree/main/dremio-iceberg-skill)
-
-- [dremio-lakehouse-modeling](https://skillsmp.com/skills/developer-advocacy-dremio-dremio-skills-bundle-dremio-lakehouse-modeling-skill-skill-md) — by developer-advocacy-dremio
-	- [GitHub](https://github.com/developer-advocacy-dremio/dremio-skills-bundle/tree/main/dremio-lakehouse-modeling-skill)
-
 - [dremio-python-libraries](https://skillsmp.com/skills/developer-advocacy-dremio-dremio-skills-bundle-dremio-python-skill-skill-md) — by developer-advocacy-dremio
 	- [GitHub](https://github.com/developer-advocacy-dremio/dremio-skills-bundle/tree/main/dremio-python-skill)
 
 - [dremio-sql-reference](https://skillsmp.com/skills/developer-advocacy-dremio-dremio-skills-bundle-dremio-sql-skill-skill-md) — by developer-advocacy-dremio
 	- [GitHub](https://github.com/developer-advocacy-dremio/dremio-skills-bundle/tree/main/dremio-sql-skill)
+
+- [dremio-lakehouse-modeling](https://skillsmp.com/skills/developer-advocacy-dremio-dremio-skills-bundle-dremio-lakehouse-modeling-skill-skill-md) — by developer-advocacy-dremio
+	- [GitHub](https://github.com/developer-advocacy-dremio/dremio-skills-bundle/tree/main/dremio-lakehouse-modeling-skill)
+
+- [dremio-iceberg-operations](https://skillsmp.com/skills/developer-advocacy-dremio-dremio-skills-bundle-dremio-iceberg-skill-skill-md) — by developer-advocacy-dremio
+	- [GitHub](https://github.com/developer-advocacy-dremio/dremio-skills-bundle/tree/main/dremio-iceberg-skill)
 
 - [dremio-connector-guide](https://skillsmp.com/skills/developer-advocacy-dremio-dremio-skills-bundle-dremio-connector-skill-skill-md) — by developer-advocacy-dremio
 	- [GitHub](https://github.com/developer-advocacy-dremio/dremio-skills-bundle/tree/main/dremio-connector-skill)
@@ -2237,11 +2237,14 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 
 ### Technical Writing & Documentation
 
+- [technical-writing](https://skillsmp.com/skills/luoling8192-technical-writing-skill-md) — by luoling8192
+	- [GitHub](https://github.com/luoling8192/technical-writing)
+
+- [technical-writing-style](https://skillsmp.com/skills/minijude-skills-skills-technical-writing-style-skill-md) — by MiniJude
+	- [GitHub](https://github.com/MiniJude/skills/tree/main/skills/technical-writing-style)
+
 - [technical-writing](https://skillsmp.com/skills/cosmicstack-labs-mercury-agent-skills-categories-development-technical-writing-skill-md) — by cosmicstack-labs
 	- [GitHub](https://github.com/cosmicstack-labs/mercury-agent-skills/tree/main/categories/development/technical-writing)
-
-- [technical-writing](https://skillsmp.com/skills/tomevault-io-skills-registry-hffmnnj-opencode-goopspec-technical-writing-skill-md) — by tomevault-io
-	- [GitHub](https://github.com/tomevault-io/skills-registry/tree/main/hffmnnj--opencode-goopspec--technical-writing)
 
 - [technical-writing](https://skillsmp.com/skills/tomevault-io-skills-registry-frankxai-arcanea-technical-writing-skill-md) — by tomevault-io
 	- [GitHub](https://github.com/tomevault-io/skills-registry/tree/main/frankxai--arcanea--technical-writing)
@@ -2249,11 +2252,17 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [technical-writing](https://skillsmp.com/skills/tomevault-io-skills-registry-dauquangthanh-hanoi-rainbow-technical-writing-skill-md) — by tomevault-io
 	- [GitHub](https://github.com/tomevault-io/skills-registry/tree/main/dauquangthanh--hanoi-rainbow--technical-writing)
 
+- [technical-writing](https://skillsmp.com/skills/tomevault-io-skills-registry-hffmnnj-opencode-goopspec-technical-writing-skill-md) — by tomevault-io
+	- [GitHub](https://github.com/tomevault-io/skills-registry/tree/main/hffmnnj--opencode-goopspec--technical-writing)
+
 - [technical-writing](https://skillsmp.com/skills/mogassama-pi-agent-config-skills-technical-writing-skill-md) — by mogassama
 	- [GitHub](https://github.com/mogassama/pi-agent-config/tree/main/skills/technical-writing)
 
 - [technical-writing](https://skillsmp.com/skills/rjdellecese-confect-cursor-skills-technical-writing-skill-md) — by rjdellecese
 	- [GitHub](https://github.com/rjdellecese/confect/tree/main/.cursor/skills/technical-writing)
+
+- [technical-writing](https://skillsmp.com/skills/uechikohei-persona-skills-core-skills-technical-writing-skill-md) — by uechikohei
+	- [GitHub](https://github.com/uechikohei/persona-skills-core/tree/main/skills/technical-writing)
 
 - [technical-writing-pro](https://skillsmp.com/skills/truongnat-skills-skills-technical-writing-pro-skill-md) — by truongnat
 	- [GitHub](https://github.com/truongnat/skills/tree/main/skills/technical-writing-pro)
@@ -2288,80 +2297,86 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [technical-writing](https://skillsmp.com/skills/betofilippi-nxt-claude-plugins-skills-doc-technical-writing-skill-md) — by betofilippi
 	- [GitHub](https://github.com/betofilippi/nxt-claude-plugins/tree/main/skills/doc-technical-writing)
 
-- [technical-writing-editor](https://skillsmp.com/skills/harmonbhasin-dotfiles-claude-skills-technical-writing-editor-skill-md) — by harmonbhasin
-	- [GitHub](https://github.com/harmonbhasin/dotfiles/tree/main/claude/skills/technical-writing-editor)
+- [documentation-and-adrs](https://skillsmp.com/skills/vtrka-supervibe-skills-documentation-and-adrs-skill-md) — by vTRKA
+	- [GitHub](https://github.com/vTRKA/supervibe/tree/main/skills/documentation-and-adrs)
 
-- [technical-writing](https://skillsmp.com/skills/elophanto-elophanto-skills-technical-writing-skill-md) — by elophanto
-	- [GitHub](https://github.com/elophanto/EloPhanto/tree/main/skills/technical-writing)
+- [documentation-audit](https://skillsmp.com/skills/thezenmaestro-finance-intel-claude-skills-documentation-audit-skill-md) — by thezenmaestro
+	- [GitHub](https://github.com/thezenmaestro/finance-intel/tree/dev/.claude/skills/documentation-audit)
 
-- [technical-writing-style](https://skillsmp.com/skills/jd-santos-dotfiles-agents-agents-skills-technical-writing-style-skill-md) — by jd-santos
-	- [GitHub](https://github.com/jd-santos/Dotfiles/tree/main/agents/.agents/skills/technical-writing-style)
+- [documentation](https://skillsmp.com/skills/sudocarlos-tailrelay-agents-skills-documentation-skill-md) — by sudocarlos
+	- [GitHub](https://github.com/sudocarlos/tailrelay/tree/main/.agents/skills/documentation)
 
-- [documentation-and-adrs](https://skillsmp.com/skills/sylvanus4-github-to-notion-sync-claude-skills-documentation-and-adrs-skill-md) — by sylvanus4
-	- [GitHub](https://github.com/sylvanus4/github-to-notion-sync/tree/main/.claude/skills/documentation-and-adrs)
+- [documentation-generation](https://skillsmp.com/skills/nitrr-official-campusos-github-skills-documentation-generation-skill-md) — by NITRR-Official
+	- [GitHub](https://github.com/NITRR-Official/CampusOS/tree/main/.github/skills/documentation-generation)
 
-- [documentation-management](https://skillsmp.com/skills/williamzujkowski-nexus-agents-skills-documentation-management-skill-md) — by williamzujkowski
-	- [GitHub](https://github.com/williamzujkowski/nexus-agents/tree/main/skills/documentation-management)
+- [documentation-engineer](https://skillsmp.com/skills/skitemplar-ultron-skills-catalog-docs-documentation-engineer-skill-md) — by SkiTemplar
+	- [GitHub](https://github.com/SkiTemplar/ultron/tree/main/skills-catalog/docs/documentation-engineer)
 
-- [documentation-and-adrs](https://skillsmp.com/skills/peakdong68-my-agent-skills-skills-documentation-and-adrs-skill-md) — by peakdong68
-	- [GitHub](https://github.com/peakdong68/my-agent-skills/tree/main/skills/documentation-and-adrs)
+- [documentation](https://skillsmp.com/skills/paulpas-agent-skill-router-skills-agent-documentation-skill-md) — by paulpas
+	- [GitHub](https://github.com/paulpas/agent-skill-router/tree/main/skills/agent/documentation)
 
-- [documentation](https://skillsmp.com/skills/jacob-balslev-skill-graph-skills-documentation-skill-md) — by jacob-balslev
-	- [GitHub](https://github.com/jacob-balslev/skill-graph/tree/main/skills/documentation)
+- [documentation-maintenance](https://skillsmp.com/skills/alexeyplatkovsky-playforge-ai-skills-documentation-maintenance-skill-md) — by AlexeyPlatkovsky
+	- [GitHub](https://github.com/AlexeyPlatkovsky/playforge/tree/main/.ai/skills/documentation-maintenance)
 
-- [documentation](https://skillsmp.com/skills/jacob-balslev-skill-graph-marketplace-skills-documentation-skill-md) — by jacob-balslev
-	- [GitHub](https://github.com/jacob-balslev/skill-graph/tree/main/marketplace/skills/documentation)
+- [documentation-audit](https://skillsmp.com/skills/yogsoth-ai-knowledge-acquisition-skills-documentation-audit-skill-md) — by yogsoth-ai
+	- [GitHub](https://github.com/yogsoth-ai/knowledge-acquisition/tree/main/skills/documentation-audit)
 
-- [documentation-writer](https://skillsmp.com/skills/theding0x-capital-simulator-claude-skills-documentation-writer-skill-md) — by theding0x
-	- [GitHub](https://github.com/theding0x/capital-simulator/tree/main/.claude/skills/documentation-writer)
+- [documentation](https://skillsmp.com/skills/kieranpotts-gitex-skills-documentation-skill-md) — by kieranpotts
+	- [GitHub](https://github.com/kieranpotts/gitex/tree/dev/skills/documentation)
 
-- [documentation-and-adrs](https://skillsmp.com/skills/sylvanus4-github-to-notion-sync-cursor-skills-addyosmani-documentation-and-adrs-skill-md) — by sylvanus4
-	- [GitHub](https://github.com/sylvanus4/github-to-notion-sync/tree/main/.cursor/skills/addyosmani/documentation-and-adrs)
+- [generating-documentation](https://skillsmp.com/skills/richard-devbot-sdlc-rstack-skills-documentation-writing-documentation-skill-md) — by richard-devbot
+	- [GitHub](https://github.com/richard-devbot/SDLC-rstack/tree/main/skills/documentation-writing/documentation)
 
-- [documentation](https://skillsmp.com/skills/nvidiagameworks-toolkit-remix-claude-skills-documentation-skill-md) — by NVIDIAGameWorks
-	- [GitHub](https://github.com/NVIDIAGameWorks/toolkit-remix/tree/main/.claude/skills/documentation)
+- [creating-documentation-templates](https://skillsmp.com/skills/richard-devbot-sdlc-rstack-skills-documentation-writing-documentation-templates-skill-md) — by richard-devbot
+	- [GitHub](https://github.com/richard-devbot/SDLC-rstack/tree/main/skills/documentation-writing/documentation-templates)
 
-- [documentation](https://skillsmp.com/skills/nvidiagameworks-toolkit-remix-agents-skills-documentation-skill-md) — by NVIDIAGameWorks
-	- [GitHub](https://github.com/NVIDIAGameWorks/toolkit-remix/tree/main/.agents/skills/documentation)
+- [documentation-lookup](https://skillsmp.com/skills/punkharb-autoport-claude-skills-documentation-lookup-skill-md) — by punkharb
+	- [GitHub](https://github.com/punkharb/autoport/tree/main/.claude/skills/documentation-lookup)
 
-- [documentation-and-adrs](https://skillsmp.com/skills/vignesh2027-ai-agent-skills-skills-documentation-and-adrs-skill-md) — by vignesh2027
-	- [GitHub](https://github.com/vignesh2027/AI-AGENT-SKILLS/tree/main/skills/documentation-and-adrs)
+- [documentation](https://skillsmp.com/skills/raultorres2603-complai-opencode-skills-documentation-skill-md) — by raultorres2603
+	- [GitHub](https://github.com/raultorres2603/ComplAI/tree/master/.opencode/skills/documentation)
 
-- [documentation-lifecycle](https://skillsmp.com/skills/dekoza-oh-my-slop-skills-documentation-lifecycle-skill-md) — by dekoza
-	- [GitHub](https://github.com/dekoza/oh-my-slop/tree/main/skills/documentation-lifecycle)
+- [documentation](https://skillsmp.com/skills/cvscarlos-ai-skills-skills-documentation-skill-md) — by cvscarlos
+	- [GitHub](https://github.com/cvscarlos/ai-skills/tree/main/skills/documentation)
 
-- [documentation-lifecycle](https://skillsmp.com/skills/sirmarkz-staff-engineer-mode-specialists-documentation-lifecycle-skill-md) — by sirmarkz
-	- [GitHub](https://github.com/sirmarkz/staff-engineer-mode/tree/main/specialists/documentation-lifecycle)
+- [documentation](https://skillsmp.com/skills/kreek-agent-booster-pack-agent-booster-pack-skills-documentation-skill-md) — by kreek
+	- [GitHub](https://github.com/kreek/agent-booster-pack/tree/main/agent-booster-pack/skills/documentation)
 
-- [documentation-and-adrs](https://skillsmp.com/skills/terminalskills-skills-skills-documentation-and-adrs-skill-md) — by TerminalSkills
-	- [GitHub](https://github.com/TerminalSkills/skills/tree/main/skills/documentation-and-adrs)
+- [documentation-sync](https://skillsmp.com/skills/movahedan-monobun-cursor-skills-documentation-sync-skill-md) — by movahedan
+	- [GitHub](https://github.com/movahedan/monobun/tree/main/.cursor/skills/documentation-sync)
 
-- [documentation](https://skillsmp.com/skills/2rns4s-mio-skills-documentation-skill-md) — by 2rns4s
-	- [GitHub](https://github.com/2rns4s/MIO/tree/main/skills/documentation)
+- [documentation-proposal](https://skillsmp.com/skills/dagorym-ssw-myteam-agent-builder-documentation-proposal-skill-md) — by dagorym
+	- [GitHub](https://github.com/dagorym/SSW/tree/master/.myteam/agent-builder/documentation-proposal)
 
-- [documentation-and-adrs](https://skillsmp.com/skills/b67687-agentic-workflows-skills-documentation-and-adrs-skill-md) — by B67687
-	- [GitHub](https://github.com/B67687/agentic-workflows/tree/main/skills/documentation-and-adrs)
+- [documentation-management](https://skillsmp.com/skills/nexus-substrate-nexus-agents-skills-documentation-management-skill-md) — by nexus-substrate
+	- [GitHub](https://github.com/nexus-substrate/nexus-agents/tree/main/skills/documentation-management)
 
-- [documentation](https://skillsmp.com/skills/vinacogroup-flowctl-cursor-skills-core-documentation-skill-md) — by vinacogroup
-	- [GitHub](https://github.com/vinacogroup/flowctl/tree/main/.cursor/skills/core/documentation)
+- [documentation-writer](https://skillsmp.com/skills/yuridefranca-ai-prompts-src-skills-documentation-writer-skill-md) — by yuridefranca
+	- [GitHub](https://github.com/yuridefranca/ai-prompts/tree/main/src/skills/documentation-writer)
 
-- [documentation](https://skillsmp.com/skills/ibuyspy-shared-basecoat-skills-documentation-skill-md) — by IBuySpy-Shared
-	- [GitHub](https://github.com/IBuySpy-Shared/basecoat/tree/main/skills/documentation)
+- [documentation](https://skillsmp.com/skills/vinir-rb-hello-fian-as-backend-claude-skills-documentation-skill-md) — by ViniR-RB
+	- [GitHub](https://github.com/ViniR-RB/hello_fian-as_backend/tree/main/.claude/skills/documentation)
 
-- [documentation-reviewer](https://skillsmp.com/skills/adlaws-ai-skills-collection-skills-documentation-reviewer-skill-md) — by adlaws
-	- [GitHub](https://github.com/adlaws/ai-skills-collection/tree/master/skills/documentation-reviewer)
+- [api-documentation](https://skillsmp.com/skills/paulpas-agent-skill-router-skills-agent-api-documentation-skill-md) — by paulpas
+	- [GitHub](https://github.com/paulpas/agent-skill-router/tree/main/skills/agent/api-documentation)
 
-- [documentation](https://skillsmp.com/skills/ktruchcz-copilot-test-ktruchcz-github-skills-documentation-skill-md) — by ktruchcz
-	- [GitHub](https://github.com/ktruchcz/copilot-test-ktruchcz/tree/main/.github/skills/documentation)
+- [api-documentation](https://skillsmp.com/skills/julio211916-tlanticad-studio-v0-1-alpha-skills-ju-skills-api-documentation-skill-md) — by julio211916
+	- [GitHub](https://github.com/julio211916/TlantiCAD-Studio-V0.1-alpha/tree/main/skills/ju/skills/api-documentation)
 
-- [documentation](https://skillsmp.com/skills/josef32-opflow-claude-plugin-plugin-skills-documentation-skill-md) — by josef32
-	- [GitHub](https://github.com/josef32/opflow-claude-plugin/tree/main/plugin/skills/documentation)
+- [writing-api-documentation](https://skillsmp.com/skills/richard-devbot-sdlc-rstack-skills-documentation-writing-api-documentation-skill-md) — by richard-devbot
+	- [GitHub](https://github.com/richard-devbot/SDLC-rstack/tree/main/skills/documentation-writing/api-documentation)
 
-- [api-documentation](https://skillsmp.com/skills/yvesdarbouze-paperworking-agents-skills-api-documentation-skill-md) — by YvesDarbouze
-	- [GitHub](https://github.com/YvesDarbouze/PaperWorking/tree/main/.agents/skills/api-documentation)
+- [api-documentation-generator](https://skillsmp.com/skills/artubss-skills-claude-code-skills-skills-development-api-documentation-generator-skill-md) — by artubss
+	- [GitHub](https://github.com/artubss/SKILLS-CLAUDE-CODE/tree/master/skills/skills/development/api-documentation-generator)
 
-- [api-documentation-generator](https://skillsmp.com/skills/yvesdarbouze-paperworking-agents-skills-api-documentation-generator-skill-md) — by YvesDarbouze
-	- [GitHub](https://github.com/YvesDarbouze/PaperWorking/tree/main/.agents/skills/api-documentation-generator)
+- [api-documentation-generator](https://skillsmp.com/skills/badhope-ai-skill-skills-ai-api-documentation-generator-skill-md) — by badhope
+	- [GitHub](https://github.com/badhope/AI-SKILL/tree/main/skills/ai/api-documentation-generator)
+
+- [api-documentation](https://skillsmp.com/skills/badhope-ai-skill-skills-ai-api-documentation-skill-md) — by badhope
+	- [GitHub](https://github.com/badhope/AI-SKILL/tree/main/skills/ai/api-documentation)
+
+- [api-documentation](https://skillsmp.com/skills/noreplyx-my-opencode-setup-skills-api-documentation-skill-md) — by noreplyx
+	- [GitHub](https://github.com/noreplyx/my-opencode-setup/tree/main/skills/api-documentation)
 
 - [api-documentation](https://skillsmp.com/skills/cosmicstack-labs-mercury-agent-skills-categories-development-api-documentation-skill-md) — by cosmicstack-labs
 	- [GitHub](https://github.com/cosmicstack-labs/mercury-agent-skills/tree/main/categories/development/api-documentation)
@@ -2371,9 +2386,6 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 
 - [api-documentation](https://skillsmp.com/skills/cblanquera-coding-skills-api-documentation-skill-md) — by cblanquera
 	- [GitHub](https://github.com/cblanquera/coding/tree/main/skills/api-documentation)
-
-- [api-documentation](https://skillsmp.com/skills/paulpas-agent-skill-router-skills-agent-api-documentation-skill-md) — by paulpas
-	- [GitHub](https://github.com/paulpas/agent-skill-router/tree/main/skills/agent/api-documentation)
 
 - [api-documentation-generator](https://skillsmp.com/skills/newmindsgroup-ai-agent-skills-library-dist-skills-api-documentation-generator-skill-md) — by newmindsgroup
 	- [GitHub](https://github.com/newmindsgroup/ai-agent-skills-library/tree/main/dist/skills/api-documentation-generator)
@@ -2387,17 +2399,11 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [api-documentation](https://skillsmp.com/skills/dhruvinrsoni-agentskills-garden-skills-50-documentation-api-documentation-skill-md) — by dhruvinrsoni
 	- [GitHub](https://github.com/dhruvinrsoni/agentskills-garden/tree/main/skills/50-documentation/api-documentation)
 
-- [api-documentation](https://skillsmp.com/skills/noreplyx-my-opencode-setup-skills-api-documentation-skill-md) — by noreplyx
-	- [GitHub](https://github.com/noreplyx/my-opencode-setup/tree/main/skills/api-documentation)
-
 - [api-documentation](https://skillsmp.com/skills/lambdatest-agent-skills-api-skill-api-documentation-skill-md) — by LambdaTest
 	- [GitHub](https://github.com/LambdaTest/agent-skills/tree/main/api-skill/api-documentation)
 
 - [api-documentation](https://skillsmp.com/skills/irahardianto-rugged-gemini-gemini-skills-api-documentation-skill-md) — by irahardianto
 	- [GitHub](https://github.com/irahardianto/rugged-gemini/tree/main/.gemini/skills/api-documentation)
-
-- [api-documentation](https://skillsmp.com/skills/fabioc-aloha-pbi-visual-assistant-github-backup-20260505-skills-local-api-documentation-skill-md) — by fabioc-aloha
-	- [GitHub](https://github.com/fabioc-aloha/PBI-Visual-Assistant/tree/main/.github-backup-20260505/skills/local/api-documentation)
 
 - [api-documentation-generator](https://skillsmp.com/skills/luokai0-ai-agent-skills-by-luo-kai-ai-agent-skills-22-clawhub-skills-sovereign-api-docs-generator-skill-md) — by luokai0
 	- [GitHub](https://github.com/luokai0/ai-agent-skills-by-luo-kai/tree/main/ai-agent-skills/22-clawhub-skills/sovereign-api-docs-generator)
@@ -2411,16 +2417,16 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [api-documentation-generator](https://skillsmp.com/skills/tomevault-io-tomes-kousen-claude-code-training-skills-api-documentation-skill-skill-md) — by tomevault-io
 	- [GitHub](https://github.com/tomevault-io/tomes/tree/main/kousen--claude-code-training/skills/api-documentation-skill)
 
-- [api-documentation-generator](https://skillsmp.com/skills/tomevault-io-tomes-davila7-claude-code-templates-skills-api-documentation-generator-skill-md) — by tomevault-io
-	- [GitHub](https://github.com/tomevault-io/tomes/tree/main/davila7--claude-code-templates/skills/api-documentation-generator)
-
-- [api-documentation](https://skillsmp.com/skills/tomevault-io-skills-registry-bobmatnyc-claude-mpm-skills-api-documentation-skill-md) — by tomevault-io
-	- [GitHub](https://github.com/tomevault-io/skills-registry/tree/main/bobmatnyc--claude-mpm-skills--api-documentation)
-
 ### Content Creation & Marketing
 
 - [content-creation-engine](https://skillsmp.com/skills/graehamwatts-skills-skills-content-creation-engine-skill-md) — by Graehamwatts
 	- [GitHub](https://github.com/Graehamwatts/skills/tree/main/skills/content-creation-engine)
+
+- [content-creation](https://skillsmp.com/skills/hktitan-agents-companies-anthropic-skills-content-creation-skill-md) — by HKTITAN
+	- [GitHub](https://github.com/HKTITAN/agents/tree/main/companies/anthropic/skills/content-creation)
+
+- [content-creation](https://skillsmp.com/skills/anttitevanlinna-agents-102-claude-skills-content-creation-skill-md) — by anttitevanlinna
+	- [GitHub](https://github.com/anttitevanlinna/agents-102/tree/main/.claude/skills/content-creation)
 
 - [content-creation-runner](https://skillsmp.com/skills/onehorizonai-ink-agents-content-creation-runner-skill-md) — by onehorizonai
 	- [GitHub](https://github.com/onehorizonai/ink/tree/main/.agents/content-creation-runner)
@@ -2436,9 +2442,6 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 
 - [content-creation](https://skillsmp.com/skills/s3yed-appie-kit-skills-content-content-creation-skill-md) — by S3YED
 	- [GitHub](https://github.com/S3YED/appie-kit/tree/master/skills/content/content-creation)
-
-- [content-creation](https://skillsmp.com/skills/anttitevanlinna-agents-102-claude-skills-content-creation-skill-md) — by anttitevanlinna
-	- [GitHub](https://github.com/anttitevanlinna/agents-102/tree/main/.claude/skills/content-creation)
 
 - [content-creation](https://skillsmp.com/skills/fivebucksventures-fiveagents-marketplace-plugins-link-skills-skills-content-creation-skill-md) — by fivebucksventures
 	- [GitHub](https://github.com/fivebucksventures/fiveagents-marketplace/tree/main/plugins/link-skills/skills/content-creation)
@@ -2476,8 +2479,11 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [content-creation](https://skillsmp.com/skills/thiagofernandes1987-create-apex-skills-knowledge-work-source-v2-marketing-skills-content-creation-skill-md) — by thiagofernandes1987-create
 	- [GitHub](https://github.com/thiagofernandes1987-create/APEX/tree/main/skills/knowledge-work/_source_v2/marketing/skills/content-creation)
 
-- [content-creation](https://skillsmp.com/skills/thiagofernandes1987-create-apex-skills-marketing-content-creation-skill-md) — by thiagofernandes1987-create
-	- [GitHub](https://github.com/thiagofernandes1987-create/APEX/tree/main/skills/marketing/content-creation)
+- [blog-writing-guide](https://skillsmp.com/skills/badhope-ai-skill-skills-ai-blog-writing-guide-skill-md) — by badhope
+	- [GitHub](https://github.com/badhope/AI-SKILL/tree/main/skills/ai/blog-writing-guide)
+
+- [blog-writing-guide](https://skillsmp.com/skills/basalt-ai-pancake-agents-squads-geo-skills-blog-writing-guide-skill-md) — by basalt-ai
+	- [GitHub](https://github.com/basalt-ai/pancake-agents/tree/main/squads/geo/skills/blog-writing-guide)
 
 - [blog-writing-editor](https://skillsmp.com/skills/frankhjung-cli-tools-files-gemini-skills-blog-writing-editor-skill-md) — by frankhjung
 	- [GitHub](https://github.com/frankhjung/cli-tools/tree/main/files/gemini/skills/blog-writing-editor)
@@ -2512,20 +2518,17 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [blog-writing-guide](https://skillsmp.com/skills/heyabhishekbajpai-endtoend-agents-skills-blog-writing-guide-skill-md) — by heyabhishekbajpai
 	- [GitHub](https://github.com/heyabhishekbajpai/EndtoEnd/tree/main/.agents/skills/blog-writing-guide)
 
-- [blog-writing](https://skillsmp.com/skills/mattppal-skills-skills-blog-writing-skill-md) — by mattppal
-	- [GitHub](https://github.com/mattppal/skills/tree/main/skills/blog-writing)
-
 - [blog-writing](https://skillsmp.com/skills/zhanli-li-zhanli-li-github-io-agents-skills-blog-writing-skill-md) — by Zhanli-Li
 	- [GitHub](https://github.com/Zhanli-Li/Zhanli-Li.github.io/tree/master/.agents/skills/blog-writing)
 
 - [blog-writing-guide](https://skillsmp.com/skills/diegosouzapw-awesome-omni-skills-skills-blog-writing-guide-skill-md) — by diegosouzapw
 	- [GitHub](https://github.com/diegosouzapw/awesome-omni-skills/tree/main/skills/blog-writing-guide)
 
-- [blog-writing-guide-v2](https://skillsmp.com/skills/diegosouzapw-awesome-omni-skills-skills-omni-blog-writing-guide-v2-skill-md) — by diegosouzapw
-	- [GitHub](https://github.com/diegosouzapw/awesome-omni-skills/tree/main/skills_omni/blog-writing-guide-v2)
-
 - [blog-writing-guide](https://skillsmp.com/skills/diegosouzapw-awesome-omni-skills-skills-omni-blog-writing-guide-skill-md) — by diegosouzapw
 	- [GitHub](https://github.com/diegosouzapw/awesome-omni-skills/tree/main/skills_omni/blog-writing-guide)
+
+- [blog-writing-guide-v2](https://skillsmp.com/skills/diegosouzapw-awesome-omni-skills-skills-omni-blog-writing-guide-v2-skill-md) — by diegosouzapw
+	- [GitHub](https://github.com/diegosouzapw/awesome-omni-skills/tree/main/skills_omni/blog-writing-guide-v2)
 
 - [blog-writing](https://skillsmp.com/skills/todesmarz-ruisoft-web-claude-skills-blog-writer-skill-md) — by todesmarz
 	- [GitHub](https://github.com/todesmarz/ruisoft_web/tree/gh-pages/.claude/skills/blog-writer)
@@ -2536,8 +2539,8 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [blog-writing-guide-v2](https://skillsmp.com/skills/diegosouzapw-awesome-omni-skills-skills-blog-writing-guide-v2-skill-md) — by diegosouzapw
 	- [GitHub](https://github.com/diegosouzapw/awesome-omni-skills/tree/main/skills/blog-writing-guide-v2)
 
-- [blog-writing-guide](https://skillsmp.com/skills/ibragimov-oasis-name-navigator-claude-skills-skills-design-design-antigravity-blog-writing-guide-skill-md) — by ibragimov-oasis
-	- [GitHub](https://github.com/ibragimov-oasis/name-navigator/tree/main/.claude/skills/skills-design/design/antigravity-blog-writing-guide)
+- [newsletter-curation](https://skillsmp.com/skills/deathrashed-agents-repos-inference-sh-8-skills-guides-writing-newsletter-curation-skill-md) — by deathrashed
+	- [GitHub](https://github.com/deathrashed/.agents/tree/main/repos/inference-sh-8/skills/guides/writing/newsletter-curation)
 
 - [newsletter-curation](https://skillsmp.com/skills/inference-sh-skills-guides-writing-newsletter-curation-skill-md) — by inference-sh
 	- [GitHub](https://github.com/inference-sh/skills/tree/main/guides/writing/newsletter-curation)
@@ -2578,9 +2581,6 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [newsletter-curation](https://skillsmp.com/skills/neversight-learn-skills-dev-data-skills-md-1nference-sh-skills-newsletter-curation-skill-md) — by NeverSight
 	- [GitHub](https://github.com/NeverSight/learn-skills.dev/tree/main/data/skills-md/1nference-sh/skills/newsletter-curation)
 
-- [newsletter-curation](https://skillsmp.com/skills/pwoprurho-kus-kushub-guides-writing-newsletter-curation-skill-md) — by pwoprurho
-	- [GitHub](https://github.com/pwoprurho/Kus/tree/Main/kushub/guides/writing/newsletter-curation)
-
 - [newsletter-writing](https://skillsmp.com/skills/naluforge-founderos-dist-template-claude-skills-newsletter-newsletter-writing-skill-md) — by NaluForge
 	- [GitHub](https://github.com/NaluForge/founderOS/tree/main/dist/template/.claude/skills/newsletter/newsletter-writing)
 
@@ -2604,62 +2604,62 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [presentation-styling](https://skillsmp.com/skills/recepay6358-claude-code-best-practice-claude-skills-presentation-presentation-styling-skill-md) — by Recepay6358
 	- [GitHub](https://github.com/Recepay6358/claude-code-best-practice/tree/main/.claude/skills/presentation/presentation-styling)
 
-- [presentation-strategist](https://skillsmp.com/skills/sylvanus4-github-to-notion-sync-claude-skills-presentation-strategist-skill-md) — by sylvanus4
-	- [GitHub](https://github.com/sylvanus4/github-to-notion-sync/tree/main/.claude/skills/presentation-strategist)
-
-- [presentation-strategist](https://skillsmp.com/skills/sylvanus4-github-to-notion-sync-cursor-skills-standalone-presentation-strategist-skill-md) — by sylvanus4
-	- [GitHub](https://github.com/sylvanus4/github-to-notion-sync/tree/main/.cursor/skills/standalone/presentation-strategist)
-
-- [presentation-deck](https://skillsmp.com/skills/vtrka-supervibe-skills-presentation-deck-skill-md) — by vTRKA
-	- [GitHub](https://github.com/vTRKA/supervibe/tree/main/skills/presentation-deck)
-
-- [presentation-pro](https://skillsmp.com/skills/marcu-loreto-skill-v1-agent-skills-presentation-pro-skill-md) — by Marcu-Loreto
-	- [GitHub](https://github.com/Marcu-Loreto/Skill_v1/tree/main/.agent/skills/presentation-pro)
-
 - [presentation-orchestrator](https://skillsmp.com/skills/fabrizioid-escaid-setup-skills-presentation-orchestrator-skill-md) — by FabrizioID
 	- [GitHub](https://github.com/FabrizioID/escaid-setup/tree/main/skills/presentation-orchestrator)
 
-- [presentations](https://skillsmp.com/skills/gscheidl88-team-james-skills-presentations-skill-md) — by gscheidl88
-	- [GitHub](https://github.com/gscheidl88/team-james/tree/main/skills/presentations)
+- [presentation-builder](https://skillsmp.com/skills/ownpilot-ownpilot-packages-gateway-data-example-skills-presentation-builder-skill-md) — by ownpilot
+	- [GitHub](https://github.com/ownpilot/OwnPilot/tree/main/packages/gateway/data/example-skills/presentation-builder)
 
-- [presentations](https://skillsmp.com/skills/hmbown-deepseek-tui-crates-tui-assets-skills-presentations-skill-md) — by Hmbown
-	- [GitHub](https://github.com/Hmbown/DeepSeek-TUI/tree/main/crates/tui/assets/skills/presentations)
+- [presentation-builder](https://skillsmp.com/skills/kpachhai-idea-forge-skills-presentations-presentation-builder-skill-md) — by kpachhai
+	- [GitHub](https://github.com/kpachhai/idea-forge/tree/main/skills/presentations/presentation-builder)
 
-- [presentation-prep](https://skillsmp.com/skills/smsilva-linux-claude-skills-presentation-prep-skill-md) — by smsilva
-	- [GitHub](https://github.com/smsilva/linux/tree/main/claude/skills/presentation-prep)
+- [presentation-pro-designer](https://skillsmp.com/skills/dxbmark-presentation-pro-designer-skills-presentation-pro-designer-skill-md) — by DXBMark
+	- [GitHub](https://github.com/DXBMark/presentation-pro-designer/tree/main/skills/presentation-pro-designer)
 
-- [presentation-builder](https://skillsmp.com/skills/941design-claude-plugins-claude-skills-presentation-builder-skill-md) — by 941design
-	- [GitHub](https://github.com/941design/claude-plugins/tree/master/.claude/skills/presentation-builder)
+- [presentation-outline](https://skillsmp.com/skills/jacarty-claude-toolkit-claude-skills-presentation-outline-skill-md) — by jacarty
+	- [GitHub](https://github.com/jacarty/claude-toolkit/tree/main/.claude/skills/presentation-outline)
 
-- [presentation-design](https://skillsmp.com/skills/cosmicstack-labs-mercury-agent-skills-categories-presentation-presentation-design-skill-md) — by cosmicstack-labs
-	- [GitHub](https://github.com/cosmicstack-labs/mercury-agent-skills/tree/main/categories/presentation/presentation-design)
+- [presentation](https://skillsmp.com/skills/yht0827-codex-presentation-kit-skills-presentation-skill-md) — by yht0827
+	- [GitHub](https://github.com/yht0827/codex-presentation-kit/tree/main/skills/presentation)
 
-- [presentation-automation](https://skillsmp.com/skills/cosmicstack-labs-mercury-agent-skills-categories-presentation-presentation-automation-skill-md) — by cosmicstack-labs
-	- [GitHub](https://github.com/cosmicstack-labs/mercury-agent-skills/tree/main/categories/presentation/presentation-automation)
+- [presentation-author](https://skillsmp.com/skills/alorozco53-skills-presentation-author-skill-md) — by alorozco53
+	- [GitHub](https://github.com/alorozco53/skills/tree/main/presentation-author)
 
-- [presentation-hook](https://skillsmp.com/skills/gabrielmoreira-agent-skills-mirror-mirrors-repos-aipoch-medical-research-skills-scientific-skills-academic-writing-presentation-hook-skill-md) — by gabrielmoreira
-	- [GitHub](https://github.com/gabrielmoreira/agent-skills-mirror/tree/main/mirrors/repos/aipoch@medical-research-skills/scientific-skills/Academic Writing/presentation-hook)
+- [presentation](https://skillsmp.com/skills/solomonikvik-svaib-claude-skills-presentation-skill-md) — by SolomonikVik
+	- [GitHub](https://github.com/SolomonikVik/svaib/tree/main/.claude/skills/presentation)
 
-- [presentation-decks](https://skillsmp.com/skills/tajo9128-biodockify-pharma-ai-plugins-office-skills-presentation-decks-skill-md) — by tajo9128
-	- [GitHub](https://github.com/tajo9128/BioDockify-Pharma-AI/tree/main/plugins/_office/skills/presentation-decks)
+- [presentations](https://skillsmp.com/skills/anhtu1707-winter-cli-resources-local-codex-plugins-cache-openai-primary-runtime-presentations-26-505-10851-skills-presentations-skill-md) — by anhtu1707
+	- [GitHub](https://github.com/anhtu1707/winter-cli/tree/main/resources/local/codex/plugins/cache/openai-primary-runtime/presentations/26.505.10851/skills/presentations)
+
+- [presentation](https://skillsmp.com/skills/xorbitsai-xagent-src-xagent-skills-builtin-presentation-generator-skill-md) — by xorbitsai
+	- [GitHub](https://github.com/xorbitsai/xagent/tree/main/src/xagent/skills/builtin/presentation-generator)
+
+- [presentation](https://skillsmp.com/skills/kovrichard-portable-agent-layer-assets-skills-presentation-skill-md) — by kovrichard
+	- [GitHub](https://github.com/kovrichard/portable-agent-layer/tree/main/assets/skills/presentation)
 
 - [presentation-planning](https://skillsmp.com/skills/ryan-ressmeyer-agent-config-skills-presentation-planning-skill-md) — by ryan-ressmeyer
 	- [GitHub](https://github.com/ryan-ressmeyer/agent-config/tree/main/skills/presentation-planning)
 
-- [presentation-brief](https://skillsmp.com/skills/anderssv-opencode-prompt-router-tests-fixtures-skills-presentation-brief-skill-md) — by anderssv
-	- [GitHub](https://github.com/anderssv/opencode-prompt-router/tree/main/tests/fixtures/skills/presentation-brief)
+- [presentation-writing](https://skillsmp.com/skills/smileynet-agent-crews-shared-skills-presentation-writing-skill-md) — by smileynet
+	- [GitHub](https://github.com/smileynet/agent-crews/tree/main/shared/skills/presentation-writing)
 
-- [presentation-structure](https://skillsmp.com/skills/clxzl-claude-code-best-practice-cn-claude-skills-presentation-presentation-structure-skill-md) — by clxzl
-	- [GitHub](https://github.com/clxzl/claude-code-best-practice-cn/tree/main/.claude/skills/presentation/presentation-structure)
+- [presentation-factory-compose](https://skillsmp.com/skills/bpainter-composable-dxp-claude-marketplace-presentation-factory-skills-presentation-factory-compose-skill-md) — by bpainter
+	- [GitHub](https://github.com/bpainter/composable-dxp-claude-marketplace/tree/main/presentation-factory/skills/presentation-factory-compose)
 
-- [presentation-styling](https://skillsmp.com/skills/clxzl-claude-code-best-practice-cn-claude-skills-presentation-presentation-styling-skill-md) — by clxzl
-	- [GitHub](https://github.com/clxzl/claude-code-best-practice-cn/tree/main/.claude/skills/presentation/presentation-styling)
+- [presentation-factory-ship](https://skillsmp.com/skills/bpainter-composable-dxp-claude-marketplace-presentation-factory-skills-presentation-factory-ship-skill-md) — by bpainter
+	- [GitHub](https://github.com/bpainter/composable-dxp-claude-marketplace/tree/main/presentation-factory/skills/presentation-factory-ship)
 
-- [presentations](https://skillsmp.com/skills/tomevault-io-skills-registry-dylantarre-animation-principles-presentations-skill-md) — by tomevault-io
-	- [GitHub](https://github.com/tomevault-io/skills-registry/tree/main/dylantarre--animation-principles--presentations)
+- [presentation-factory-frame](https://skillsmp.com/skills/bpainter-composable-dxp-claude-marketplace-presentation-factory-skills-presentation-factory-frame-skill-md) — by bpainter
+	- [GitHub](https://github.com/bpainter/composable-dxp-claude-marketplace/tree/main/presentation-factory/skills/presentation-factory-frame)
 
-- [presentation-hook](https://skillsmp.com/skills/aipoch-medical-research-skills-scientific-skills-academic-writing-presentation-hook-skill-md) — by aipoch
-	- [GitHub](https://github.com/aipoch/medical-research-skills/tree/main/scientific-skills/Academic Writing/presentation-hook)
+- [presentation-factory-draft](https://skillsmp.com/skills/bpainter-composable-dxp-claude-marketplace-presentation-factory-skills-presentation-factory-draft-skill-md) — by bpainter
+	- [GitHub](https://github.com/bpainter/composable-dxp-claude-marketplace/tree/main/presentation-factory/skills/presentation-factory-draft)
+
+- [presentation-factory-create-flow](https://skillsmp.com/skills/bpainter-composable-dxp-claude-marketplace-presentation-factory-skills-presentation-factory-create-flow-skill-md) — by bpainter
+	- [GitHub](https://github.com/bpainter/composable-dxp-claude-marketplace/tree/main/presentation-factory/skills/presentation-factory-create-flow)
+
+- [presentation-factory-status](https://skillsmp.com/skills/bpainter-composable-dxp-claude-marketplace-presentation-factory-skills-presentation-factory-status-skill-md) — by bpainter
+	- [GitHub](https://github.com/bpainter/composable-dxp-claude-marketplace/tree/main/presentation-factory/skills/presentation-factory-status)
 
 - [presentation-design-expert](https://skillsmp.com/skills/forceinjection-domain-driven-design-skills-relative-skills-claude-skill-registry-skills-testing-presentation-design-expert-sandraschi-advanced-memory-mcp-562ce320-skill-md) — by ForceInjection
 	- [GitHub](https://github.com/ForceInjection/domain-driven-design-skills/tree/main/relative-skills/claude-skill-registry/skills/testing/presentation-design-expert-sandraschi-advanced-memory-mcp-562ce320)
@@ -2721,6 +2721,12 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [public-speaking](https://skillsmp.com/skills/pluginagentmarketplace-custom-plugin-devrel-engineer-skills-communication-public-speaking-skill-md) — by pluginagentmarketplace
 	- [GitHub](https://github.com/pluginagentmarketplace/custom-plugin-devrel-engineer/tree/main/skills/communication/public-speaking)
 
+- [presenting-conference-talks](https://skillsmp.com/skills/badhope-ai-skill-skills-docs-presenting-conference-talks-skill-md) — by badhope
+	- [GitHub](https://github.com/badhope/AI-SKILL/tree/main/skills/docs/presenting-conference-talks)
+
+- [paper-talk](https://skillsmp.com/skills/gogiants1-reads-skills-paper-talk-skill-md) — by GoGiants1
+	- [GitHub](https://github.com/GoGiants1/reads/tree/main/skills/paper-talk)
+
 - [conference-talk-builder](https://skillsmp.com/skills/nicknisi-claude-plugins-plugins-content-skills-conference-talk-builder-skill-md) — by nicknisi
 	- [GitHub](https://github.com/nicknisi/claude-plugins/tree/main/plugins/content/skills/conference-talk-builder)
 
@@ -2753,12 +2759,6 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 
 - [presenting-conference-talks](https://skillsmp.com/skills/ecnu-icalk-ecology-harness-src-ecology-harness-skills-builtin-ai-research-20-ml-paper-writing-presenting-conference-talks-skill-md) — by ECNU-ICALK
 	- [GitHub](https://github.com/ECNU-ICALK/Ecology-Harness/tree/main/src/ecology_harness/skills/builtin/ai-research/20-ml-paper-writing/presenting-conference-talks)
-
-- [talk](https://skillsmp.com/skills/mtarld-homelab-claude-skills-talk-skill-md) — by mtarld
-	- [GitHub](https://github.com/mtarld/homelab/tree/main/claude/skills/talk)
-
-- [talk-expander](https://skillsmp.com/skills/brentlaster-tst-skills-talk-expander-skill-md) — by brentlaster
-	- [GitHub](https://github.com/brentlaster/tst_skills/tree/main/talk-expander)
 
 - [conference-talk-builder-petems](https://skillsmp.com/skills/petems-petems-skills-skills-conference-talk-builder-petems-skill-md) — by petems
 	- [GitHub](https://github.com/petems/petems-skills/tree/master/skills/conference-talk-builder-petems)
@@ -2837,14 +2837,17 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [community-management](https://skillsmp.com/skills/nirholas-xactions-skills-community-management-skill-md) — by nirholas
 	- [GitHub](https://github.com/nirholas/XActions/tree/main/skills/community-management)
 
+- [reddit-community-builder](https://skillsmp.com/skills/surfingalien-my-claude-agents-skills-marketing-reddit-community-builder-skill-md) — by surfingalien
+	- [GitHub](https://github.com/surfingalien/my-claude-agents/tree/main/skills/marketing-reddit-community-builder)
+
+- [community-check](https://skillsmp.com/skills/automatedmarketer-cowork-community-cowork-community-skills-community-check-skill-md) — by AutomatedMarketer
+	- [GitHub](https://github.com/AutomatedMarketer/cowork-community/tree/master/cowork-community/skills/community-check)
+
 - [community-engagement-strategy](https://skillsmp.com/skills/pranavnagrecha-awesomesalesforceskills-skills-admin-community-engagement-strategy-skill-md) — by PranavNagrecha
 	- [GitHub](https://github.com/PranavNagrecha/AwesomeSalesforceSkills/tree/main/skills/admin/community-engagement-strategy)
 
 - [reddit-engagement](https://skillsmp.com/skills/do-ops885-do-deal-relay-agents-skills-reddit-engagement-skill-md) — by do-ops885
 	- [GitHub](https://github.com/do-ops885/do-deal-relay/tree/main/.agents/skills/reddit-engagement)
-
-- [reddit-community-builder](https://skillsmp.com/skills/ductrung03-luckycode-luckycode-skills-content-reddit-community-builder-skill-md) — by Ductrung03
-	- [GitHub](https://github.com/Ductrung03/LuckyCode/tree/main/.luckycode/skills/content/reddit-community-builder)
 
 - [ln-910-community-engagement](https://skillsmp.com/skills/levnikolaevich-claude-code-skills-plugins-community-engagement-skills-ln-910-community-engagement-skill-md) — by levnikolaevich
 	- [GitHub](https://github.com/levnikolaevich/claude-code-skills/tree/master/plugins/community-engagement/skills/ln-910-community-engagement)
@@ -2854,9 +2857,6 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 
 - [community-strategy](https://skillsmp.com/skills/tomevault-io-tomes-majesticlabs-dev-majestic-marketplace-skills-community-strategy-skill-md) — by tomevault-io
 	- [GitHub](https://github.com/tomevault-io/tomes/tree/main/majesticlabs-dev--majestic-marketplace/skills/community-strategy)
-
-- [reddit-community-builder](https://skillsmp.com/skills/maximoseo-webs-html-improvements-files-agents-skills-marketing-reddit-community-builder-skill-md) — by maximoseo
-	- [GitHub](https://github.com/maximoseo/webs-html-improvements-files/tree/main/.agents/skills/marketing-reddit-community-builder)
 
 - [community-diagnostics](https://skillsmp.com/skills/myosin-xyz-hivemind-skills-community-growth-community-diagnostics-skill-md) — by Myosin-xyz
 	- [GitHub](https://github.com/Myosin-xyz/hivemind-skills/tree/main/community-growth/community-diagnostics)
@@ -2897,17 +2897,26 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [community-engagement](https://skillsmp.com/skills/gtmagents-gtm-agents-plugins-social-media-skills-community-engagement-skill-md) — by gtmagents
 	- [GitHub](https://github.com/gtmagents/gtm-agents/tree/main/plugins/social-media/skills/community-engagement)
 
-- [discord-bot-architect](https://skillsmp.com/skills/diegosouzapw-awesome-omni-skills-skills-omni-discord-bot-architect-skill-md) — by diegosouzapw
-	- [GitHub](https://github.com/diegosouzapw/awesome-omni-skills/tree/main/skills_omni/discord-bot-architect)
+- [discord-bot-architect](https://skillsmp.com/skills/artubss-skills-claude-code-skills-skills-enterprise-communication-discord-bot-architect-skill-md) — by artubss
+	- [GitHub](https://github.com/artubss/SKILLS-CLAUDE-CODE/tree/master/skills/skills/enterprise-communication/discord-bot-architect)
 
-- [discord-bot-architect](https://skillsmp.com/skills/diegosouzapw-awesome-omni-skills-skills-discord-bot-architect-skill-md) — by diegosouzapw
-	- [GitHub](https://github.com/diegosouzapw/awesome-omni-skills/tree/main/skills/discord-bot-architect)
+- [discord-bot-setup](https://skillsmp.com/skills/greatsumini-claw-skills-discord-bot-setup-skill-md) — by greatSumini
+	- [GitHub](https://github.com/greatSumini/claw/tree/main/skills/discord-bot-setup)
+
+- [discord-bot-helper](https://skillsmp.com/skills/shepherdjerred-monorepo-packages-dotfiles-dot-agents-skills-discord-bot-helper-skill-md) — by shepherdjerred
+	- [GitHub](https://github.com/shepherdjerred/monorepo/tree/main/packages/dotfiles/dot_agents/skills/discord-bot-helper)
+
+- [discord-bot-architect](https://skillsmp.com/skills/badhope-ai-skill-skills-ai-discord-bot-architect-skill-md) — by badhope
+	- [GitHub](https://github.com/badhope/AI-SKILL/tree/main/skills/ai/discord-bot-architect)
 
 - [discord-bot-architect-v2](https://skillsmp.com/skills/diegosouzapw-awesome-omni-skills-skills-omni-discord-bot-architect-v2-skill-md) — by diegosouzapw
 	- [GitHub](https://github.com/diegosouzapw/awesome-omni-skills/tree/main/skills_omni/discord-bot-architect-v2)
 
-- [discord-bot-architect](https://skillsmp.com/skills/yvesdarbouze-paperworking-agents-skills-discord-bot-architect-skill-md) — by YvesDarbouze
-	- [GitHub](https://github.com/YvesDarbouze/PaperWorking/tree/main/.agents/skills/discord-bot-architect)
+- [discord-bot-architect](https://skillsmp.com/skills/diegosouzapw-awesome-omni-skills-skills-discord-bot-architect-skill-md) — by diegosouzapw
+	- [GitHub](https://github.com/diegosouzapw/awesome-omni-skills/tree/main/skills/discord-bot-architect)
+
+- [discord-bot-architect](https://skillsmp.com/skills/diegosouzapw-awesome-omni-skills-skills-omni-discord-bot-architect-skill-md) — by diegosouzapw
+	- [GitHub](https://github.com/diegosouzapw/awesome-omni-skills/tree/main/skills_omni/discord-bot-architect)
 
 - [discord-bot-architect](https://skillsmp.com/skills/tomevault-io-skills-registry-davila7-claude-code-templates-discord-bot-architect-skill-md) — by tomevault-io
 	- [GitHub](https://github.com/tomevault-io/skills-registry/tree/main/davila7--claude-code-templates--discord-bot-architect)
@@ -2918,11 +2927,11 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [discord-bot-architect](https://skillsmp.com/skills/newmindsgroup-ai-agent-skills-library-dist-skills-discord-bot-architect-skill-md) — by newmindsgroup
 	- [GitHub](https://github.com/newmindsgroup/ai-agent-skills-library/tree/main/dist/skills/discord-bot-architect)
 
-- [discord-bot](https://skillsmp.com/skills/charlesnaig-naig-agent-brain-github-skills-discord-bot-skill-md) — by CharlesNaig
-	- [GitHub](https://github.com/CharlesNaig/Naig-Agent-Brain/tree/master/.github/skills/discord-bot)
-
 - [discord-bot](https://skillsmp.com/skills/charlesnaig-naig-agent-brain-agent-system-skills-discord-bot-skill-md) — by CharlesNaig
 	- [GitHub](https://github.com/CharlesNaig/Naig-Agent-Brain/tree/master/agent-system/skills/discord-bot)
+
+- [discord-bot](https://skillsmp.com/skills/charlesnaig-naig-agent-brain-github-skills-discord-bot-skill-md) — by CharlesNaig
+	- [GitHub](https://github.com/CharlesNaig/Naig-Agent-Brain/tree/master/.github/skills/discord-bot)
 
 - [discord-bot-architect](https://skillsmp.com/skills/tomevault-io-tomes-davila7-claude-code-templates-skills-discord-bot-architect-skill-md) — by tomevault-io
 	- [GitHub](https://github.com/tomevault-io/tomes/tree/main/davila7--claude-code-templates/skills/discord-bot-architect)
@@ -2948,136 +2957,139 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [discord-bot-architecture](https://skillsmp.com/skills/wangyao-gogogo-architecture-agent-skills-skills-platforms-discord-discord-bot-architecture-skill-md) — by WangYao-GoGoGo
 	- [GitHub](https://github.com/WangYao-GoGoGo/architecture-agent-skills/tree/master/skills/platforms/discord/discord-bot-architecture)
 
-- [discord-bot-architect-v2](https://skillsmp.com/skills/diegosouzapw-awesome-omni-skills-skills-discord-bot-architect-v2-skill-md) — by diegosouzapw
-	- [GitHub](https://github.com/diegosouzapw/awesome-omni-skills/tree/main/skills/discord-bot-architect-v2)
-
-- [discord-bot-architect](https://skillsmp.com/skills/ibragimov-oasis-name-navigator-antigravity-skills-skills-antigravity-antigravity-discord-bot-architect-skill-md) — by ibragimov-oasis
-	- [GitHub](https://github.com/ibragimov-oasis/name-navigator/tree/main/.antigravity/skills/skills-antigravity/antigravity-discord-bot-architect)
-
-- [discord-bot-architect](https://skillsmp.com/skills/anhvu1107-all-agent-skill-agent-skills-discord-bot-architect-skill-md) — by Anhvu1107
-	- [GitHub](https://github.com/Anhvu1107/all-agent-skill/tree/main/.agent/skills/discord-bot-architect)
-
 ### Code Review & Developer Tools
 
-- [code-reviewer](https://skillsmp.com/skills/yuanhaorannnnnn-agent-skills-skills-code-reviewer-skill-md) — by yuanhaorannnnnn
-	- [GitHub](https://github.com/yuanhaorannnnnn/agent-skills/tree/main/skills/code-reviewer)
-
-- [code-review-and-quality](https://skillsmp.com/skills/peakdong68-my-agent-skills-skills-code-review-and-quality-skill-md) — by peakdong68
-	- [GitHub](https://github.com/peakdong68/my-agent-skills/tree/main/skills/code-review-and-quality)
-
-- [code-review](https://skillsmp.com/skills/dengd1937-rune-skills-code-review-skill-md) — by dengd1937
-	- [GitHub](https://github.com/dengd1937/rune/tree/main/skills/code-review)
+- [code-review](https://skillsmp.com/skills/sminnee-maelstrom-shared-skills-code-review-skill-md) — by sminnee
+	- [GitHub](https://github.com/sminnee/maelstrom/tree/main/shared/skills/code-review)
 
 - [code-review-expert](https://skillsmp.com/skills/mj9733246-cloud-code-review-expert-skill-md) — by mj9733246-cloud
 	- [GitHub](https://github.com/mj9733246-cloud/code-review-expert)
 
-- [code-review-and-quality](https://skillsmp.com/skills/sylvanus4-github-to-notion-sync-claude-skills-code-review-and-quality-skill-md) — by sylvanus4
-	- [GitHub](https://github.com/sylvanus4/github-to-notion-sync/tree/main/.claude/skills/code-review-and-quality)
+- [code-review](https://skillsmp.com/skills/starskrime-stackowl-personal-ai-assistant-src-skills-defaults-code-review-skill-md) — by starskrime
+	- [GitHub](https://github.com/starskrime/stackowl-personal-ai-assistant/tree/main/src/skills/defaults/code_review)
 
-- [code-reviewer-expert](https://skillsmp.com/skills/sylvanus4-github-to-notion-sync-claude-skills-code-reviewer-expert-skill-md) — by sylvanus4
-	- [GitHub](https://github.com/sylvanus4/github-to-notion-sync/tree/main/.claude/skills/code-reviewer-expert)
+- [code-reviewer](https://skillsmp.com/skills/zrosenbauer-skills-agents-skills-code-reviewer-skill-md) — by zrosenbauer
+	- [GitHub](https://github.com/zrosenbauer/skills/tree/main/.agents/skills/code-reviewer)
 
-- [code-review-graph](https://skillsmp.com/skills/sylvanus4-github-to-notion-sync-claude-skills-code-review-graph-skill-md) — by sylvanus4
-	- [GitHub](https://github.com/sylvanus4/github-to-notion-sync/tree/main/.claude/skills/code-review-graph)
+- [code-review-confiavel](https://skillsmp.com/skills/agentflix-interazap-context-skills-code-review-confiavel-skill-md) — by agentflix
+	- [GitHub](https://github.com/agentflix/interazap/tree/develop/.context/SKILLS/code-review-confiavel)
 
-- [code-review-all](https://skillsmp.com/skills/sylvanus4-github-to-notion-sync-claude-skills-code-review-all-skill-md) — by sylvanus4
-	- [GitHub](https://github.com/sylvanus4/github-to-notion-sync/tree/main/.claude/skills/code-review-all)
+- [code-reviewer](https://skillsmp.com/skills/ting-s515-skills-code-reviewer-skill-md) — by Ting-s515
+	- [GitHub](https://github.com/Ting-s515/skills/tree/main/code-reviewer)
 
-- [code-review](https://skillsmp.com/skills/jcdendrite-claude-config-claude-claude-skills-code-review-skill-md) — by jcdendrite
-	- [GitHub](https://github.com/jcdendrite/claude-config/tree/main/claude/.claude/skills/code-review)
+- [code-reviewer](https://skillsmp.com/skills/tomevault-io-tomes-google-gemini-gemini-cli-skills-code-reviewer-skill-md) — by tomevault-io
+	- [GitHub](https://github.com/tomevault-io/tomes/tree/main/google-gemini--gemini-cli/skills/code-reviewer)
 
-- [code-review](https://skillsmp.com/skills/vancebs-skills-code-review-skill-md) — by vancebs
-	- [GitHub](https://github.com/vancebs/skills/tree/main/code-review)
+- [code-review](https://skillsmp.com/skills/liberty-emporium-echo-v1-skills-code-review-skill-md) — by Liberty-Emporium
+	- [GitHub](https://github.com/Liberty-Emporium/echo-v1/tree/main/skills/code-review)
 
-- [code-review](https://skillsmp.com/skills/alexfalkowski-bin-skills-code-review-skill-md) — by alexfalkowski
-	- [GitHub](https://github.com/alexfalkowski/bin/tree/master/skills/code-review)
+- [code-review](https://skillsmp.com/skills/nitrr-official-campusos-github-skills-code-review-skill-md) — by NITRR-Official
+	- [GitHub](https://github.com/NITRR-Official/CampusOS/tree/main/.github/skills/code-review)
 
-- [code-review](https://skillsmp.com/skills/naykel76-skills-and-guidelines-code-review-skill-md) — by naykel76
-	- [GitHub](https://github.com/naykel76/skills-and-guidelines/tree/main/code-review)
+- [code-review-excellence](https://skillsmp.com/skills/skitemplar-ultron-skills-catalog-engineering-code-review-excellence-skill-md) — by SkiTemplar
+	- [GitHub](https://github.com/SkiTemplar/ultron/tree/main/skills-catalog/engineering/code-review-excellence)
 
-- [code-review-jest](https://skillsmp.com/skills/labkey-server-claude-skills-code-review-jest-skill-md) — by LabKey
-	- [GitHub](https://github.com/LabKey/server/tree/develop/.claude/skills/code-review-jest)
+- [code-review-orchestrator](https://skillsmp.com/skills/mrflashaccount-skills-skills-code-review-orchestrator-skill-md) — by MrFlashAccount
+	- [GitHub](https://github.com/MrFlashAccount/Skills/tree/main/skills/code-review-orchestrator)
 
-- [code-review-react](https://skillsmp.com/skills/labkey-server-claude-skills-code-review-react-skill-md) — by LabKey
-	- [GitHub](https://github.com/LabKey/server/tree/develop/.claude/skills/code-review-react)
+- [code-review](https://skillsmp.com/skills/ihatesea69-kiro-kit-presets-frontend-skills-code-review-skill-md) — by ihatesea69
+	- [GitHub](https://github.com/ihatesea69/kiro-kit/tree/main/presets/frontend/skills/code-review)
 
-- [code-review](https://skillsmp.com/skills/igmarin-rails-agent-skills-skills-code-quality-code-review-skill-md) — by igmarin
-	- [GitHub](https://github.com/igmarin/rails-agent-skills/tree/main/skills/code-quality/code-review)
+- [code-review](https://skillsmp.com/skills/ihatesea69-kiro-kit-presets-data-ai-skills-code-review-skill-md) — by ihatesea69
+	- [GitHub](https://github.com/ihatesea69/kiro-kit/tree/main/presets/data-ai/skills/code-review)
 
-- [code-review](https://skillsmp.com/skills/huangrx6-specforge-runtime-execution-stages-code-review-skill-md) — by huangrx6
-	- [GitHub](https://github.com/huangrx6/SpecForge/tree/main/runtime/execution/stages/code-review)
+- [code-review](https://skillsmp.com/skills/ihatesea69-kiro-kit-presets-backend-skills-code-review-skill-md) — by ihatesea69
+	- [GitHub](https://github.com/ihatesea69/kiro-kit/tree/main/presets/backend/skills/code-review)
 
-- [code-reviewer-aim](https://skillsmp.com/skills/kmj5228-aim-harness-skills-code-reviewer-aim-skill-md) — by kmj5228
-	- [GitHub](https://github.com/kmj5228/aim-harness/tree/main/skills/code-reviewer-aim)
+- [code-review](https://skillsmp.com/skills/ihatesea69-kiro-kit-presets-fullstack-skills-code-review-skill-md) — by ihatesea69
+	- [GitHub](https://github.com/ihatesea69/kiro-kit/tree/main/presets/fullstack/skills/code-review)
 
-- [code-review](https://skillsmp.com/skills/stbenjam-skillsaw-tests-fixtures-autofix-safe-idempotency-skills-code-review-skill-md) — by stbenjam
-	- [GitHub](https://github.com/stbenjam/skillsaw/tree/main/tests/fixtures/autofix/safe-idempotency/skills/code-review)
+- [code-review](https://skillsmp.com/skills/ihatesea69-kiro-kit-presets-devops-skills-code-review-skill-md) — by ihatesea69
+	- [GitHub](https://github.com/ihatesea69/kiro-kit/tree/main/presets/devops/skills/code-review)
 
-- [code-review](https://skillsmp.com/skills/jacob-balslev-skill-graph-skills-code-review-skill-md) — by jacob-balslev
-	- [GitHub](https://github.com/jacob-balslev/skill-graph/tree/main/skills/code-review)
+- [code-review](https://skillsmp.com/skills/ihatesea69-kiro-kit-presets-mobile-skills-code-review-skill-md) — by ihatesea69
+	- [GitHub](https://github.com/ihatesea69/kiro-kit/tree/main/presets/mobile/skills/code-review)
 
-- [code-review](https://skillsmp.com/skills/jacob-balslev-skill-graph-marketplace-skills-code-review-skill-md) — by jacob-balslev
-	- [GitHub](https://github.com/jacob-balslev/skill-graph/tree/main/marketplace/skills/code-review)
+- [code-review](https://skillsmp.com/skills/kcsujeet-ilamy-calendar-agents-skills-code-review-skill-md) — by kcsujeet
+	- [GitHub](https://github.com/kcsujeet/ilamy-calendar/tree/main/.agents/skills/code-review)
 
-- [code-quality](https://skillsmp.com/skills/alexcmarty-cunyautologin-claude-skills-code-quality-skill-md) — by AlexCMarty
-	- [GitHub](https://github.com/AlexCMarty/CUNYAutoLogin/tree/main/.claude/skills/code-quality)
+- [code-review-security](https://skillsmp.com/skills/vulnetix-pix-ai-coding-assistant-vulnetix-skills-code-review-security-skill-md) — by Vulnetix
+	- [GitHub](https://github.com/Vulnetix/pix-ai-coding-assistant/tree/main/vulnetix/skills/code-review-security)
 
-- [code-quality](https://skillsmp.com/skills/prairieaster-ai-claude-code-skills-skills-code-quality-skill-md) — by PrairieAster-Ai
-	- [GitHub](https://github.com/PrairieAster-Ai/claude-code-skills/tree/main/skills/code-quality)
+- [code-review](https://skillsmp.com/skills/jirateep12z-skills-code-review-skill-md) — by jirateep12z
+	- [GitHub](https://github.com/jirateep12z/skills/tree/main/code-review)
 
-- [code-quality](https://skillsmp.com/skills/sordi-ai-skill-everything-skills-code-quality-skill-md) — by sordi-ai
-	- [GitHub](https://github.com/sordi-ai/skill-everything/tree/main/skills/code-quality)
+- [code-quality-gate](https://skillsmp.com/skills/woditschka-agentic-coding-reference-java-spring-boot-claude-skills-code-quality-gate-skill-md) — by woditschka
+	- [GitHub](https://github.com/woditschka/agentic-coding-reference/tree/main/java-spring-boot/.claude/skills/code-quality-gate)
 
-- [code-quality](https://skillsmp.com/skills/rugved1652-vayu-ui-skills-code-quality-skill-md) — by Rugved1652
-	- [GitHub](https://github.com/Rugved1652/vayu-ui/tree/main/skills/code-quality)
+- [code-quality-gate](https://skillsmp.com/skills/woditschka-agentic-coding-reference-go-claude-skills-code-quality-gate-skill-md) — by woditschka
+	- [GitHub](https://github.com/woditschka/agentic-coding-reference/tree/main/go/.claude/skills/code-quality-gate)
 
-- [code-quality-rules](https://skillsmp.com/skills/moongci38-oss-forge-claude-skills-code-quality-rules-skill-md) — by moongci38-oss
-	- [GitHub](https://github.com/moongci38-oss/forge/tree/develop/.claude/skills/code-quality-rules)
+- [code-quality](https://skillsmp.com/skills/liberty-emporium-echo-v1-skills-code-quality-skill-md) — by Liberty-Emporium
+	- [GitHub](https://github.com/Liberty-Emporium/echo-v1/tree/main/skills/code-quality)
 
-- [code-quality](https://skillsmp.com/skills/vendeesign-codebloom-skills-code-quality-skill-md) — by vendeesign
-	- [GitHub](https://github.com/vendeesign/codebloom/tree/main/skills/code-quality)
-
-- [code-quality](https://skillsmp.com/skills/n-shahaf-ai-toolbox-skills-code-quality-skill-md) — by n-shahaf
-	- [GitHub](https://github.com/n-shahaf/ai-toolbox/tree/main/skills/code-quality)
-
-- [code-quality-gate](https://skillsmp.com/skills/dengd1937-rune-skills-code-quality-gate-skill-md) — by dengd1937
-	- [GitHub](https://github.com/dengd1937/rune/tree/main/skills/code-quality-gate)
-
-- [code-quality](https://skillsmp.com/skills/astavonin-genai-automations-platforms-codex-skills-domains-code-quality-skill-md) — by astavonin
-	- [GitHub](https://github.com/astavonin/genai-automations/tree/main/platforms/codex/skills/domains/code-quality)
-
-- [code-quality](https://skillsmp.com/skills/haemeok-capstone-frontend-claude-skills-code-quality-skill-md) — by Haemeok
-	- [GitHub](https://github.com/Haemeok/Capstone-frontend/tree/main/.claude/skills/code-quality)
-
-- [code-quality-metrics](https://skillsmp.com/skills/archibate-dotfiles-claude-skills-code-quality-metrics-skill-md) — by archibate
-	- [GitHub](https://github.com/archibate/dotfiles-claude/tree/main/skills/code-quality-metrics)
-
-- [code-quality-audit](https://skillsmp.com/skills/tansuasici-claude-code-kit-claude-skills-code-quality-audit-skill-md) — by tansuasici
-	- [GitHub](https://github.com/tansuasici/claude-code-kit/tree/main/.claude/skills/code-quality-audit)
-
-- [code-quality](https://skillsmp.com/skills/iceglober-glrs-packages-harness-opencode-src-skills-code-quality-skill-md) — by iceglober
-	- [GitHub](https://github.com/iceglober/glrs/tree/main/packages/harness-opencode/src/skills/code-quality)
+- [code-quality-at-scale](https://skillsmp.com/skills/nitrr-official-campusos-github-skills-code-quality-at-scale-skill-md) — by NITRR-Official
+	- [GitHub](https://github.com/NITRR-Official/CampusOS/tree/main/.github/skills/code-quality-at-scale)
 
 - [code-quality](https://skillsmp.com/skills/kunshao1117-ai-rules-shared-skills-code-quality-skill-md) — by Kunshao1117
 	- [GitHub](https://github.com/Kunshao1117/AI_Rules/tree/main/Shared/skills/code-quality)
 
-- [code-quality](https://skillsmp.com/skills/tomevault-io-skills-registry-dhamija-claude-workflow-agents-code-quality-skill-md) — by tomevault-io
-	- [GitHub](https://github.com/tomevault-io/skills-registry/tree/main/dhamija--claude-workflow-agents--code-quality)
+- [code-quality](https://skillsmp.com/skills/allenlin90-eridu-services-agent-skills-code-quality-skill-md) — by allenlin90
+	- [GitHub](https://github.com/allenlin90/eridu-services/tree/master/.agent/skills/code-quality)
 
-- [code-quality](https://skillsmp.com/skills/tomevault-io-skills-registry-fusengine-agents-code-quality-skill-md) — by tomevault-io
-	- [GitHub](https://github.com/tomevault-io/skills-registry/tree/main/fusengine--agents--code-quality)
+- [code-quality](https://skillsmp.com/skills/haemeok-capstone-frontend-claude-skills-code-quality-skill-md) — by Haemeok
+	- [GitHub](https://github.com/Haemeok/Capstone-frontend/tree/main/.claude/skills/code-quality)
 
-- [code-quality](https://skillsmp.com/skills/tomevault-io-skills-registry-georgekhananaev-claude-skills-vault-code-quality-skill-md) — by tomevault-io
-	- [GitHub](https://github.com/tomevault-io/skills-registry/tree/main/georgekhananaev--claude-skills-vault--code-quality)
+- [code-quality-expert](https://skillsmp.com/skills/julio211916-tlanticad-studio-v0-1-alpha-skills-ju-skills-code-quality-expert-skill-md) — by julio211916
+	- [GitHub](https://github.com/julio211916/TlantiCAD-Studio-V0.1-alpha/tree/main/skills/ju/skills/code-quality-expert)
 
-- [code-quality](https://skillsmp.com/skills/tomevault-io-skills-registry-heskew-hone-code-quality-skill-md) — by tomevault-io
-	- [GitHub](https://github.com/tomevault-io/skills-registry/tree/main/heskew--hone--code-quality)
+- [code-quality](https://skillsmp.com/skills/fusengine-codex-plugins-ai-pilot-skills-code-quality-skill-md) — by fusengine
+	- [GitHub](https://github.com/fusengine/codex/tree/main/plugins/ai-pilot/skills/code-quality)
 
-- [code-quality](https://skillsmp.com/skills/tomevault-io-skills-registry-jaeyeonling-opencode-kit-code-quality-skill-md) — by tomevault-io
-	- [GitHub](https://github.com/tomevault-io/skills-registry/tree/main/jaeyeonling--opencode-kit--code-quality)
+- [code-quality](https://skillsmp.com/skills/luminairprime-skill-tree-chopper-agents-skills-code-quality-skill-md) — by LuminairPrime
+	- [GitHub](https://github.com/LuminairPrime/skill-tree-chopper/tree/main/.agents/skills/code-quality)
 
-- [code-quality](https://skillsmp.com/skills/tomevault-io-skills-registry-davidkelley-searchlite-code-quality-skill-md) — by tomevault-io
-	- [GitHub](https://github.com/tomevault-io/skills-registry/tree/main/davidkelley--searchlite--code-quality)
+- [code-quality-review](https://skillsmp.com/skills/hiennguyen9874-pi-starter-kit-pi-skills-code-quality-review-skill-md) — by hiennguyen9874
+	- [GitHub](https://github.com/hiennguyen9874/pi-starter-kit/tree/main/.pi/skills/code-quality-review)
+
+- [code-quality](https://skillsmp.com/skills/jkamiphi-python-django-celery-boilerplate-ai-specs-skills-code-quality-skill-md) — by jkamiphi
+	- [GitHub](https://github.com/jkamiphi/python-django-celery-boilerplate/tree/master/ai-specs/skills/code-quality)
+
+- [code-quality](https://skillsmp.com/skills/nejcm-dotfiles-ulis-skills-code-quality-skill-md) — by nejcm
+	- [GitHub](https://github.com/nejcm/dotfiles/tree/main/.ulis/skills/code-quality)
+
+- [code-quality](https://skillsmp.com/skills/planifest-planifest-framework-planifest-framework-external-skills-code-quality-skill-md) — by planifest
+	- [GitHub](https://github.com/planifest/planifest-framework/tree/main/planifest-framework/external-skills/code-quality)
+
+- [code-quality](https://skillsmp.com/skills/d-o-hub-rust-self-learning-memory-agents-skills-code-quality-skill-md) — by d-o-hub
+	- [GitHub](https://github.com/d-o-hub/rust-self-learning-memory/tree/main/.agents/skills/code-quality)
+
+- [code-quality-evaluation](https://skillsmp.com/skills/tomevault-io-tomes-xobotyi-cc-foundry-skills-code-quality-evaluation-skill-md) — by tomevault-io
+	- [GitHub](https://github.com/tomevault-io/tomes/tree/main/xobotyi--cc-foundry/skills/code-quality-evaluation)
+
+- [code-quality](https://skillsmp.com/skills/robkam-ytree-ai-skills-code-quality-skill-md) — by robkam
+	- [GitHub](https://github.com/robkam/ytree/tree/main/.ai/skills/code-quality)
+
+- [code-quality](https://skillsmp.com/skills/nthplusio-functional-claude-plugins-code-quality-skills-code-quality-skill-md) — by nthplusio
+	- [GitHub](https://github.com/nthplusio/functional-claude/tree/main/plugins/code-quality/skills/code-quality)
+
+- [code-quality-setup](https://skillsmp.com/skills/nthplusio-functional-claude-plugins-code-quality-skills-code-quality-setup-skill-md) — by nthplusio
+	- [GitHub](https://github.com/nthplusio/functional-claude/tree/main/plugins/code-quality/skills/code-quality-setup)
+
+- [code-quality-hooks](https://skillsmp.com/skills/nthplusio-functional-claude-plugins-code-quality-skills-code-quality-hooks-skill-md) — by nthplusio
+	- [GitHub](https://github.com/nthplusio/functional-claude/tree/main/plugins/code-quality/skills/code-quality-hooks)
+
+- [linting](https://skillsmp.com/skills/cheneeheng-agent-skills-ceh-typescript-frontend-skills-linting-skill-md) — by cheneeheng
+	- [GitHub](https://github.com/cheneeheng/agent-skills/tree/main/ceh-typescript-frontend/skills/linting)
+
+- [linting-neostandard-eslint9](https://skillsmp.com/skills/avandarlabs-avandar-agents-skills-linting-neostandard-eslint9-skill-md) — by AvandarLabs
+	- [GitHub](https://github.com/AvandarLabs/avandar/tree/develop/.agents/skills/linting-neostandard-eslint9)
+
+- [mav-bp-linting](https://skillsmp.com/skills/thermiteau-maverick-skills-mav-bp-linting-skill-md) — by thermiteau
+	- [GitHub](https://github.com/thermiteau/maverick/tree/stable/skills/mav-bp-linting)
+
+- [linting](https://skillsmp.com/skills/manikumarkv-devrunway-claude-plugin-layers-frontend-react-linting-skill-md) — by manikumarkv
+	- [GitHub](https://github.com/manikumarkv/devrunway-claude-plugin/tree/main/layers/frontend/react/linting)
 
 - [linting-career](https://skillsmp.com/skills/kalharpandya-careerops-skills-linting-career-skill-md) — by KalharPandya
 	- [GitHub](https://github.com/KalharPandya/careerops/tree/main/skills/linting-career)
@@ -3085,8 +3097,8 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [linting](https://skillsmp.com/skills/tomevault-io-skills-registry-jarosser06-drift-linting-skill-md) — by tomevault-io
 	- [GitHub](https://github.com/tomevault-io/skills-registry/tree/main/jarosser06--drift--linting)
 
-- [mav-bp-linting](https://skillsmp.com/skills/thermiteau-maverick-skills-mav-bp-linting-skill-md) — by thermiteau
-	- [GitHub](https://github.com/thermiteau/maverick/tree/stable/skills/mav-bp-linting)
+- [linting-neostandard-eslint9](https://skillsmp.com/skills/adityaaexe-reveil-chat-opencode-skills-linting-neostandard-eslint9-skill-md) — by adityaaexe
+	- [GitHub](https://github.com/adityaaexe/Reveil-Chat/tree/main/.opencode/skills/linting-neostandard-eslint9)
 
 - [linting](https://skillsmp.com/skills/k-log-opencode-config-skills-linting-skill-md) — by K-log
 	- [GitHub](https://github.com/K-log/opencode-config/tree/main/skills/linting)
@@ -3096,6 +3108,9 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 
 - [linting](https://skillsmp.com/skills/nich-mctishe-portfolio-agents-skills-linting-skill-md) — by nich-mctishe
 	- [GitHub](https://github.com/nich-mctishe/portfolio/tree/main/.agents/skills/linting)
+
+- [linting](https://skillsmp.com/skills/doncan-orozco-papyro-ai-skills-linting-skill-md) — by doncan-orozco
+	- [GitHub](https://github.com/doncan-orozco/papyro/tree/main/.ai/skills/linting)
 
 - [linting-and-formatting](https://skillsmp.com/skills/nvidia-megatron-lm-skills-linting-and-formatting-skill-md) — by NVIDIA
 	- [GitHub](https://github.com/NVIDIA/Megatron-LM/tree/main/skills/linting-and-formatting)
@@ -3115,9 +3130,6 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [linting](https://skillsmp.com/skills/derekdk-vdengine-github-skills-linting-skill-md) — by derekdk
 	- [GitHub](https://github.com/derekdk/vdengine/tree/main/.github/skills/linting)
 
-- [linting](https://skillsmp.com/skills/cheneeheng-agent-skills-ceh-typescript-frontend-skills-linting-skill-md) — by cheneeheng
-	- [GitHub](https://github.com/cheneeheng/agent-skills/tree/main/ceh-typescript-frontend/skills/linting)
-
 - [linting-code](https://skillsmp.com/skills/gingergraham-bash-logger-claude-skills-linting-code-skill-md) — by GingerGraham
 	- [GitHub](https://github.com/GingerGraham/bash-logger/tree/main/.claude/skills/linting-code)
 
@@ -3127,145 +3139,139 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [linting-technical-writing](https://skillsmp.com/skills/arosenkranz-claude-code-config-plugins-writing-and-docs-skills-linting-technical-writing-skill-md) — by arosenkranz
 	- [GitHub](https://github.com/arosenkranz/claude-code-config/tree/main/plugins/writing-and-docs/skills/linting-technical-writing)
 
-- [linting](https://skillsmp.com/skills/r0o0-dojang-agents-skills-linting-skill-md) — by r0o0
-	- [GitHub](https://github.com/r0o0/dojang/tree/develop/.agents/skills/linting)
-
-- [linting-workflow](https://skillsmp.com/skills/edgar0011-core-vite-2-claude-skills-core-vite-2-linting-workflow-skill-md) — by edgar0011
-	- [GitHub](https://github.com/edgar0011/core-vite-2/tree/main/.claude/skills/core-vite-2/linting-workflow)
-
-- [linting-workflow-skill](https://skillsmp.com/skills/darellchua2-opencode-config-template-opencode-app-opencode-skills-linting-workflow-skill-skill-md) — by darellchua2
-	- [GitHub](https://github.com/darellchua2/opencode-config-template/tree/main/opencode_app/.opencode/skills/linting-workflow-skill)
-
-- [linting-go-code](https://skillsmp.com/skills/mrpointer-dotfiles-agents-skills-linting-go-code-skill-md) — by MrPointer
-	- [GitHub](https://github.com/MrPointer/dotfiles/tree/main/.agents/skills/linting-go-code)
-
 ### AI & LLM Tools
 
-- [llm-council](https://skillsmp.com/skills/sylvanus4-github-to-notion-sync-claude-skills-llm-council-skill-md) — by sylvanus4
-	- [GitHub](https://github.com/sylvanus4/github-to-notion-sync/tree/main/.claude/skills/llm-council)
+- [llm-serving-auto-benchmark](https://skillsmp.com/skills/nludd25-sglang-claude-skills-llm-serving-auto-benchmark-skill-md) — by nludd25
+	- [GitHub](https://github.com/nludd25/sglang/tree/main/.claude/skills/llm-serving-auto-benchmark)
 
-- [llmposter](https://skillsmp.com/skills/skilldoai-llmposter-skill-md) — by SkillDoAI
-	- [GitHub](https://github.com/SkillDoAI/llmposter)
-
-- [llm-wiki](https://skillsmp.com/skills/rousegordon-ops-hermes-agent-skills-research-llm-wiki-skill-md) — by rousegordon-ops
-	- [GitHub](https://github.com/rousegordon-ops/hermes-agent/tree/main/skills/research/llm-wiki)
+- [llm-torch-profiler-analysis](https://skillsmp.com/skills/nludd25-sglang-claude-skills-llm-torch-profiler-analysis-skill-md) — by nludd25
+	- [GitHub](https://github.com/nludd25/sglang/tree/main/.claude/skills/llm-torch-profiler-analysis)
 
 - [llm-repo](https://skillsmp.com/skills/ting-s515-skills-llm-repo-skill-md) — by Ting-s515
 	- [GitHub](https://github.com/Ting-s515/skills/tree/main/llm-repo)
 
-- [llm-wiki](https://skillsmp.com/skills/etoile04-material-llm-wiki-skills-llm-wiki-skill-md) — by Etoile04
-	- [GitHub](https://github.com/Etoile04/material-llm-wiki/tree/main/skills/llm-wiki)
+- [llm-wiki](https://skillsmp.com/skills/zosmaai-pi-llm-wiki-skills-llm-wiki-skill-md) — by zosmaai
+	- [GitHub](https://github.com/zosmaai/pi-llm-wiki/tree/main/skills/llm-wiki)
 
-- [llm-wiki](https://skillsmp.com/skills/etoile04-material-llm-wiki-skills-skill-md) — by Etoile04
-	- [GitHub](https://github.com/Etoile04/material-llm-wiki/tree/main/skills)
+- [llm-architect](https://skillsmp.com/skills/skitemplar-ultron-skills-catalog-ml-llm-architect-skill-md) — by SkiTemplar
+	- [GitHub](https://github.com/SkiTemplar/ultron/tree/main/skills-catalog/ml/llm-architect)
 
-- [llm-guidelines](https://skillsmp.com/skills/se-uhd-llm-guidelines-skill-plugins-llm-guidelines-skills-llm-guidelines-skill-md) — by se-uhd
-	- [GitHub](https://github.com/se-uhd/llm-guidelines-skill/tree/main/plugins/llm-guidelines/skills/llm-guidelines)
+- [llm-wiki-knowledge-base](https://skillsmp.com/skills/useforclaude-gem-gemini-gem-seedance-eval-wiki-skills-llm-wiki-knowledge-base-skill-md) — by Useforclaude
+	- [GitHub](https://github.com/Useforclaude/Gem/tree/main/gemini-gem-seedance-eval/wiki/skills/llm-wiki-knowledge-base)
 
-- [llm-wiki-skill](https://skillsmp.com/skills/olhaau-personal-llm-wiki-opencode-skills-llm-wiki-skill-skill-md) — by Olhaau
-	- [GitHub](https://github.com/Olhaau/personal-llm-wiki/tree/main/.opencode/skills/llm-wiki-skill)
+- [llm-orchestration](https://skillsmp.com/skills/paulpas-agent-skill-router-skills-trading-ai-llm-orchestration-skill-md) — by paulpas
+	- [GitHub](https://github.com/paulpas/agent-skill-router/tree/main/skills/trading/ai-llm-orchestration)
 
-- [llm-config](https://skillsmp.com/skills/akhilyad-deployy-plugins-hyrex-ruvllm-skills-llm-config-skill-md) — by akhilyad
-	- [GitHub](https://github.com/akhilyad/deployy/tree/main/plugins/hyrex-ruvllm/skills/llm-config)
+- [llms](https://skillsmp.com/skills/trungdo9-claukit-claude-skills-software-llms-skill-md) — by trungdo9
+	- [GitHub](https://github.com/trungdo9/ClauKit/tree/main/.claude/skills/software/llms)
 
-- [llm-finetuning](https://skillsmp.com/skills/ssrjkk-claude-skills-claude-skills-ai-llm-finetuning-skill-md) — by ssrjkk
-	- [GitHub](https://github.com/ssrjkk/claude-skills/tree/main/.claude/skills/ai/llm-finetuning)
+- [llmx](https://skillsmp.com/skills/nakulkhanna2001-llmx-skill-md) — by NakulKhanna2001
+	- [GitHub](https://github.com/NakulKhanna2001/llmx)
 
-- [llm-cost-optimizer](https://skillsmp.com/skills/vellum-ai-vellum-assistant-skills-llm-cost-optimizer-skill-md) — by vellum-ai
-	- [GitHub](https://github.com/vellum-ai/vellum-assistant/tree/main/skills/llm-cost-optimizer)
+- [llm-council](https://skillsmp.com/skills/nellyagain-bonde-claude-skills-llm-council-skill-md) — by nellyagain
+	- [GitHub](https://github.com/nellyagain/bonde/tree/main/.claude/skills/llm-council)
 
-- [llm-wiki](https://skillsmp.com/skills/codysumpter-cloud-knowledge-vault-99-system-agent-skills-hermes-skills-research-llm-wiki-skill-md) — by codysumpter-cloud
-	- [GitHub](https://github.com/codysumpter-cloud/knowledge-vault/tree/main/99-System/Agent Skills/Hermes Skills/research/llm-wiki)
+- [llm-buster](https://skillsmp.com/skills/metravod-llm-buster-skill-skill-md) — by metravod
+	- [GitHub](https://github.com/metravod/llm-buster-skill)
 
-- [llm-evaluation](https://skillsmp.com/skills/vignesh2027-ai-agent-skills-skills-llm-evaluation-skill-md) — by vignesh2027
-	- [GitHub](https://github.com/vignesh2027/AI-AGENT-SKILLS/tree/main/skills/llm-evaluation)
+- [llm-wiki-book-workflow](https://skillsmp.com/skills/feahter-hermes-skills-productivity-llm-wiki-book-workflow-skill-md) — by Feahter
+	- [GitHub](https://github.com/Feahter/hermes-skills/tree/master/productivity/llm-wiki-book-workflow)
 
-- [llm-evaluation](https://skillsmp.com/skills/mariaponomarenko38-skills-jailbreak1-skills-llm-evaluation-skill-md) — by MariaPonomarenko38
-	- [GitHub](https://github.com/MariaPonomarenko38/skills-jailbreak1/tree/main/skills/llm-evaluation)
+- [llm-council](https://skillsmp.com/skills/julio211916-tlanticad-studio-v0-1-alpha-skills-ju-skills-llm-council-skill-md) — by julio211916
+	- [GitHub](https://github.com/julio211916/TlantiCAD-Studio-V0.1-alpha/tree/main/skills/ju/skills/llm-council)
 
-- [llm-cost-optimizer](https://skillsmp.com/skills/vellum-ai-llm-cost-optimizer-llm-cost-optimizer-skill-md) — by vellum-ai
-	- [GitHub](https://github.com/vellum-ai/llm-cost-optimizer/tree/main/llm-cost-optimizer)
+- [llm-wiki-builder](https://skillsmp.com/skills/u9401066-asset-aware-mcp-codex-skills-llm-wiki-builder-skill-md) — by u9401066
+	- [GitHub](https://github.com/u9401066/asset-aware-mcp/tree/master/.codex/skills/llm-wiki-builder)
 
-- [llm-security](https://skillsmp.com/skills/onfire7777-universal-ai-skills-library-skills-llm-security-skill-md) — by onfire7777
-	- [GitHub](https://github.com/onfire7777/universal-ai-skills-library/tree/main/skills/llm-security)
+- [llm-wiki-builder](https://skillsmp.com/skills/u9401066-asset-aware-mcp-cline-skills-llm-wiki-builder-skill-md) — by u9401066
+	- [GitHub](https://github.com/u9401066/asset-aware-mcp/tree/master/.cline/skills/llm-wiki-builder)
 
-- [llm-wiki](https://skillsmp.com/skills/ethanol777-hermes-hermes-skills-openclaw-imports-llm-wiki-skill-md) — by ethanol777
-	- [GitHub](https://github.com/ethanol777/Hermes/tree/master/hermes/skills/openclaw-imports/llm-wiki)
+- [llm-evaluation](https://skillsmp.com/skills/richard-devbot-sdlc-rstack-plugins-llm-application-dev-skills-llm-evaluation-skill-md) — by richard-devbot
+	- [GitHub](https://github.com/richard-devbot/SDLC-rstack/tree/main/plugins/llm-application-dev/skills/llm-evaluation)
 
-- [llm-serving-cost-and-latency](https://skillsmp.com/skills/sirmarkz-staff-engineer-mode-specialists-llm-serving-cost-and-latency-skill-md) — by sirmarkz
-	- [GitHub](https://github.com/sirmarkz/staff-engineer-mode/tree/main/specialists/llm-serving-cost-and-latency)
+- [llm-wiki](https://skillsmp.com/skills/wanteddev-wantedlab-llm-wiki-skill-packages-create-llm-wiki-skill-assets-claude-skill-md) — by wanteddev
+	- [GitHub](https://github.com/wanteddev/wantedlab-llm-wiki-skill/tree/main/packages/create-llm-wiki/skill-assets/claude)
 
-- [llm-application-security](https://skillsmp.com/skills/sirmarkz-staff-engineer-mode-specialists-llm-application-security-skill-md) — by sirmarkz
-	- [GitHub](https://github.com/sirmarkz/staff-engineer-mode/tree/main/specialists/llm-application-security)
+- [llm-wiki](https://skillsmp.com/skills/wanteddev-wantedlab-llm-wiki-skill-packages-llm-wiki-skill-skill-md) — by wanteddev
+	- [GitHub](https://github.com/wanteddev/wantedlab-llm-wiki-skill/tree/main/packages/llm-wiki-skill)
 
-- [llm-evaluation](https://skillsmp.com/skills/sirmarkz-staff-engineer-mode-specialists-llm-evaluation-skill-md) — by sirmarkz
-	- [GitHub](https://github.com/sirmarkz/staff-engineer-mode/tree/main/specialists/llm-evaluation)
+- [llm](https://skillsmp.com/skills/fourbroad-octopus-octopus-skills-llm-skill-md) — by fourbroad
+	- [GitHub](https://github.com/fourbroad/octopus/tree/dev/.octopus/skills/llm)
 
-- [prompt-engineering](https://skillsmp.com/skills/vignesh2027-ai-agent-skills-skills-prompt-engineering-skill-md) — by vignesh2027
-	- [GitHub](https://github.com/vignesh2027/AI-AGENT-SKILLS/tree/main/skills/prompt-engineering)
+- [llm-output-validation](https://skillsmp.com/skills/muratovv-ai-hats-library-usage-skills-llm-output-validation-skill-md) — by muratovv
+	- [GitHub](https://github.com/muratovv/ai-hats/tree/master/library/usage/skills/llm-output-validation)
 
-- [prompt-engineering](https://skillsmp.com/skills/terminalskills-skills-skills-prompt-engineering-skill-md) — by TerminalSkills
-	- [GitHub](https://github.com/TerminalSkills/skills/tree/main/skills/prompt-engineering)
+- [prompt-engineering](https://skillsmp.com/skills/xobotyi-cc-foundry-plugins-ai-helpers-skills-prompt-engineering-skill-md) — by xobotyi
+	- [GitHub](https://github.com/xobotyi/cc-foundry/tree/master/plugins/ai-helpers/skills/prompt-engineering)
 
-- [prompt-engineering](https://skillsmp.com/skills/laxerem-dotfiles-claude-skills-prompt-engineering-skill-md) — by Laxerem
-	- [GitHub](https://github.com/Laxerem/dotfiles/tree/master/.claude/skills/prompt-engineering)
+- [prompt-engineering](https://skillsmp.com/skills/zakarialabib-opencode-skills-prompt-engineering-skill-md) — by Zakarialabib
+	- [GitHub](https://github.com/Zakarialabib/opencode/tree/master/skills/prompt-engineering)
 
-- [prompt-engineering](https://skillsmp.com/skills/quotesystemx-go-agent-llm-orchestrator-agent-skills-prompt-engineering-skill-md) — by QuoteSystemX
-	- [GitHub](https://github.com/QuoteSystemX/go-agent-llm-orchestrator/tree/main/.agent/skills/prompt-engineering)
+- [prompt-engineering-sts](https://skillsmp.com/skills/stsgs1980-zai-agent-toolkit-skills-prompt-engineering-sts-skill-md) — by stsgs1980
+	- [GitHub](https://github.com/stsgs1980/Zai-agent-toolkit/tree/main/skills/prompt-engineering_sts)
+
+- [prompt-engineering](https://skillsmp.com/skills/richard-devbot-sdlc-rstack-skills-prompt-engineering-skill-md) — by richard-devbot
+	- [GitHub](https://github.com/richard-devbot/SDLC-rstack/tree/main/skills/prompt-engineering)
+
+- [prompt-engineering-patterns](https://skillsmp.com/skills/richard-devbot-sdlc-rstack-plugins-llm-application-dev-skills-prompt-engineering-patterns-skill-md) — by richard-devbot
+	- [GitHub](https://github.com/richard-devbot/SDLC-rstack/tree/main/plugins/llm-application-dev/skills/prompt-engineering-patterns)
+
+- [prompt-engineering](https://skillsmp.com/skills/deathrashed-agents-repos-inference-sh-8-skills-guides-prompting-prompt-engineering-skill-md) — by deathrashed
+	- [GitHub](https://github.com/deathrashed/.agents/tree/main/repos/inference-sh-8/skills/guides/prompting/prompt-engineering)
+
+- [prompt-engineering](https://skillsmp.com/skills/sebnow-configs-modules-agentic-skills-prompt-engineering-skill-md) — by sebnow
+	- [GitHub](https://github.com/sebnow/configs/tree/master/modules/agentic/skills/prompt-engineering)
+
+- [prompt-engineering-patterns](https://skillsmp.com/skills/artubss-skills-claude-code-skills-skills-ai-research-prompt-engineering-patterns-skill-md) — by artubss
+	- [GitHub](https://github.com/artubss/SKILLS-CLAUDE-CODE/tree/master/skills/skills/ai-research/prompt-engineering-patterns)
+
+- [prompt-engineering](https://skillsmp.com/skills/artubss-skills-claude-code-skills-skills-ai-research-prompt-engineering-skill-md) — by artubss
+	- [GitHub](https://github.com/artubss/SKILLS-CLAUDE-CODE/tree/master/skills/skills/ai-research/prompt-engineering)
+
+- [prompt-engineering](https://skillsmp.com/skills/afine907-skills-prompt-engineering-skill-md) — by afine907
+	- [GitHub](https://github.com/afine907/skills/tree/master/prompt-engineering)
+
+- [prompt-engineering](https://skillsmp.com/skills/inference-sh-skills-guides-prompting-prompt-engineering-skill-md) — by inference-sh
+	- [GitHub](https://github.com/inference-sh/skills/tree/main/guides/prompting/prompt-engineering)
+
+- [prompt-engineering](https://skillsmp.com/skills/prashanth-ds-ml-local-codex-skills-07-prompt-engineering-skill-md) — by prashanth-ds-ml
+	- [GitHub](https://github.com/prashanth-ds-ml/local-codex/tree/master/skills/07-prompt-engineering)
+
+- [prompt-engineering](https://skillsmp.com/skills/oneye5-pie-skills-prompt-engineering-skill-md) — by oneye5
+	- [GitHub](https://github.com/oneye5/pie/tree/master/skills/prompt-engineering)
+
+- [prompt-engineering-expert](https://skillsmp.com/skills/xinlingfeiwu-openclaw-skills-prompt-engineering-expert-skill-md) — by xinlingfeiwu
+	- [GitHub](https://github.com/xinlingfeiwu/openclaw/tree/main/skills/prompt-engineering-expert)
+
+- [prompt-engineering](https://skillsmp.com/skills/micobruh-agentic-bi-copilot-codex-skills-prompt-engineering-skill-md) — by micobruh
+	- [GitHub](https://github.com/micobruh/agentic-BI-copilot/tree/main/.codex/skills/prompt-engineering)
+
+- [prompt-engineering](https://skillsmp.com/skills/stsgs1980-ui-kit-skills-prompt-engineering-skill-md) — by stsgs1980
+	- [GitHub](https://github.com/stsgs1980/UI-Kit/tree/main/skills/prompt-engineering)
+
+- [prompt-engineering](https://skillsmp.com/skills/badhope-ai-skill-skills-ai-prompt-engineering-skill-md) — by badhope
+	- [GitHub](https://github.com/badhope/AI-SKILL/tree/main/skills/ai/prompt-engineering)
+
+- [prompt-engineering-patterns](https://skillsmp.com/skills/badhope-ai-skill-skills-ai-prompt-engineering-patterns-skill-md) — by badhope
+	- [GitHub](https://github.com/badhope/AI-SKILL/tree/main/skills/ai/prompt-engineering-patterns)
+
+- [prompt-engineering](https://skillsmp.com/skills/muvon-octomind-tap-skills-prompt-engineering-skill-md) — by Muvon
+	- [GitHub](https://github.com/Muvon/octomind-tap/tree/master/skills/prompt-engineering)
 
 - [prompt-engineering](https://skillsmp.com/skills/doodledood-manifest-dev-claude-plugins-manifest-dev-tools-skills-prompt-engineering-skill-md) — by doodledood
 	- [GitHub](https://github.com/doodledood/manifest-dev/tree/main/claude-plugins/manifest-dev-tools/skills/prompt-engineering)
 
-- [prompt-engineering](https://skillsmp.com/skills/phntm7-skills-skills-prompt-engineering-skill-md) — by phntm7
-	- [GitHub](https://github.com/phntm7/skills/tree/main/skills/prompt-engineering)
+- [ai-tools-setup](https://skillsmp.com/skills/oleg-koval-agent-skills-packages-software-development-ai-tools-setup-adapters-claude-skills-ai-tools-setup-skill-md) — by oleg-koval
+	- [GitHub](https://github.com/oleg-koval/agent-skills/tree/main/packages/software-development/ai-tools-setup/adapters/claude/skills/ai-tools-setup)
 
-- [prompt-engineering](https://skillsmp.com/skills/wrongstack-wrongstack-packages-core-skills-prompt-engineering-skill-md) — by WrongStack
-	- [GitHub](https://github.com/WrongStack/WrongStack/tree/main/packages/core/skills/prompt-engineering)
-
-- [prompt-engineering](https://skillsmp.com/skills/shoumiksaha-agent-skill-security-governance-malicious-skills-prompt-prompt-engineering-2-2-skill-md) — by ShoumikSaha
-	- [GitHub](https://github.com/ShoumikSaha/agent-skill-security/tree/main/governance/malicious_skills/prompt/prompt-engineering-2-2)
-
-- [prompt-engineering](https://skillsmp.com/skills/shoumiksaha-agent-skill-security-governance-modified-skills-append-after-canary-prompt-prompt-engineering-2-1-skill-md) — by ShoumikSaha
-	- [GitHub](https://github.com/ShoumikSaha/agent-skill-security/tree/main/governance/modified_skills/append_after_canary/prompt/prompt-engineering-2-1)
-
-- [prompt-engineering](https://skillsmp.com/skills/shoumiksaha-agent-skill-security-governance-modified-skills-append-after-canary-prompt-prompt-engineering-2-2-skill-md) — by ShoumikSaha
-	- [GitHub](https://github.com/ShoumikSaha/agent-skill-security/tree/main/governance/modified_skills/append_after_canary/prompt/prompt-engineering-2-2)
-
-- [prompt-engineering](https://skillsmp.com/skills/shoumiksaha-agent-skill-security-governance-modified-skills-dod-instruction-prompt-prompt-engineering-2-1-skill-md) — by ShoumikSaha
-	- [GitHub](https://github.com/ShoumikSaha/agent-skill-security/tree/main/governance/modified_skills/dod_instruction/prompt/prompt-engineering-2-1)
-
-- [prompt-engineering](https://skillsmp.com/skills/shoumiksaha-agent-skill-security-governance-modified-skills-dod-instruction-prompt-prompt-engineering-2-2-skill-md) — by ShoumikSaha
-	- [GitHub](https://github.com/ShoumikSaha/agent-skill-security/tree/main/governance/modified_skills/dod_instruction/prompt/prompt-engineering-2-2)
-
-- [prompt-engineering](https://skillsmp.com/skills/shoumiksaha-agent-skill-security-governance-modified-skills-jailbreaking-evaluator-prompt-prompt-engineering-2-1-skill-md) — by ShoumikSaha
-	- [GitHub](https://github.com/ShoumikSaha/agent-skill-security/tree/main/governance/modified_skills/jailbreaking_evaluator/prompt/prompt-engineering-2-1)
-
-- [prompt-engineering](https://skillsmp.com/skills/shoumiksaha-agent-skill-security-governance-modified-skills-jailbreaking-evaluator-prompt-prompt-engineering-2-2-skill-md) — by ShoumikSaha
-	- [GitHub](https://github.com/ShoumikSaha/agent-skill-security/tree/main/governance/modified_skills/jailbreaking_evaluator/prompt/prompt-engineering-2-2)
-
-- [prompt-engineering](https://skillsmp.com/skills/shoumiksaha-agent-skill-security-governance-modified-skills-paraphrase-instruction-prompt-prompt-engineering-2-1-skill-md) — by ShoumikSaha
-	- [GitHub](https://github.com/ShoumikSaha/agent-skill-security/tree/main/governance/modified_skills/paraphrase_instruction/prompt/prompt-engineering-2-1)
-
-- [prompt-engineering](https://skillsmp.com/skills/shoumiksaha-agent-skill-security-governance-modified-skills-paraphrase-instruction-prompt-prompt-engineering-2-2-skill-md) — by ShoumikSaha
-	- [GitHub](https://github.com/ShoumikSaha/agent-skill-security/tree/main/governance/modified_skills/paraphrase_instruction/prompt/prompt-engineering-2-2)
-
-- [prompt-engineering-expert-pro](https://skillsmp.com/skills/shoumiksaha-agent-skill-security-selection-modified-skills-active-maintain-prompt-prompt-engineering-expert-pro-skill-md) — by ShoumikSaha
-	- [GitHub](https://github.com/ShoumikSaha/agent-skill-security/tree/main/selection/modified_skills_active-maintain/prompt/prompt-engineering-expert-pro)
-
-- [prompt-engineering](https://skillsmp.com/skills/shoumiksaha-agent-skill-security-governance-malicious-skills-prompt-prompt-engineering-2-1-skill-md) — by ShoumikSaha
-	- [GitHub](https://github.com/ShoumikSaha/agent-skill-security/tree/main/governance/malicious_skills/prompt/prompt-engineering-2-1)
-
-- [prompt-engineering](https://skillsmp.com/skills/shoumiksaha-agent-skill-security-benign-skills-prompt-prompt-engineering-skill-md) — by ShoumikSaha
-	- [GitHub](https://github.com/ShoumikSaha/agent-skill-security/tree/main/benign_skills/prompt/prompt-engineering)
-
-- [prompt-engineering](https://skillsmp.com/skills/shoumiksaha-agent-skill-security-benign-skills-prompt-prompt-engineering-2-skill-md) — by ShoumikSaha
-	- [GitHub](https://github.com/ShoumikSaha/agent-skill-security/tree/main/benign_skills/prompt/prompt-engineering-2)
+- [ai-tools-setup](https://skillsmp.com/skills/oleg-koval-agent-skills-packages-software-development-ai-tools-setup-skill-md) — by oleg-koval
+	- [GitHub](https://github.com/oleg-koval/agent-skills/tree/main/packages/software-development/ai-tools-setup)
 
 - [ai-dev-tools-sync](https://skillsmp.com/skills/duc01226-easyplatform-agents-skills-ai-dev-tools-sync-skill-md) — by duc01226
 	- [GitHub](https://github.com/duc01226/EasyPlatform/tree/main/.agents/skills/ai-dev-tools-sync)
 
-- [ai-dev-tools-sync](https://skillsmp.com/skills/duc01226-easy-claude-agents-skills-ai-dev-tools-sync-skill-md) — by duc01226
-	- [GitHub](https://github.com/duc01226/easy-claude/tree/main/.agents/skills/ai-dev-tools-sync)
+- [ai-tools-management](https://skillsmp.com/skills/linguage-henri-skills-ai-tools-management-skill-md) — by Linguage
+	- [GitHub](https://github.com/Linguage/henri_skills/tree/main/ai-tools-management)
 
 - [ai-tools](https://skillsmp.com/skills/rudderjs-rudder-packages-ai-boost-skills-ai-tools-skill-md) — by rudderjs
 	- [GitHub](https://github.com/rudderjs/rudder/tree/main/packages/ai/boost/skills/ai-tools)
@@ -3276,11 +3282,8 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [ai-tools-selection](https://skillsmp.com/skills/eralmendral-symphony-skills-ai-tools-selection-skill-md) — by eralmendral
 	- [GitHub](https://github.com/eralmendral/Symphony/tree/main/skills/ai-tools-selection)
 
-- [ai-tools-setup](https://skillsmp.com/skills/oleg-koval-agent-skills-packages-software-development-ai-tools-setup-skill-md) — by oleg-koval
-	- [GitHub](https://github.com/oleg-koval/agent-skills/tree/main/packages/software-development/ai-tools-setup)
-
-- [ai-dev-tools-sync](https://skillsmp.com/skills/duc01226-easy-claude-claude-skills-ai-dev-tools-sync-skill-md) — by duc01226
-	- [GitHub](https://github.com/duc01226/easy-claude/tree/main/.claude/skills/ai-dev-tools-sync)
+- [ai-dev-tools-sync](https://skillsmp.com/skills/duc01226-easyplatform-claude-skills-ai-dev-tools-sync-skill-md) — by duc01226
+	- [GitHub](https://github.com/duc01226/EasyPlatform/tree/main/.claude/skills/ai-dev-tools-sync)
 
 - [ai-tools-sweep](https://skillsmp.com/skills/jeff-hamm-ai-tools-src-skills-metaprompting-references-ai-tools-sweep-skill-md) — by jeff-hamm
 	- [GitHub](https://github.com/jeff-hamm/ai-tools/tree/main/src/skills/metaprompting/references/ai-tools-sweep)
@@ -3296,9 +3299,6 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 
 - [ai-tools-workflow](https://skillsmp.com/skills/lorkiii-tomkeep-github-skills-ai-tools-workflow-skill-md) — by Lorkiii
 	- [GitHub](https://github.com/Lorkiii/tomkeep/tree/main/.github/skills/ai-tools-workflow)
-
-- [ai-tools-management](https://skillsmp.com/skills/linguage-henri-skills-ai-tools-management-skill-md) — by Linguage
-	- [GitHub](https://github.com/Linguage/henri_skills/tree/main/ai-tools-management)
 
 - [ai-tools-for-video-editing](https://skillsmp.com/skills/susan4731-wilfordf-ai-skills-ai-tools-for-video-editing-skill-md) — by susan4731-wilfordf
 	- [GitHub](https://github.com/susan4731-wilfordf/ai-skills/tree/main/ai-tools-for-video-editing)
@@ -3323,71 +3323,86 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 
 ### API Design & Developer Experience
 
-- [api-design-first](https://skillsmp.com/skills/peterbamuhigire-skills-web-dev-skills-api-design-first-skill-md) — by peterbamuhigire
-	- [GitHub](https://github.com/peterbamuhigire/skills-web-dev/tree/main/skills/api-design-first)
+- [api-design](https://skillsmp.com/skills/nitrr-official-campusos-github-skills-api-design-skill-md) — by NITRR-Official
+	- [GitHub](https://github.com/NITRR-Official/CampusOS/tree/main/.github/skills/api-design)
 
-- [api-design-reviewer](https://skillsmp.com/skills/xf-checkout-claude-skills-engineering-skills-api-design-reviewer-skill-md) — by xf-checkout
-	- [GitHub](https://github.com/xf-checkout/claude-skills/tree/main/engineering/skills/api-design-reviewer)
+- [api-design-reviewer](https://skillsmp.com/skills/skitemplar-ultron-skills-catalog-engineering-api-design-reviewer-skill-md) — by SkiTemplar
+	- [GitHub](https://github.com/SkiTemplar/ultron/tree/main/skills-catalog/engineering/api-design-reviewer)
 
-- [api-design](https://skillsmp.com/skills/jacob-balslev-skill-graph-skills-api-design-skill-md) — by jacob-balslev
-	- [GitHub](https://github.com/jacob-balslev/skill-graph/tree/main/skills/api-design)
+- [api-designer](https://skillsmp.com/skills/skitemplar-ultron-skills-catalog-misc-api-designer-skill-md) — by SkiTemplar
+	- [GitHub](https://github.com/SkiTemplar/ultron/tree/main/skills-catalog/misc/api-designer)
 
-- [api-design](https://skillsmp.com/skills/jacob-balslev-skill-graph-marketplace-skills-api-design-skill-md) — by jacob-balslev
-	- [GitHub](https://github.com/jacob-balslev/skill-graph/tree/main/marketplace/skills/api-design)
+- [api-design](https://skillsmp.com/skills/cz-x-ya-oh-my-csharp-skills-api-design-skill-md) — by CZ-X-Ya
+	- [GitHub](https://github.com/CZ-X-Ya/oh-my-csharp-skills/tree/main/api-design)
 
-- [api-designer](https://skillsmp.com/skills/theding0x-capital-simulator-claude-skills-api-designer-skill-md) — by theding0x
-	- [GitHub](https://github.com/theding0x/capital-simulator/tree/main/.claude/skills/api-designer)
+- [api-design-principles](https://skillsmp.com/skills/richard-devbot-sdlc-rstack-plugins-backend-development-skills-api-design-principles-skill-md) — by richard-devbot
+	- [GitHub](https://github.com/richard-devbot/SDLC-rstack/tree/main/plugins/backend-development/skills/api-design-principles)
 
-- [api-design](https://skillsmp.com/skills/aneja5-forge-skills-skills-api-design-skill-md) — by aneja5
-	- [GitHub](https://github.com/aneja5/forge-skills/tree/main/skills/api-design)
+- [reviewing-api-design](https://skillsmp.com/skills/richard-devbot-sdlc-rstack-skills-architecture-design-api-design-reviewer-skill-md) — by richard-devbot
+	- [GitHub](https://github.com/richard-devbot/SDLC-rstack/tree/main/skills/architecture-design/api-design-reviewer)
 
-- [api-design-principles](https://skillsmp.com/skills/tomevault-io-tomes-thc1006-nephoran-intent-operator-skills-api-design-principles-skill-md) — by tomevault-io
-	- [GitHub](https://github.com/tomevault-io/tomes/tree/main/thc1006--nephoran-intent-operator/skills/api-design-principles)
-
-- [api-design-and-compatibility](https://skillsmp.com/skills/sirmarkz-staff-engineer-mode-specialists-api-design-and-compatibility-skill-md) — by sirmarkz
-	- [GitHub](https://github.com/sirmarkz/staff-engineer-mode/tree/main/specialists/api-design-and-compatibility)
+- [api-design](https://skillsmp.com/skills/jacob-balslev-skills-skills-api-design-skill-md) — by jacob-balslev
+	- [GitHub](https://github.com/jacob-balslev/skills/tree/main/skills/api-design)
 
 - [api-design](https://skillsmp.com/skills/crochee-dotfiles-skills-api-design-skill-md) — by crochee
 	- [GitHub](https://github.com/crochee/dotfiles/tree/master/skills/api-design)
 
-- [api-design](https://skillsmp.com/skills/ibuyspy-shared-basecoat-skills-api-design-skill-md) — by IBuySpy-Shared
-	- [GitHub](https://github.com/IBuySpy-Shared/basecoat/tree/main/skills/api-design)
+- [api-design](https://skillsmp.com/skills/punkharb-autoport-claude-skills-api-design-skill-md) — by punkharb
+	- [GitHub](https://github.com/punkharb/autoport/tree/main/.claude/skills/api-design)
 
-- [api-design](https://skillsmp.com/skills/reidkimball-agents-skills-api-design-skill-md) — by ReidKimball
-	- [GitHub](https://github.com/ReidKimball/.agents/tree/main/skills/api-design)
+- [api-design](https://skillsmp.com/skills/hiennguyen9874-pi-starter-kit-pi-skills-api-design-skill-md) — by hiennguyen9874
+	- [GitHub](https://github.com/hiennguyen9874/pi-starter-kit/tree/main/.pi/skills/api-design)
 
-- [api-design-craft](https://skillsmp.com/skills/francisco-perez-sorrosal-praxion-skills-api-design-craft-skill-md) — by francisco-perez-sorrosal
-	- [GitHub](https://github.com/francisco-perez-sorrosal/praxion/tree/main/skills/api-design-craft)
-
-- [api-design](https://skillsmp.com/skills/duc01226-easyplatform-agents-skills-api-design-skill-md) — by duc01226
-	- [GitHub](https://github.com/duc01226/EasyPlatform/tree/main/.agents/skills/api-design)
-
-- [api-design](https://skillsmp.com/skills/duc01226-easy-claude-agents-skills-api-design-skill-md) — by duc01226
-	- [GitHub](https://github.com/duc01226/easy-claude/tree/main/.agents/skills/api-design)
-
-- [api-design-and-evolution](https://skillsmp.com/skills/alexyedi-alex-agents-skills-software-development-api-design-and-evolution-skill-md) — by AlexYedi
-	- [GitHub](https://github.com/AlexYedi/alex-agents-skills/tree/main/Software Development/api-design-and-evolution)
-
-- [api-design](https://skillsmp.com/skills/francisco-perez-sorrosal-praxion-skills-api-design-skill-md) — by francisco-perez-sorrosal
-	- [GitHub](https://github.com/francisco-perez-sorrosal/praxion/tree/main/skills/api-design)
+- [api-design-impl](https://skillsmp.com/skills/luckyonetwothree-all-skill-backend-skill-backend-01-api-design-skills-api-design-impl-skill-md) — by LuckyOneTwoThree
+	- [GitHub](https://github.com/LuckyOneTwoThree/All-Skill/tree/main/backend-skill/backend-01-api-design/skills/api-design-impl)
 
 - [api-design-orchestrator](https://skillsmp.com/skills/luckyonetwothree-all-skill-backend-skill-backend-01-api-design-orchestrators-api-design-orchestrator-skill-md) — by LuckyOneTwoThree
 	- [GitHub](https://github.com/LuckyOneTwoThree/All-Skill/tree/main/backend-skill/backend-01-api-design/orchestrators/api-design-orchestrator)
 
-- [api-design](https://skillsmp.com/skills/hivetechs-collective-hive-consensus-support-claude-skills-universal-api-design-skill-md) — by hivetechs-collective
-	- [GitHub](https://github.com/hivetechs-collective/hive-consensus-support/tree/main/.claude/skills/universal/api-design)
+- [api-design](https://skillsmp.com/skills/hamad-center-haac-aikit-catalog-skills-tier2-api-design-skill-md) — by Hamad-Center
+	- [GitHub](https://github.com/Hamad-Center/haac-aikit/tree/main/catalog/skills/tier2/api-design)
 
-- [api-design](https://skillsmp.com/skills/nevitonsantana-adaptive-skills-skills-engineering-api-design-skill-md) — by nevitonsantana
-	- [GitHub](https://github.com/nevitonsantana/adaptive-skills/tree/main/skills/engineering/api-design)
+- [api-design](https://skillsmp.com/skills/vinir-rb-hello-fian-as-backend-claude-skills-api-design-skill-md) — by ViniR-RB
+	- [GitHub](https://github.com/ViniR-RB/hello_fian-as_backend/tree/main/.claude/skills/api-design)
 
-- [api-design-skill](https://skillsmp.com/skills/nickolai-brennan-vault2-0-super-powers-skills-api-design-skill-skill-md) — by Nickolai-Brennan
-	- [GitHub](https://github.com/Nickolai-Brennan/__Vault2.0/tree/main/super-powers/skills/api-design-skill)
+- [api-design](https://skillsmp.com/skills/agaemo-dotfiles-claude-skills-craft-flows-api-design-skill-md) — by agaemo
+	- [GitHub](https://github.com/agaemo/dotfiles/tree/main/claude/skills/craft/flows/api-design)
 
-- [api-documentation](https://skillsmp.com/skills/yvesdarbouze-paperworking-agents-skills-api-documentation-skill-md) — by YvesDarbouze
-	- [GitHub](https://github.com/YvesDarbouze/PaperWorking/tree/main/.agents/skills/api-documentation)
+- [api-design-principles](https://skillsmp.com/skills/artubss-skills-claude-code-skills-skills-development-api-design-principles-skill-md) — by artubss
+	- [GitHub](https://github.com/artubss/SKILLS-CLAUDE-CODE/tree/master/skills/skills/development/api-design-principles)
 
-- [api-documentation-generator](https://skillsmp.com/skills/yvesdarbouze-paperworking-agents-skills-api-documentation-generator-skill-md) — by YvesDarbouze
-	- [GitHub](https://github.com/YvesDarbouze/PaperWorking/tree/main/.agents/skills/api-documentation-generator)
+- [api-design-patterns](https://skillsmp.com/skills/ils15-pantheon-skills-api-design-patterns-skill-md) — by ils15
+	- [GitHub](https://github.com/ils15/pantheon/tree/main/skills/api-design-patterns)
+
+- [api-design](https://skillsmp.com/skills/planifest-planifest-framework-planifest-framework-external-skills-api-design-skill-md) — by planifest
+	- [GitHub](https://github.com/planifest/planifest-framework/tree/main/planifest-framework/external-skills/api-design)
+
+- [api-design-rest](https://skillsmp.com/skills/planifest-planifest-framework-planifest-framework-external-skills-api-design-rest-skill-md) — by planifest
+	- [GitHub](https://github.com/planifest/planifest-framework/tree/main/planifest-framework/external-skills/api-design-rest)
+
+- [api-design-graphql](https://skillsmp.com/skills/planifest-planifest-framework-planifest-framework-external-skills-api-design-graphql-skill-md) — by planifest
+	- [GitHub](https://github.com/planifest/planifest-framework/tree/main/planifest-framework/external-skills/api-design-graphql)
+
+- [api-documentation](https://skillsmp.com/skills/paulpas-agent-skill-router-skills-agent-api-documentation-skill-md) — by paulpas
+	- [GitHub](https://github.com/paulpas/agent-skill-router/tree/main/skills/agent/api-documentation)
+
+- [api-documentation](https://skillsmp.com/skills/julio211916-tlanticad-studio-v0-1-alpha-skills-ju-skills-api-documentation-skill-md) — by julio211916
+	- [GitHub](https://github.com/julio211916/TlantiCAD-Studio-V0.1-alpha/tree/main/skills/ju/skills/api-documentation)
+
+- [writing-api-documentation](https://skillsmp.com/skills/richard-devbot-sdlc-rstack-skills-documentation-writing-api-documentation-skill-md) — by richard-devbot
+	- [GitHub](https://github.com/richard-devbot/SDLC-rstack/tree/main/skills/documentation-writing/api-documentation)
+
+- [api-documentation-generator](https://skillsmp.com/skills/artubss-skills-claude-code-skills-skills-development-api-documentation-generator-skill-md) — by artubss
+	- [GitHub](https://github.com/artubss/SKILLS-CLAUDE-CODE/tree/master/skills/skills/development/api-documentation-generator)
+
+- [api-documentation-generator](https://skillsmp.com/skills/badhope-ai-skill-skills-ai-api-documentation-generator-skill-md) — by badhope
+	- [GitHub](https://github.com/badhope/AI-SKILL/tree/main/skills/ai/api-documentation-generator)
+
+- [api-documentation](https://skillsmp.com/skills/badhope-ai-skill-skills-ai-api-documentation-skill-md) — by badhope
+	- [GitHub](https://github.com/badhope/AI-SKILL/tree/main/skills/ai/api-documentation)
+
+- [api-documentation](https://skillsmp.com/skills/noreplyx-my-opencode-setup-skills-api-documentation-skill-md) — by noreplyx
+	- [GitHub](https://github.com/noreplyx/my-opencode-setup/tree/main/skills/api-documentation)
 
 - [api-documentation](https://skillsmp.com/skills/cosmicstack-labs-mercury-agent-skills-categories-development-api-documentation-skill-md) — by cosmicstack-labs
 	- [GitHub](https://github.com/cosmicstack-labs/mercury-agent-skills/tree/main/categories/development/api-documentation)
@@ -3397,9 +3412,6 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 
 - [api-documentation](https://skillsmp.com/skills/cblanquera-coding-skills-api-documentation-skill-md) — by cblanquera
 	- [GitHub](https://github.com/cblanquera/coding/tree/main/skills/api-documentation)
-
-- [api-documentation](https://skillsmp.com/skills/paulpas-agent-skill-router-skills-agent-api-documentation-skill-md) — by paulpas
-	- [GitHub](https://github.com/paulpas/agent-skill-router/tree/main/skills/agent/api-documentation)
 
 - [api-documentation-generator](https://skillsmp.com/skills/newmindsgroup-ai-agent-skills-library-dist-skills-api-documentation-generator-skill-md) — by newmindsgroup
 	- [GitHub](https://github.com/newmindsgroup/ai-agent-skills-library/tree/main/dist/skills/api-documentation-generator)
@@ -3413,17 +3425,11 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [api-documentation](https://skillsmp.com/skills/dhruvinrsoni-agentskills-garden-skills-50-documentation-api-documentation-skill-md) — by dhruvinrsoni
 	- [GitHub](https://github.com/dhruvinrsoni/agentskills-garden/tree/main/skills/50-documentation/api-documentation)
 
-- [api-documentation](https://skillsmp.com/skills/noreplyx-my-opencode-setup-skills-api-documentation-skill-md) — by noreplyx
-	- [GitHub](https://github.com/noreplyx/my-opencode-setup/tree/main/skills/api-documentation)
-
 - [api-documentation](https://skillsmp.com/skills/lambdatest-agent-skills-api-skill-api-documentation-skill-md) — by LambdaTest
 	- [GitHub](https://github.com/LambdaTest/agent-skills/tree/main/api-skill/api-documentation)
 
 - [api-documentation](https://skillsmp.com/skills/irahardianto-rugged-gemini-gemini-skills-api-documentation-skill-md) — by irahardianto
 	- [GitHub](https://github.com/irahardianto/rugged-gemini/tree/main/.gemini/skills/api-documentation)
-
-- [api-documentation](https://skillsmp.com/skills/fabioc-aloha-pbi-visual-assistant-github-backup-20260505-skills-local-api-documentation-skill-md) — by fabioc-aloha
-	- [GitHub](https://github.com/fabioc-aloha/PBI-Visual-Assistant/tree/main/.github-backup-20260505/skills/local/api-documentation)
 
 - [api-documentation-generator](https://skillsmp.com/skills/luokai0-ai-agent-skills-by-luo-kai-ai-agent-skills-22-clawhub-skills-sovereign-api-docs-generator-skill-md) — by luokai0
 	- [GitHub](https://github.com/luokai0/ai-agent-skills-by-luo-kai/tree/main/ai-agent-skills/22-clawhub-skills/sovereign-api-docs-generator)
@@ -3437,23 +3443,23 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [api-documentation-generator](https://skillsmp.com/skills/tomevault-io-tomes-kousen-claude-code-training-skills-api-documentation-skill-skill-md) — by tomevault-io
 	- [GitHub](https://github.com/tomevault-io/tomes/tree/main/kousen--claude-code-training/skills/api-documentation-skill)
 
-- [api-documentation-generator](https://skillsmp.com/skills/tomevault-io-tomes-davila7-claude-code-templates-skills-api-documentation-generator-skill-md) — by tomevault-io
-	- [GitHub](https://github.com/tomevault-io/tomes/tree/main/davila7--claude-code-templates/skills/api-documentation-generator)
-
-- [api-documentation](https://skillsmp.com/skills/tomevault-io-skills-registry-bobmatnyc-claude-mpm-skills-api-documentation-skill-md) — by tomevault-io
-	- [GitHub](https://github.com/tomevault-io/skills-registry/tree/main/bobmatnyc--claude-mpm-skills--api-documentation)
+- [developer-lead-gen](https://skillsmp.com/skills/cody-w-tucker-skills-skills-developer-lead-gen-skill-md) — by Cody-W-Tucker
+	- [GitHub](https://github.com/Cody-W-Tucker/skills/tree/main/skills/developer-lead-gen)
 
 - [cli-tools](https://skillsmp.com/skills/tomevault-io-skills-registry-dragnoir-shopify-agent-skills-cli-tools-skill-md) — by tomevault-io
 	- [GitHub](https://github.com/tomevault-io/skills-registry/tree/main/dragnoir--shopify-agent-skills--cli-tools)
 
-- [developer-lead-gen](https://skillsmp.com/skills/meghal86-stacksignal-agents-skills-developer-lead-gen-skill-md) — by meghal86
-	- [GitHub](https://github.com/meghal86/stacksignal/tree/main/.agents/skills/developer-lead-gen)
-
 - [gizmolab-tools](https://skillsmp.com/skills/meghal86-stacksignal-agents-skills-gizmolab-tools-skill-md) — by meghal86
 	- [GitHub](https://github.com/meghal86/stacksignal/tree/main/.agents/skills/gizmolab-tools)
 
+- [developer-lead-gen](https://skillsmp.com/skills/meghal86-stacksignal-agents-skills-developer-lead-gen-skill-md) — by meghal86
+	- [GitHub](https://github.com/meghal86/stacksignal/tree/main/.agents/skills/developer-lead-gen)
+
 - [dev-tools](https://skillsmp.com/skills/overthinkos-overthink-plugins-coder-skills-dev-tools-skill-md) — by overthinkos
 	- [GitHub](https://github.com/overthinkos/overthink-plugins/tree/main/coder/skills/dev-tools)
+
+- [harness-tools](https://skillsmp.com/skills/unclenate-auto-harness-platform-skills-harness-tools-skill-md) — by unclenate
+	- [GitHub](https://github.com/unclenate/auto-harness/tree/main/platform/skills/harness-tools)
 
 - [offensive-macos-family-developer-tools](https://skillsmp.com/skills/unsaltedhash42-mac-reversing-station-skills-offensive-macos-family-developer-tools-skill-md) — by UnsaltedHash42
 	- [GitHub](https://github.com/UnsaltedHash42/mac-reversing-station/tree/main/Skills/offensive-macos-family-developer-tools)
@@ -3475,12 +3481,6 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 
 - [cli-tools](https://skillsmp.com/skills/gzlo-gzl-terminal-copilot-skills-cli-tools-skill-md) — by gzlo
 	- [GitHub](https://github.com/gzlo/gzl-terminal/tree/master/copilot/skills/cli-tools)
-
-- [gizmolab-tools](https://skillsmp.com/skills/ljt-520-openclaw-backup-skills-gizmo-dev-gizmolab-tools-skill-md) — by LJT-520
-	- [GitHub](https://github.com/LJT-520/openClaw-backup/tree/master/skills/gizmo-dev/gizmolab-tools)
-
-- [developer-lead-gen](https://skillsmp.com/skills/jonathimer-devmarketing-skills-skills-developer-lead-gen-skill-md) — by jonathimer
-	- [GitHub](https://github.com/jonathimer/devmarketing-skills/tree/main/skills/developer-lead-gen)
 
 - [elite-developer-tools](https://skillsmp.com/skills/tajo9128-a0-developer-tools-skill-md) — by tajo9128
 	- [GitHub](https://github.com/tajo9128/A0_developer_tools)
