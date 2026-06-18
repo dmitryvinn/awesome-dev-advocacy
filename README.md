@@ -2745,6 +2745,7 @@ Video channels dedicated to different areas of DevRel:
 - [FlowiseAI](https://flowiseai.com/)
 - [Forem](https://www.forem.com/)
 - [Frontend Mentor](https://www.frontendmentor.io/)
+- [Future AGI](https://futureagi.com/)
 - [fzf: A command-line fuzzy finder](https://github.com/junegunn/fzf)
 - [Galileo](https://www.rungalileo.io/)
 - [Game Conference Guide](https://gameconfguide.com/)
