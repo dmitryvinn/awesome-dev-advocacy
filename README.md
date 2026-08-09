@@ -3859,11 +3859,11 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [replit-deck](https://skillsmp.com/creators/nexu-io/open-design/plugins-official-examples-replit-deck) — by nexu-io
 	- [GitHub](https://github.com/nexu-io/open-design/tree/main/plugins/_official/examples/replit-deck)
 
+- [simplified-english](https://skillsmp.com/creators/paperclipai/paperclip/packages-skills-catalog-catalog-optional-content-simplified-english) — by paperclipai
+	- [GitHub](https://github.com/paperclipai/paperclip/tree/master/packages/skills-catalog/catalog/optional/content/simplified-english)
+
 - [docs-editor](https://skillsmp.com/creators/openai/openai-cookbook/codex-skills-docs-editor) — by openai
 	- [GitHub](https://github.com/openai/openai-cookbook/tree/main/.codex/skills/docs-editor)
-
-- [robots-txt](https://skillsmp.com/creators/thedaviddias/front-end-checklist/skills-robots-txt) — by thedaviddias
-	- [GitHub](https://github.com/thedaviddias/Front-End-Checklist/tree/main/skills/robots-txt)
 
 - [documentation-lookup](https://skillsmp.com/creators/affaan-m/ecc/agents-skills-documentation-lookup) — by affaan-m
 	- [GitHub](https://github.com/affaan-m/ECC/tree/main/.agents/skills/documentation-lookup)
@@ -3882,6 +3882,9 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 
 - [customs-trade-compliance](https://skillsmp.com/creators/affaan-m/ecc/skills-customs-trade-compliance) — by affaan-m
 	- [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/customs-trade-compliance)
+
+- [credential-recipe-research](https://skillsmp.com/creators/n8n-io/n8n/packages-n8n-instance-ai-skills-credential-recipe-research) — by n8n-io
+	- [GitHub](https://github.com/n8n-io/n8n/tree/master/packages/@n8n/instance-ai/skills/credential-recipe-research)
 
 - [natural-writing](https://skillsmp.com/creators/flutter/flutter/agents-agents-reidbaker-agent-skills-natural-writing) — by flutter
 	- [GitHub](https://github.com/flutter/flutter/tree/master/.agents/agents/reidbaker-agent/skills/natural-writing)
@@ -3909,9 +3912,6 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 
 - [antigravity-support](https://skillsmp.com/creators/google-gemini/gemini-cli/packages-core-src-skills-builtin-antigravity-support) — by google-gemini
 	- [GitHub](https://github.com/google-gemini/gemini-cli/tree/main/packages/core/src/skills/builtin/antigravity-support)
-
-- [openai-docs](https://skillsmp.com/creators/openai/codex/codex-rs-skills-src-assets-samples-openai-docs) — by openai
-	- [GitHub](https://github.com/openai/codex/tree/main/codex-rs/skills/src/assets/samples/openai-docs)
 
 - [openai-whisper-api](https://skillsmp.com/creators/openclaw/openclaw/skills-openai-whisper-api) — by openclaw
 	- [GitHub](https://github.com/openclaw/openclaw/tree/main/skills/openai-whisper-api)
@@ -4095,6 +4095,9 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [react-email](https://skillsmp.com/creators/novuhq/novu/agents-skills-react-email) — by novuhq
 	- [GitHub](https://github.com/novuhq/novu/tree/next/.agents/skills/react-email)
 
+- [testing-for-email-header-injection](https://skillsmp.com/creators/mukul975/anthropic-cybersecurity-skills/skills-testing-for-email-header-injection) — by mukul975
+	- [GitHub](https://github.com/mukul975/Anthropic-Cybersecurity-Skills/tree/main/skills/testing-for-email-header-injection)
+
 - [content-writer-agent](https://skillsmp.com/creators/mastra-ai/mastra/packages-editor-src-ee-workspace-skills-content-writer-agent) — by mastra-ai
 	- [GitHub](https://github.com/mastra-ai/mastra/tree/main/packages/editor/src/ee/workspace/skills/content-writer-agent)
 
@@ -4115,9 +4118,6 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 
 - [aphorisms](https://skillsmp.com/creators/danielmiessler/lifeos/lifeos-install-skills-aphorisms) — by danielmiessler
 	- [GitHub](https://github.com/danielmiessler/LifeOS/tree/main/LifeOS/install/skills/Aphorisms)
-
-- [knowledge](https://skillsmp.com/creators/danielmiessler/lifeos/lifeos-install-skills-knowledge) — by danielmiessler
-	- [GitHub](https://github.com/danielmiessler/LifeOS/tree/main/LifeOS/install/skills/Knowledge)
 
 ### Speaking & Presentations
 
@@ -4208,6 +4208,9 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [n8n-public-api](https://skillsmp.com/creators/n8n-io/n8n/agents-skills-public-api) — by n8n-io
 	- [GitHub](https://github.com/n8n-io/n8n/tree/master/.agents/skills/public-api)
 
+- [sweeper-fix](https://skillsmp.com/creators/microsoft/vscode/github-skills-sweeper-fix) — by microsoft
+	- [GitHub](https://github.com/microsoft/vscode/tree/main/.github/skills/sweeper-fix)
+
 - [scope-creep-detector](https://skillsmp.com/creators/shubhamsaboo/awesome-llm-apps/agent-skills-scope-creep-detector) — by Shubhamsaboo
 	- [GitHub](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/agent_skills/scope-creep-detector)
 
@@ -4238,9 +4241,6 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [html-ppt-zhangzara-grove](https://skillsmp.com/creators/nexu-io/open-design/plugins-official-examples-html-ppt-zhangzara-grove) — by nexu-io
 	- [GitHub](https://github.com/nexu-io/open-design/tree/main/plugins/_official/examples/html-ppt-zhangzara-grove)
 
-- [od-plugin-publish-github](https://skillsmp.com/creators/nexu-io/open-design/plugins-official-examples-od-plugin-publish-github) — by nexu-io
-	- [GitHub](https://github.com/nexu-io/open-design/tree/main/plugins/_official/examples/od-plugin-publish-github)
-
 - [openclaw-landable-bug-sweep](https://skillsmp.com/creators/openclaw/openclaw/agents-skills-openclaw-landable-bug-sweep) — by openclaw
 	- [GitHub](https://github.com/openclaw/openclaw/tree/main/.agents/skills/openclaw-landable-bug-sweep)
 
@@ -4268,9 +4268,6 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [interview-me](https://skillsmp.com/creators/addyosmani/agent-skills/skills-interview-me) — by addyosmani
 	- [GitHub](https://github.com/addyosmani/agent-skills/tree/main/skills/interview-me)
 
-- [pr-gardening](https://skillsmp.com/creators/paperclipai/paperclip/agents-skills-pr-gardening) — by paperclipai
-	- [GitHub](https://github.com/paperclipai/paperclip/tree/master/.agents/skills/pr-gardening)
-
 - [harness-genome](https://skillsmp.com/creators/ruvnet/ruflo/plugins-ruflo-metaharness-skills-harness-genome) — by ruvnet
 	- [GitHub](https://github.com/ruvnet/ruflo/tree/main/plugins/ruflo-metaharness/skills/harness-genome)
 
@@ -4286,14 +4283,17 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [aip-tracker](https://skillsmp.com/creators/apache/airflow/providers-common-ai-src-airflow-providers-common-ai-example-dags-skills-aip-tracker) — by apache
 	- [GitHub](https://github.com/apache/airflow/tree/main/providers/common/ai/src/airflow/providers/common/ai/example_dags/skills/aip-tracker)
 
+- [dependabot-triager](https://skillsmp.com/creators/cli/cli/github-skills-dependabot-triager) — by cli
+	- [GitHub](https://github.com/cli/cli/tree/trunk/.github/skills/dependabot-triager)
+
+- [agents-generator](https://skillsmp.com/creators/sickn33/agentic-awesome-skills/skills-agents-generator) — by sickn33
+	- [GitHub](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/agents-generator)
+
+- [pr-review](https://skillsmp.com/creators/saadeghi/daisyui/agents-skills-pr-review) — by saadeghi
+	- [GitHub](https://github.com/saadeghi/daisyui/tree/master/.agents/skills/pr-review)
+
 - [e2e-testing-patterns](https://skillsmp.com/creators/wshobson/agents/plugins-developer-essentials-skills-e2e-testing-patterns) — by wshobson
 	- [GitHub](https://github.com/wshobson/agents/tree/main/plugins/developer-essentials/skills/e2e-testing-patterns)
-
-- [qa-team](https://skillsmp.com/creators/posthog/posthog/agents-skills-qa-team) — by PostHog
-	- [GitHub](https://github.com/PostHog/posthog/tree/master/.agents/skills/qa-team)
-
-- [security-audit](https://skillsmp.com/creators/posthog/posthog/agents-skills-security-audit) — by PostHog
-	- [GitHub](https://github.com/PostHog/posthog/tree/master/.agents/skills/security-audit)
 
 ### Community Building
 
@@ -4390,14 +4390,8 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [dotcom-release-marketing](https://skillsmp.com/creators/tldraw/tldraw/skills-dotcom-release-marketing) — by tldraw
 	- [GitHub](https://github.com/tldraw/tldraw/tree/main/skills/dotcom-release-marketing)
 
-- [agent-browser](https://skillsmp.com/creators/moeru-ai/airi/agents-skills-agent-browser) — by moeru-ai
-	- [GitHub](https://github.com/moeru-ai/airi/tree/main/.agents/skills/agent-browser)
-
 - [community-marketing](https://skillsmp.com/creators/coreyhaines31/marketingskills/skills-community-marketing) — by coreyhaines31
 	- [GitHub](https://github.com/coreyhaines31/marketingskills/tree/main/skills/community-marketing)
-
-- [add-channel-connect-button](https://skillsmp.com/creators/novuhq/novu/cursor-skills-add-channel-connect-button) — by novuhq
-	- [GitHub](https://github.com/novuhq/novu/tree/next/.cursor/skills/add-channel-connect-button)
 
 - [electron](https://skillsmp.com/creators/vercel-labs/agent-browser/skill-data-electron) — by vercel-labs
 	- [GitHub](https://github.com/vercel-labs/agent-browser/tree/main/skill-data/electron)
@@ -4405,11 +4399,17 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [agent-browser](https://skillsmp.com/creators/vercel-labs/agent-browser/skills-agent-browser) — by vercel-labs
 	- [GitHub](https://github.com/vercel-labs/agent-browser/tree/main/skills/agent-browser)
 
+- [add-channel-connect-button](https://skillsmp.com/creators/novuhq/novu/cursor-skills-add-channel-connect-button) — by novuhq
+	- [GitHub](https://github.com/novuhq/novu/tree/next/.cursor/skills/add-channel-connect-button)
+
 - [social-publishing](https://skillsmp.com/creators/wshobson/agents/plugins-social-publishing-skills-social-publishing) — by wshobson
 	- [GitHub](https://github.com/wshobson/agents/tree/main/plugins/social-publishing/skills/social-publishing)
 
 - [configure-notifications](https://skillsmp.com/creators/yeachan-heo/oh-my-claudecode/skills-configure-notifications) — by Yeachan-Heo
 	- [GitHub](https://github.com/Yeachan-Heo/oh-my-claudecode/tree/main/skills/configure-notifications)
+
+- [configure](https://skillsmp.com/creators/anthropics/claude-plugins-official/external-plugins-discord-skills-configure) — by anthropics
+	- [GitHub](https://github.com/anthropics/claude-plugins-official/tree/main/external_plugins/discord/skills/configure)
 
 ### Code Review & Developer Tools
 
@@ -4539,8 +4539,8 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [cli-anything-notebooklm](https://skillsmp.com/creators/hkuds/cli-anything/skills-cli-anything-notebooklm) — by HKUDS
 	- [GitHub](https://github.com/HKUDS/CLI-Anything/tree/main/skills/cli-anything-notebooklm)
 
-- [tools-page-seo-optimizer](https://skillsmp.com/creators/sickn33/agentic-awesome-skills/skills-tools-page-seo-optimizer) — by sickn33
-	- [GitHub](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/tools-page-seo-optimizer)
+- [text-to-speech](https://skillsmp.com/creators/calesthio/openmontage/agents-skills-text-to-speech) — by calesthio
+	- [GitHub](https://github.com/calesthio/OpenMontage/tree/main/.agents/skills/text-to-speech)
 
 ### AI & LLM Tools
 
