@@ -3907,14 +3907,14 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [document-release](https://skillsmp.com/creators/garrytan/gstack/document-release) — by garrytan
 	- [GitHub](https://github.com/garrytan/gstack/tree/main/document-release)
 
-- [cloud](https://skillsmp.com/creators/browser-use/browser-use/skills-cloud) — by browser-use
-	- [GitHub](https://github.com/browser-use/browser-use/tree/main/skills/cloud)
+- [dsh-doc-site-sync](https://skillsmp.com/creators/deepseek-ai/deepseek-harness/agents-skills-dsh-doc-site-sync) — by deepseek-ai
+	- [GitHub](https://github.com/deepseek-ai/deepseek-harness/tree/master/.agents/skills/dsh-doc-site-sync)
 
-- [open-source](https://skillsmp.com/creators/browser-use/browser-use/skills-open-source) — by browser-use
-	- [GitHub](https://github.com/browser-use/browser-use/tree/main/skills/open-source)
+- [dsh-doc-standards](https://skillsmp.com/creators/deepseek-ai/deepseek-harness/agents-skills-dsh-doc-standards) — by deepseek-ai
+	- [GitHub](https://github.com/deepseek-ai/deepseek-harness/tree/master/.agents/skills/dsh-doc-standards)
 
-- [review-the-docs](https://skillsmp.com/creators/supabase/supabase/agents-skills-review-the-docs) — by supabase
-	- [GitHub](https://github.com/supabase/supabase/tree/master/.agents/skills/review-the-docs)
+- [dsh-prose-standard](https://skillsmp.com/creators/deepseek-ai/deepseek-harness/agents-skills-dsh-prose-standard) — by deepseek-ai
+	- [GitHub](https://github.com/deepseek-ai/deepseek-harness/tree/master/.agents/skills/dsh-prose-standard)
 
 - [openai-whisper-api](https://skillsmp.com/creators/openclaw/openclaw/skills-openai-whisper-api) — by openclaw
 	- [GitHub](https://github.com/openclaw/openclaw/tree/main/skills/openai-whisper-api)
@@ -4095,8 +4095,8 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [react-email](https://skillsmp.com/creators/novuhq/novu/agents-skills-react-email) — by novuhq
 	- [GitHub](https://github.com/novuhq/novu/tree/next/.agents/skills/react-email)
 
-- [blog-ingest](https://skillsmp.com/creators/garrytan/gbrain/skills-blog-ingest) — by garrytan
-	- [GitHub](https://github.com/garrytan/gbrain/tree/master/skills/blog-ingest)
+- [blog-ingest](https://skillsmp.com/creators/garrytan/gbrain/plugin-skills-blog-ingest) — by garrytan
+	- [GitHub](https://github.com/garrytan/gbrain/tree/master/plugin/skills/blog-ingest)
 
 - [testing-for-email-header-injection](https://skillsmp.com/creators/mukul975/anthropic-cybersecurity-skills/skills-testing-for-email-header-injection) — by mukul975
 	- [GitHub](https://github.com/mukul975/Anthropic-Cybersecurity-Skills/tree/main/skills/testing-for-email-header-injection)
