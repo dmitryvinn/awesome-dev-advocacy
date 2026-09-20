@@ -3779,9 +3779,6 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [spec-generator](https://skillsmp.com/creators/google-gemini/gemini-cli/tools-caretaker-agent-cloudrun-triage-worker-gemini-skills-spec-generator) — by google-gemini
 	- [GitHub](https://github.com/google-gemini/gemini-cli/tree/main/tools/caretaker-agent/cloudrun/triage-worker/.gemini/skills/spec_generator)
 
-- [playwright-dev](https://skillsmp.com/creators/microsoft/playwright/claude-skills-playwright-dev) — by microsoft
-	- [GitHub](https://github.com/microsoft/playwright/tree/main/.claude/skills/playwright-dev)
-
 - [brandkit](https://skillsmp.com/creators/nexu-io/open-design/skills-brandkit) — by nexu-io
 	- [GitHub](https://github.com/nexu-io/open-design/tree/main/skills/brandkit)
 
@@ -3799,6 +3796,9 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 
 - [webgl-pixel-reveal-gallery](https://skillsmp.com/creators/nexu-io/open-design/plugins-official-examples-webgl-pixel-reveal-gallery) — by nexu-io
 	- [GitHub](https://github.com/nexu-io/open-design/tree/main/plugins/_official/examples/webgl-pixel-reveal-gallery)
+
+- [playwright-dev](https://skillsmp.com/creators/microsoft/playwright/claude-skills-playwright-dev) — by microsoft
+	- [GitHub](https://github.com/microsoft/playwright/tree/main/.claude/skills/playwright-dev)
 
 - [brand-writer](https://skillsmp.com/creators/zed-industries/zed/docs-conventions-brand-writer) — by zed-industries
 	- [GitHub](https://github.com/zed-industries/zed/tree/main/docs/.conventions/brand-writer)
@@ -4098,6 +4098,9 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [react-email](https://skillsmp.com/creators/novuhq/novu/agents-skills-react-email) — by novuhq
 	- [GitHub](https://github.com/novuhq/novu/tree/next/.agents/skills/react-email)
 
+- [compliance](https://skillsmp.com/creators/anthropics/financial-services/claude-for-financial-advisors-skills-compliance) — by anthropics
+	- [GitHub](https://github.com/anthropics/financial-services/tree/main/claude-for-financial-advisors/skills/compliance)
+
 - [testing-for-email-header-injection](https://skillsmp.com/creators/mukul975/anthropic-cybersecurity-skills/skills-testing-for-email-header-injection) — by mukul975
 	- [GitHub](https://github.com/mukul975/Anthropic-Cybersecurity-Skills/tree/main/skills/testing-for-email-header-injection)
 
@@ -4118,9 +4121,6 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 
 - [cold-email](https://skillsmp.com/creators/alirezarezvani/claude-skills/marketing-skill-skills-cold-email) — by alirezarezvani
 	- [GitHub](https://github.com/alirezarezvani/claude-skills/tree/main/marketing-skill/skills/cold-email)
-
-- [content-creation](https://skillsmp.com/creators/anthropics/knowledge-work-plugins/marketing-skills-content-creation) — by anthropics
-	- [GitHub](https://github.com/anthropics/knowledge-work-plugins/tree/main/marketing/skills/content-creation)
 
 ### Speaking & Presentations
 
@@ -4280,11 +4280,14 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [bmad-forge-idea](https://skillsmp.com/creators/bmad-code-org/bmad-method/skills-bmad-forge-idea) — by bmad-code-org
 	- [GitHub](https://github.com/bmad-code-org/BMAD-METHOD/tree/main/skills/bmad-forge-idea)
 
+- [events](https://skillsmp.com/creators/coreyhaines31/marketingskills/skills-events) — by coreyhaines31
+	- [GitHub](https://github.com/coreyhaines31/marketingskills/tree/main/skills/events)
+
 - [slidev](https://skillsmp.com/creators/slidevjs/slidev/skills-slidev) — by slidevjs
 	- [GitHub](https://github.com/slidevjs/slidev/tree/main/skills/slidev)
 
-- [events](https://skillsmp.com/creators/coreyhaines31/marketingskills/skills-events) — by coreyhaines31
-	- [GitHub](https://github.com/coreyhaines31/marketingskills/tree/main/skills/events)
+- [academic-paper](https://skillsmp.com/creators/imbad0202/academic-research-skills/academic-paper) — by Imbad0202
+	- [GitHub](https://github.com/Imbad0202/academic-research-skills/tree/main/academic-paper)
 
 - [aip-tracker](https://skillsmp.com/creators/apache/airflow/providers-common-ai-src-airflow-providers-common-ai-example-dags-skills-aip-tracker) — by apache
 	- [GitHub](https://github.com/apache/airflow/tree/main/providers/common/ai/src/airflow/providers/common/ai/example_dags/skills/aip-tracker)
@@ -4294,9 +4297,6 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 
 - [scientific-slides](https://skillsmp.com/creators/k-dense-ai/scientific-agent-skills/skills-scientific-slides) — by K-Dense-AI
 	- [GitHub](https://github.com/K-Dense-AI/scientific-agent-skills/tree/main/skills/scientific-slides)
-
-- [venue-templates](https://skillsmp.com/creators/k-dense-ai/scientific-agent-skills/skills-venue-templates) — by K-Dense-AI
-	- [GitHub](https://github.com/K-Dense-AI/scientific-agent-skills/tree/main/skills/venue-templates)
 
 ### Community Building
 
@@ -4390,14 +4390,14 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [deepseek-reason](https://skillsmp.com/creators/ruvnet/ruflo/plugins-ruflo-deepseek-harness-skills-deepseek-reason) — by ruvnet
 	- [GitHub](https://github.com/ruvnet/ruflo/tree/main/plugins/ruflo-deepseek-harness/skills/deepseek-reason)
 
+- [community-marketing](https://skillsmp.com/creators/coreyhaines31/marketingskills/skills-community-marketing) — by coreyhaines31
+	- [GitHub](https://github.com/coreyhaines31/marketingskills/tree/main/skills/community-marketing)
+
 - [dotcom-release-marketing](https://skillsmp.com/creators/tldraw/tldraw/skills-dotcom-release-marketing) — by tldraw
 	- [GitHub](https://github.com/tldraw/tldraw/tree/main/skills/dotcom-release-marketing)
 
 - [agent-browser](https://skillsmp.com/creators/moeru-ai/airi/agents-skills-agent-browser) — by moeru-ai
 	- [GitHub](https://github.com/moeru-ai/airi/tree/main/.agents/skills/agent-browser)
-
-- [community-marketing](https://skillsmp.com/creators/coreyhaines31/marketingskills/skills-community-marketing) — by coreyhaines31
-	- [GitHub](https://github.com/coreyhaines31/marketingskills/tree/main/skills/community-marketing)
 
 - [electron](https://skillsmp.com/creators/vercel-labs/agent-browser/skill-data-electron) — by vercel-labs
 	- [GitHub](https://github.com/vercel-labs/agent-browser/tree/main/skill-data/electron)
@@ -4512,6 +4512,9 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [project-flow-ops](https://skillsmp.com/creators/affaan-m/ecc/skills-project-flow-ops) — by affaan-m
 	- [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/project-flow-ops)
 
+- [property-listings](https://skillsmp.com/creators/nousresearch/hermes-agent/optional-skills-productivity-property-listings) — by NousResearch
+	- [GitHub](https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/productivity/property-listings)
+
 - [product-price-monitor](https://skillsmp.com/creators/nousresearch/hermes-agent/skills-productivity-product-price-monitor) — by NousResearch
 	- [GitHub](https://github.com/NousResearch/hermes-agent/tree/main/skills/productivity/product-price-monitor)
 
@@ -4527,9 +4530,6 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [fix-linting-types-on-pr](https://skillsmp.com/creators/storybookjs/storybook/agents-skills-fix-linting-types-on-pr) — by storybookjs
 	- [GitHub](https://github.com/storybookjs/storybook/tree/next/.agents/skills/fix-linting-types-on-pr)
 
-- [query-netdata-cloud](https://skillsmp.com/creators/netdata/netdata/docs-netdata-ai-skills-query-netdata-cloud) — by netdata
-	- [GitHub](https://github.com/netdata/netdata/tree/master/docs/netdata-ai/skills/query-netdata-cloud)
-
 - [tel-mailto](https://skillsmp.com/creators/thedaviddias/front-end-checklist/skills-tel-mailto) — by thedaviddias
 	- [GitHub](https://github.com/thedaviddias/Front-End-Checklist/tree/main/skills/tel-mailto)
 
@@ -4539,11 +4539,11 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [text-to-speech](https://skillsmp.com/creators/calesthio/openmontage/agents-skills-text-to-speech) — by calesthio
 	- [GitHub](https://github.com/calesthio/OpenMontage/tree/main/.agents/skills/text-to-speech)
 
-- [cli-anything-notebooklm](https://skillsmp.com/creators/hkuds/cli-anything/notebooklm-agent-harness-cli-anything-notebooklm-skills) — by HKUDS
-	- [GitHub](https://github.com/HKUDS/CLI-Anything/tree/main/notebooklm/agent-harness/cli_anything/notebooklm/skills)
+- [aso](https://skillsmp.com/creators/coreyhaines31/marketingskills/skills-aso) — by coreyhaines31
+	- [GitHub](https://github.com/coreyhaines31/marketingskills/tree/main/skills/aso)
 
-- [cli-anything-notebooklm](https://skillsmp.com/creators/hkuds/cli-anything/skills-cli-anything-notebooklm) — by HKUDS
-	- [GitHub](https://github.com/HKUDS/CLI-Anything/tree/main/skills/cli-anything-notebooklm)
+- [site-architecture](https://skillsmp.com/creators/coreyhaines31/marketingskills/skills-site-architecture) — by coreyhaines31
+	- [GitHub](https://github.com/coreyhaines31/marketingskills/tree/main/skills/site-architecture)
 
 ### AI & LLM Tools
 
@@ -4631,6 +4631,9 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [openclaw-persona-forge](https://skillsmp.com/creators/affaan-m/ecc/skills-openclaw-persona-forge) — by affaan-m
 	- [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/openclaw-persona-forge)
 
+- [counterparty-channel-discipline](https://skillsmp.com/creators/affaan-m/ecc/skills-counterparty-channel-discipline) — by affaan-m
+	- [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/counterparty-channel-discipline)
+
 - [mcp-server-patterns](https://skillsmp.com/creators/affaan-m/ecc/agents-skills-mcp-server-patterns) — by affaan-m
 	- [GitHub](https://github.com/affaan-m/ECC/tree/main/.agents/skills/mcp-server-patterns)
 
@@ -4657,9 +4660,6 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 
 - [create-prompt](https://skillsmp.com/creators/microsoft/vscode/extensions-copilot-assets-prompts-skills-create-prompt) — by microsoft
 	- [GitHub](https://github.com/microsoft/vscode/tree/main/extensions/copilot/assets/prompts/skills/create-prompt)
-
-- [agent-customization](https://skillsmp.com/creators/microsoft/vscode/extensions-copilot-assets-prompts-skills-agent-customization) — by microsoft
-	- [GitHub](https://github.com/microsoft/vscode/tree/main/extensions/copilot/assets/prompts/skills/agent-customization)
 
 - [deslop](https://skillsmp.com/creators/openclaw/openclaw/agents-skills-deslop) — by openclaw
 	- [GitHub](https://github.com/openclaw/openclaw/tree/main/.agents/skills/deslop)
@@ -4837,9 +4837,6 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [spec-generator](https://skillsmp.com/creators/google-gemini/gemini-cli/tools-caretaker-agent-cloudrun-triage-worker-gemini-skills-spec-generator) — by google-gemini
 	- [GitHub](https://github.com/google-gemini/gemini-cli/tree/main/tools/caretaker-agent/cloudrun/triage-worker/.gemini/skills/spec_generator)
 
-- [playwright-dev](https://skillsmp.com/creators/microsoft/playwright/claude-skills-playwright-dev) — by microsoft
-	- [GitHub](https://github.com/microsoft/playwright/tree/main/.claude/skills/playwright-dev)
-
 - [brandkit](https://skillsmp.com/creators/nexu-io/open-design/skills-brandkit) — by nexu-io
 	- [GitHub](https://github.com/nexu-io/open-design/tree/main/skills/brandkit)
 
@@ -4857,6 +4854,9 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 
 - [webgl-pixel-reveal-gallery](https://skillsmp.com/creators/nexu-io/open-design/plugins-official-examples-webgl-pixel-reveal-gallery) — by nexu-io
 	- [GitHub](https://github.com/nexu-io/open-design/tree/main/plugins/_official/examples/webgl-pixel-reveal-gallery)
+
+- [playwright-dev](https://skillsmp.com/creators/microsoft/playwright/claude-skills-playwright-dev) — by microsoft
+	- [GitHub](https://github.com/microsoft/playwright/tree/main/.claude/skills/playwright-dev)
 
 - [brand-writer](https://skillsmp.com/creators/zed-industries/zed/docs-conventions-brand-writer) — by zed-industries
 	- [GitHub](https://github.com/zed-industries/zed/tree/main/docs/.conventions/brand-writer)
