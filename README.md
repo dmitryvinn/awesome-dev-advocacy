@@ -3832,14 +3832,14 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [write-guide](https://skillsmp.com/creators/vercel/next.js/agents-skills-write-guide) — by vercel
 	- [GitHub](https://github.com/vercel/next.js/tree/canary/.agents/skills/write-guide)
 
-- [critique](https://skillsmp.com/creators/google-gemini/gemini-cli/tools-gemini-cli-bot-gemini-skills-critique) — by google-gemini
-	- [GitHub](https://github.com/google-gemini/gemini-cli/tree/main/tools/gemini-cli-bot/.gemini/skills/critique)
-
 - [caveman](https://skillsmp.com/creators/juliusbrussee/caveman/plugins-caveman-skills-caveman) — by JuliusBrussee
 	- [GitHub](https://github.com/JuliusBrussee/caveman/tree/main/plugins/caveman/skills/caveman)
 
 - [caveman](https://skillsmp.com/creators/juliusbrussee/caveman/skills-caveman) — by JuliusBrussee
 	- [GitHub](https://github.com/JuliusBrussee/caveman/tree/main/skills/caveman)
+
+- [critique](https://skillsmp.com/creators/google-gemini/gemini-cli/tools-gemini-cli-bot-gemini-skills-critique) — by google-gemini
+	- [GitHub](https://github.com/google-gemini/gemini-cli/tree/main/tools/gemini-cli-bot/.gemini/skills/critique)
 
 - [adev-writing-guide](https://skillsmp.com/creators/angular/angular/agent-skills-adev-writing-guide) — by angular
 	- [GitHub](https://github.com/angular/angular/tree/main/.agent/skills/adev-writing-guide)
@@ -3862,8 +3862,8 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [robots-txt](https://skillsmp.com/creators/thedaviddias/front-end-checklist/skills-robots-txt) — by thedaviddias
 	- [GitHub](https://github.com/thedaviddias/Front-End-Checklist/tree/main/skills/robots-txt)
 
-- [tech-debt-audit](https://skillsmp.com/creators/code-yeongyu/oh-my-openagent/agents-skills-tech-debt-audit) — by code-yeongyu
-	- [GitHub](https://github.com/code-yeongyu/oh-my-openagent/tree/dev/.agents/skills/tech-debt-audit)
+- [impeccable](https://skillsmp.com/creators/pbakaus/impeccable/agent-skills-impeccable) — by pbakaus
+	- [GitHub](https://github.com/pbakaus/impeccable/tree/main/.agent/skills/impeccable)
 
 - [documentation-lookup](https://skillsmp.com/creators/affaan-m/ecc/agents-skills-documentation-lookup) — by affaan-m
 	- [GitHub](https://github.com/affaan-m/ECC/tree/main/.agents/skills/documentation-lookup)
@@ -4098,9 +4098,6 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [react-email](https://skillsmp.com/creators/novuhq/novu/agents-skills-react-email) — by novuhq
 	- [GitHub](https://github.com/novuhq/novu/tree/next/.agents/skills/react-email)
 
-- [compliance](https://skillsmp.com/creators/anthropics/financial-services/claude-for-financial-advisors-skills-compliance) — by anthropics
-	- [GitHub](https://github.com/anthropics/financial-services/tree/main/claude-for-financial-advisors/skills/compliance)
-
 - [testing-for-email-header-injection](https://skillsmp.com/creators/mukul975/anthropic-cybersecurity-skills/skills-testing-for-email-header-injection) — by mukul975
 	- [GitHub](https://github.com/mukul975/Anthropic-Cybersecurity-Skills/tree/main/skills/testing-for-email-header-injection)
 
@@ -4122,6 +4119,9 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [cold-email](https://skillsmp.com/creators/alirezarezvani/claude-skills/marketing-skill-skills-cold-email) — by alirezarezvani
 	- [GitHub](https://github.com/alirezarezvani/claude-skills/tree/main/marketing-skill/skills/cold-email)
 
+- [content-creation](https://skillsmp.com/creators/anthropics/knowledge-work-plugins/marketing-skills-content-creation) — by anthropics
+	- [GitHub](https://github.com/anthropics/knowledge-work-plugins/tree/main/marketing/skills/content-creation)
+
 ### Speaking & Presentations
 
 - [openclaw-refactor-docs](https://skillsmp.com/creators/openclaw/openclaw/agents-skills-openclaw-refactor-docs) — by openclaw
@@ -4135,6 +4135,9 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 
 - [frontend-slides](https://skillsmp.com/creators/affaan-m/ecc/skills-frontend-slides) — by affaan-m
 	- [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/frontend-slides)
+
+- [office-pptx](https://skillsmp.com/creators/deepseek-ai/deepseek-harness/packages-skill-skill-office-assets-office-pptx) — by deepseek-ai
+	- [GitHub](https://github.com/deepseek-ai/deepseek-harness/tree/master/packages/skill/skill-office/assets/office-pptx)
 
 - [pptx](https://skillsmp.com/creators/anthropics/skills/skills-pptx) — by anthropics
 	- [GitHub](https://github.com/anthropics/skills/tree/main/skills/pptx)
@@ -4181,9 +4184,6 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [marketing-psychology](https://skillsmp.com/creators/nexu-io/open-design/skills-marketing-psychology) — by nexu-io
 	- [GitHub](https://github.com/nexu-io/open-design/tree/main/skills/marketing-psychology)
 
-- [brandkit](https://skillsmp.com/creators/nexu-io/open-design/skills-brandkit) — by nexu-io
-	- [GitHub](https://github.com/nexu-io/open-design/tree/main/skills/brandkit)
-
 - [data-scraper-agent](https://skillsmp.com/creators/affaan-m/ecc/skills-data-scraper-agent) — by affaan-m
 	- [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/data-scraper-agent)
 
@@ -4211,9 +4211,6 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [n8n-public-api](https://skillsmp.com/creators/n8n-io/n8n/agents-skills-public-api) — by n8n-io
 	- [GitHub](https://github.com/n8n-io/n8n/tree/master/.agents/skills/public-api)
 
-- [sweeper-fix](https://skillsmp.com/creators/microsoft/vscode/github-skills-sweeper-fix) — by microsoft
-	- [GitHub](https://github.com/microsoft/vscode/tree/main/.github/skills/sweeper-fix)
-
 - [scope-creep-detector](https://skillsmp.com/creators/shubhamsaboo/awesome-llm-apps/agent-skills-scope-creep-detector) — by Shubhamsaboo
 	- [GitHub](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/agent_skills/scope-creep-detector)
 
@@ -4222,6 +4219,12 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 
 - [document-public-apis](https://skillsmp.com/creators/pytorch/pytorch/claude-skills-document-public-apis) — by pytorch
 	- [GitHub](https://github.com/pytorch/pytorch/tree/main/.claude/skills/document-public-apis)
+
+- [api-and-interface-design](https://skillsmp.com/creators/addyosmani/agent-skills/skills-api-and-interface-design) — by addyosmani
+	- [GitHub](https://github.com/addyosmani/agent-skills/tree/main/skills/api-and-interface-design)
+
+- [documentation-and-adrs](https://skillsmp.com/creators/addyosmani/agent-skills/skills-documentation-and-adrs) — by addyosmani
+	- [GitHub](https://github.com/addyosmani/agent-skills/tree/main/skills/documentation-and-adrs)
 
 - [html-ppt-zhangzara-peoples-platform](https://skillsmp.com/creators/nexu-io/open-design/design-templates-html-ppt-zhangzara-peoples-platform) — by nexu-io
 	- [GitHub](https://github.com/nexu-io/open-design/tree/main/design-templates/html-ppt-zhangzara-peoples-platform)
@@ -4241,9 +4244,6 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [html-ppt-zhangzara-grove](https://skillsmp.com/creators/nexu-io/open-design/design-templates-html-ppt-zhangzara-grove) — by nexu-io
 	- [GitHub](https://github.com/nexu-io/open-design/tree/main/design-templates/html-ppt-zhangzara-grove)
 
-- [dcf-valuation](https://skillsmp.com/creators/nexu-io/open-design/plugins-official-examples-dcf-valuation) — by nexu-io
-	- [GitHub](https://github.com/nexu-io/open-design/tree/main/plugins/_official/examples/dcf-valuation)
-
 - [santa-method](https://skillsmp.com/creators/affaan-m/ecc/skills-santa-method) — by affaan-m
 	- [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/santa-method)
 
@@ -4259,14 +4259,14 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [sandbox-bench](https://skillsmp.com/creators/vercel/next.js/agents-skills-sandbox-bench) — by vercel
 	- [GitHub](https://github.com/vercel/next.js/tree/canary/.agents/skills/sandbox-bench)
 
+- [interview-me](https://skillsmp.com/creators/addyosmani/agent-skills/skills-interview-me) — by addyosmani
+	- [GitHub](https://github.com/addyosmani/agent-skills/tree/main/skills/interview-me)
+
 - [build-test](https://skillsmp.com/creators/nexu-io/open-design/plugins-official-atoms-build-test) — by nexu-io
 	- [GitHub](https://github.com/nexu-io/open-design/tree/main/plugins/_official/atoms/build-test)
 
 - [research-decision-room](https://skillsmp.com/creators/nexu-io/open-design/skills-research-decision-room) — by nexu-io
 	- [GitHub](https://github.com/nexu-io/open-design/tree/main/skills/research-decision-room)
-
-- [interview-me](https://skillsmp.com/creators/addyosmani/agent-skills/skills-interview-me) — by addyosmani
-	- [GitHub](https://github.com/addyosmani/agent-skills/tree/main/skills/interview-me)
 
 - [harness-genome](https://skillsmp.com/creators/ruvnet/ruflo/plugins-ruflo-metaharness-skills-harness-genome) — by ruvnet
 	- [GitHub](https://github.com/ruvnet/ruflo/tree/main/plugins/ruflo-metaharness/skills/harness-genome)
@@ -4283,17 +4283,17 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [events](https://skillsmp.com/creators/coreyhaines31/marketingskills/skills-events) — by coreyhaines31
 	- [GitHub](https://github.com/coreyhaines31/marketingskills/tree/main/skills/events)
 
-- [slidev](https://skillsmp.com/creators/slidevjs/slidev/skills-slidev) — by slidevjs
-	- [GitHub](https://github.com/slidevjs/slidev/tree/main/skills/slidev)
-
 - [academic-paper](https://skillsmp.com/creators/imbad0202/academic-research-skills/academic-paper) — by Imbad0202
 	- [GitHub](https://github.com/Imbad0202/academic-research-skills/tree/main/academic-paper)
+
+- [slidev](https://skillsmp.com/creators/slidevjs/slidev/skills-slidev) — by slidevjs
+	- [GitHub](https://github.com/slidevjs/slidev/tree/main/skills/slidev)
 
 - [aip-tracker](https://skillsmp.com/creators/apache/airflow/providers-common-ai-src-airflow-providers-common-ai-example-dags-skills-aip-tracker) — by apache
 	- [GitHub](https://github.com/apache/airflow/tree/main/providers/common/ai/src/airflow/providers/common/ai/example_dags/skills/aip-tracker)
 
-- [dependabot-triager](https://skillsmp.com/creators/cli/cli/github-skills-dependabot-triager) — by cli
-	- [GitHub](https://github.com/cli/cli/tree/trunk/.github/skills/dependabot-triager)
+- [e2e-testing-patterns](https://skillsmp.com/creators/sickn33/agentic-awesome-skills/skills-e2e-testing-patterns) — by sickn33
+	- [GitHub](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/e2e-testing-patterns)
 
 - [scientific-slides](https://skillsmp.com/creators/k-dense-ai/scientific-agent-skills/skills-scientific-slides) — by K-Dense-AI
 	- [GitHub](https://github.com/K-Dense-AI/scientific-agent-skills/tree/main/skills/scientific-slides)
