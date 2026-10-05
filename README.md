@@ -633,6 +633,7 @@ These conferences are great resources for both in-person learning and as a place
 ### Blogging Series
 These are the blogs that have been publishing DevRel content continuously rather than as a single post.
 - [[AI Engineering] gRPC Powered AI Assistant : Open AI, Vector DB (FAISS), WebSocket](https://medium.com/@masterkeshav/ai-engineering-grpc-powered-ai-assistant-open-ai-vector-db-faiss-websocket-3898949185f0)
+- [Audit AI Agents Before Production with iFixAi](https://www.thedollarcraft.com/2026/09/ifixai-agent-audit-guide.html)
 - [10 Best Virtual Event Platforms in 2026 (A Detailed Analysis)](https://webinarninja.com/blog/virtual-event-platforms/)
 - [10 design principles for delightful CLIs](https://www.atlassian.com/blog/it-teams/10-design-principles-for-delightful-clis)
 - [10 Developer Newsletter Management Strategies to Protect Your Flow State in 2026](https://www.readless.app/blog/developer-newsletter-management)
