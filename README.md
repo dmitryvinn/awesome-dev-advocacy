@@ -3794,14 +3794,14 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [webgl-pixel-reveal-gallery](https://skillsmp.com/creators/nexu-io/open-design/plugins-official-examples-webgl-pixel-reveal-gallery) — by nexu-io
 	- [GitHub](https://github.com/nexu-io/open-design/tree/main/plugins/_official/examples/webgl-pixel-reveal-gallery)
 
+- [paperclip-create-plugin](https://skillsmp.com/creators/paperclipai/paperclip/agents-skills-paperclip-create-plugin) — by paperclipai
+	- [GitHub](https://github.com/paperclipai/paperclip/tree/master/.agents/skills/paperclip-create-plugin)
+
 - [playwright-dev](https://skillsmp.com/creators/microsoft/playwright/claude-skills-playwright-dev) — by microsoft
 	- [GitHub](https://github.com/microsoft/playwright/tree/main/.claude/skills/playwright-dev)
 
-- [brandkit](https://skillsmp.com/creators/leonxlnx/taste-skill/skills-brandkit) — by Leonxlnx
-	- [GitHub](https://github.com/Leonxlnx/taste-skill/tree/main/skills/brandkit)
-
-- [imagegen-frontend-web](https://skillsmp.com/creators/leonxlnx/taste-skill/skills-imagegen-frontend-web) — by Leonxlnx
-	- [GitHub](https://github.com/Leonxlnx/taste-skill/tree/main/skills/imagegen-frontend-web)
+- [brand-writer](https://skillsmp.com/creators/zed-industries/zed/docs-conventions-brand-writer) — by zed-industries
+	- [GitHub](https://github.com/zed-industries/zed/tree/main/docs/.conventions/brand-writer)
 
 ### Technical Writing & Documentation
 
@@ -3850,11 +3850,11 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [replit-deck](https://skillsmp.com/creators/nexu-io/open-design/plugins-official-examples-replit-deck) — by nexu-io
 	- [GitHub](https://github.com/nexu-io/open-design/tree/main/plugins/_official/examples/replit-deck)
 
-- [what-the](https://skillsmp.com/creators/thedotmack/claude-mem/plugin-skills-what-the) — by thedotmack
-	- [GitHub](https://github.com/thedotmack/claude-mem/tree/main/plugin/skills/what-the)
-
 - [simplified-english](https://skillsmp.com/creators/paperclipai/paperclip/packages-skills-catalog-catalog-optional-content-simplified-english) — by paperclipai
 	- [GitHub](https://github.com/paperclipai/paperclip/tree/master/packages/skills-catalog/catalog/optional/content/simplified-english)
+
+- [what-the](https://skillsmp.com/creators/thedotmack/claude-mem/plugin-skills-what-the) — by thedotmack
+	- [GitHub](https://github.com/thedotmack/claude-mem/tree/main/plugin/skills/what-the)
 
 - [docs-editor](https://skillsmp.com/creators/openai/openai-cookbook/codex-skills-docs-editor) — by openai
 	- [GitHub](https://github.com/openai/openai-cookbook/tree/main/.codex/skills/docs-editor)
@@ -4292,8 +4292,8 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [slidev](https://skillsmp.com/creators/slidevjs/slidev/skills-slidev) — by slidevjs
 	- [GitHub](https://github.com/slidevjs/slidev/tree/main/skills/slidev)
 
-- [aip-tracker](https://skillsmp.com/creators/apache/airflow/providers-common-ai-src-airflow-providers-common-ai-example-dags-skills-aip-tracker) — by apache
-	- [GitHub](https://github.com/apache/airflow/tree/main/providers/common/ai/src/airflow/providers/common/ai/example_dags/skills/aip-tracker)
+- [scientific-slides](https://skillsmp.com/creators/k-dense-ai/scientific-agent-skills/skills-scientific-slides) — by K-Dense-AI
+	- [GitHub](https://github.com/K-Dense-AI/scientific-agent-skills/tree/main/skills/scientific-slides)
 
 ### Community Building
 
@@ -4518,6 +4518,9 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [product-price-monitor](https://skillsmp.com/creators/nousresearch/hermes-agent/skills-productivity-product-price-monitor) — by NousResearch
 	- [GitHub](https://github.com/NousResearch/hermes-agent/tree/main/skills/productivity/product-price-monitor)
 
+- [diagnose-windows-sandbox-acl](https://skillsmp.com/creators/deepseek-ai/deepseek-harness/packages-sandbox-sandbox-windows-acl-assets-diagnose-windows-sandbox-acl) — by deepseek-ai
+	- [GitHub](https://github.com/deepseek-ai/deepseek-harness/tree/master/packages/sandbox/sandbox-windows-acl/assets/diagnose-windows-sandbox-acl)
+
 - [next-rspack](https://skillsmp.com/creators/vercel/next.js/agents-skills-next-rspack) — by vercel
 	- [GitHub](https://github.com/vercel/next.js/tree/canary/.agents/skills/next-rspack)
 
@@ -4541,9 +4544,6 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 
 - [aso](https://skillsmp.com/creators/coreyhaines31/marketingskills/skills-aso) — by coreyhaines31
 	- [GitHub](https://github.com/coreyhaines31/marketingskills/tree/main/skills/aso)
-
-- [site-architecture](https://skillsmp.com/creators/coreyhaines31/marketingskills/skills-site-architecture) — by coreyhaines31
-	- [GitHub](https://github.com/coreyhaines31/marketingskills/tree/main/skills/site-architecture)
 
 ### AI & LLM Tools
 
@@ -4852,14 +4852,14 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [webgl-pixel-reveal-gallery](https://skillsmp.com/creators/nexu-io/open-design/plugins-official-examples-webgl-pixel-reveal-gallery) — by nexu-io
 	- [GitHub](https://github.com/nexu-io/open-design/tree/main/plugins/_official/examples/webgl-pixel-reveal-gallery)
 
+- [paperclip-create-plugin](https://skillsmp.com/creators/paperclipai/paperclip/agents-skills-paperclip-create-plugin) — by paperclipai
+	- [GitHub](https://github.com/paperclipai/paperclip/tree/master/.agents/skills/paperclip-create-plugin)
+
 - [playwright-dev](https://skillsmp.com/creators/microsoft/playwright/claude-skills-playwright-dev) — by microsoft
 	- [GitHub](https://github.com/microsoft/playwright/tree/main/.claude/skills/playwright-dev)
 
-- [brandkit](https://skillsmp.com/creators/leonxlnx/taste-skill/skills-brandkit) — by Leonxlnx
-	- [GitHub](https://github.com/Leonxlnx/taste-skill/tree/main/skills/brandkit)
-
-- [imagegen-frontend-web](https://skillsmp.com/creators/leonxlnx/taste-skill/skills-imagegen-frontend-web) — by Leonxlnx
-	- [GitHub](https://github.com/Leonxlnx/taste-skill/tree/main/skills/imagegen-frontend-web)
+- [brand-writer](https://skillsmp.com/creators/zed-industries/zed/docs-conventions-brand-writer) — by zed-industries
+	- [GitHub](https://github.com/zed-industries/zed/tree/main/docs/.conventions/brand-writer)
 
 ## Related
 - [DevRel Academy](https://devrelacademy.com) — Interactive platform to browse, search, and filter all these resources
