@@ -3761,6 +3761,9 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [dsh-doc](https://skillsmp.com/creators/deepseek-ai/deepseek-harness/agents-skills-dsh-doc) — by deepseek-ai
 	- [GitHub](https://github.com/deepseek-ai/deepseek-harness/tree/master/.agents/skills/dsh-doc)
 
+- [dsh-cua-macos-signing](https://skillsmp.com/creators/deepseek-ai/deepseek-harness/agents-skills-dsh-cua-macos-signing) — by deepseek-ai
+	- [GitHub](https://github.com/deepseek-ai/deepseek-harness/tree/master/.agents/skills/dsh-cua-macos-signing)
+
 - [project-graveyard](https://skillsmp.com/creators/shubhamsaboo/awesome-llm-apps/agent-skills-project-graveyard) — by Shubhamsaboo
 	- [GitHub](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/agent_skills/project-graveyard)
 
@@ -3773,11 +3776,14 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [plan-tune](https://skillsmp.com/creators/garrytan/gstack/plan-tune) — by garrytan
 	- [GitHub](https://github.com/garrytan/gstack/tree/main/plan-tune)
 
-- [spec-generator](https://skillsmp.com/creators/google-gemini/gemini-cli/tools-caretaker-agent-cloudrun-triage-worker-gemini-skills-spec-generator) — by google-gemini
-	- [GitHub](https://github.com/google-gemini/gemini-cli/tree/main/tools/caretaker-agent/cloudrun/triage-worker/.gemini/skills/spec_generator)
-
 - [paperclip-create-plugin](https://skillsmp.com/creators/paperclipai/paperclip/agents-skills-paperclip-create-plugin) — by paperclipai
 	- [GitHub](https://github.com/paperclipai/paperclip/tree/master/.agents/skills/paperclip-create-plugin)
+
+- [design-taste-frontend](https://skillsmp.com/creators/leonxlnx/taste-skill/skills-taste-skill) — by Leonxlnx
+	- [GitHub](https://github.com/Leonxlnx/taste-skill/tree/main/skills/taste-skill)
+
+- [spec-generator](https://skillsmp.com/creators/google-gemini/gemini-cli/tools-caretaker-agent-cloudrun-triage-worker-gemini-skills-spec-generator) — by google-gemini
+	- [GitHub](https://github.com/google-gemini/gemini-cli/tree/main/tools/caretaker-agent/cloudrun/triage-worker/.gemini/skills/spec_generator)
 
 - [brandkit](https://skillsmp.com/creators/nexu-io/open-design/skills-brandkit) — by nexu-io
 	- [GitHub](https://github.com/nexu-io/open-design/tree/main/skills/brandkit)
@@ -3796,12 +3802,6 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 
 - [webgl-pixel-reveal-gallery](https://skillsmp.com/creators/nexu-io/open-design/plugins-official-examples-webgl-pixel-reveal-gallery) — by nexu-io
 	- [GitHub](https://github.com/nexu-io/open-design/tree/main/plugins/_official/examples/webgl-pixel-reveal-gallery)
-
-- [angular-developer](https://skillsmp.com/creators/angular/angular/skills-dev-skills-angular-developer) — by angular
-	- [GitHub](https://github.com/angular/angular/tree/main/skills/dev-skills/angular-developer)
-
-- [playwright-dev](https://skillsmp.com/creators/microsoft/playwright/claude-skills-playwright-dev) — by microsoft
-	- [GitHub](https://github.com/microsoft/playwright/tree/main/.claude/skills/playwright-dev)
 
 ### Technical Writing & Documentation
 
@@ -3844,20 +3844,20 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [megacave](https://skillsmp.com/creators/juliusbrussee/caveman/plugins-caveman-skills-megacave) — by JuliusBrussee
 	- [GitHub](https://github.com/JuliusBrussee/caveman/tree/main/plugins/caveman/skills/megacave)
 
-- [critique](https://skillsmp.com/creators/google-gemini/gemini-cli/tools-gemini-cli-bot-gemini-skills-critique) — by google-gemini
-	- [GitHub](https://github.com/google-gemini/gemini-cli/tree/main/tools/gemini-cli-bot/.gemini/skills/critique)
+- [what-the](https://skillsmp.com/creators/thedotmack/claude-mem/plugin-skills-what-the) — by thedotmack
+	- [GitHub](https://github.com/thedotmack/claude-mem/tree/main/plugin/skills/what-the)
 
 - [simplified-english](https://skillsmp.com/creators/paperclipai/paperclip/packages-skills-catalog-catalog-optional-content-simplified-english) — by paperclipai
 	- [GitHub](https://github.com/paperclipai/paperclip/tree/master/packages/skills-catalog/catalog/optional/content/simplified-english)
+
+- [critique](https://skillsmp.com/creators/google-gemini/gemini-cli/tools-gemini-cli-bot-gemini-skills-critique) — by google-gemini
+	- [GitHub](https://github.com/google-gemini/gemini-cli/tree/main/tools/gemini-cli-bot/.gemini/skills/critique)
 
 - [replit-deck](https://skillsmp.com/creators/nexu-io/open-design/design-templates-replit-deck) — by nexu-io
 	- [GitHub](https://github.com/nexu-io/open-design/tree/main/design-templates/replit-deck)
 
 - [replit-deck](https://skillsmp.com/creators/nexu-io/open-design/plugins-official-examples-replit-deck) — by nexu-io
 	- [GitHub](https://github.com/nexu-io/open-design/tree/main/plugins/_official/examples/replit-deck)
-
-- [what-the](https://skillsmp.com/creators/thedotmack/claude-mem/plugin-skills-what-the) — by thedotmack
-	- [GitHub](https://github.com/thedotmack/claude-mem/tree/main/plugin/skills/what-the)
 
 - [adev-writing-guide](https://skillsmp.com/creators/angular/angular/agent-skills-adev-writing-guide) — by angular
 	- [GitHub](https://github.com/angular/angular/tree/main/.agent/skills/adev-writing-guide)
@@ -3898,6 +3898,12 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [change-impact](https://skillsmp.com/creators/affaan-m/ecc/agents-skills-change-impact) — by affaan-m
 	- [GitHub](https://github.com/affaan-m/ECC/tree/main/.agents/skills/change-impact)
 
+- [module-governance](https://skillsmp.com/creators/affaan-m/ecc/pi-core-skills-module-governance) — by affaan-m
+	- [GitHub](https://github.com/affaan-m/ECC/tree/main/pi/core/skills/module-governance)
+
+- [module-governance](https://skillsmp.com/creators/affaan-m/ecc/agents-skills-module-governance) — by affaan-m
+	- [GitHub](https://github.com/affaan-m/ECC/tree/main/.agents/skills/module-governance)
+
 - [dsh-doc](https://skillsmp.com/creators/deepseek-ai/deepseek-harness/agents-skills-dsh-doc) — by deepseek-ai
 	- [GitHub](https://github.com/deepseek-ai/deepseek-harness/tree/master/.agents/skills/dsh-doc)
 
@@ -3912,12 +3918,6 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 
 - [academy-guide](https://skillsmp.com/creators/anthropics/skills/skills-academy-guide) — by anthropics
 	- [GitHub](https://github.com/anthropics/skills/tree/main/skills/academy-guide)
-
-- [natural-writing](https://skillsmp.com/creators/flutter/flutter/agents-agents-reidbaker-agent-skills-natural-writing) — by flutter
-	- [GitHub](https://github.com/flutter/flutter/tree/master/.agents/agents/reidbaker-agent/skills/natural-writing)
-
-- [bootstrap-release](https://skillsmp.com/creators/twbs/bootstrap/cursor-skills-bootstrap-release) — by twbs
-	- [GitHub](https://github.com/twbs/bootstrap/tree/main/.cursor/skills/bootstrap-release)
 
 - [openai-whisper-api](https://skillsmp.com/creators/openclaw/openclaw/skills-openai-whisper-api) — by openclaw
 	- [GitHub](https://github.com/openclaw/openclaw/tree/main/skills/openai-whisper-api)
@@ -4044,6 +4044,9 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [od-contribute](https://skillsmp.com/creators/nexu-io/open-design/claude-skills-od-contribute) — by nexu-io
 	- [GitHub](https://github.com/nexu-io/open-design/tree/main/.claude/skills/od-contribute)
 
+- [website-to-video](https://skillsmp.com/creators/calesthio/openmontage/agents-skills-website-to-video) — by calesthio
+	- [GitHub](https://github.com/calesthio/OpenMontage/tree/main/.agents/skills/website-to-video)
+
 - [editorial-policy](https://skillsmp.com/creators/thedaviddias/front-end-checklist/skills-editorial-policy) — by thedaviddias
 	- [GitHub](https://github.com/thedaviddias/Front-End-Checklist/tree/main/skills/editorial-policy)
 
@@ -4073,9 +4076,6 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 
 - [reading-level](https://skillsmp.com/creators/thedaviddias/front-end-checklist/skills-reading-level) — by thedaviddias
 	- [GitHub](https://github.com/thedaviddias/Front-End-Checklist/tree/main/skills/reading-level)
-
-- [website-to-video](https://skillsmp.com/creators/calesthio/openmontage/agents-skills-website-to-video) — by calesthio
-	- [GitHub](https://github.com/calesthio/OpenMontage/tree/main/.agents/skills/website-to-video)
 
 - [internal-comms](https://skillsmp.com/creators/anthropics/skills/skills-internal-comms) — by anthropics
 	- [GitHub](https://github.com/anthropics/skills/tree/main/skills/internal-comms)
@@ -4229,17 +4229,17 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [documentation-and-adrs](https://skillsmp.com/creators/addyosmani/agent-skills/skills-documentation-and-adrs) — by addyosmani
 	- [GitHub](https://github.com/addyosmani/agent-skills/tree/main/skills/documentation-and-adrs)
 
-- [document-public-apis](https://skillsmp.com/creators/pytorch/pytorch/agents-skills-document-public-apis) — by pytorch
-	- [GitHub](https://github.com/pytorch/pytorch/tree/main/.agents/skills/document-public-apis)
-
-- [design-taste-frontend](https://skillsmp.com/creators/leonxlnx/taste-skill/skills-taste-skill) — by Leonxlnx
-	- [GitHub](https://github.com/Leonxlnx/taste-skill/tree/main/skills/taste-skill)
-
 - [html-ppt-zhangzara-peoples-platform](https://skillsmp.com/creators/nexu-io/open-design/design-templates-html-ppt-zhangzara-peoples-platform) — by nexu-io
 	- [GitHub](https://github.com/nexu-io/open-design/tree/main/design-templates/html-ppt-zhangzara-peoples-platform)
 
 - [html-ppt-zhangzara-peoples-platform](https://skillsmp.com/creators/nexu-io/open-design/plugins-official-examples-html-ppt-zhangzara-peoples-platform) — by nexu-io
 	- [GitHub](https://github.com/nexu-io/open-design/tree/main/plugins/_official/examples/html-ppt-zhangzara-peoples-platform)
+
+- [x-research](https://skillsmp.com/creators/nexu-io/open-design/design-templates-x-research) — by nexu-io
+	- [GitHub](https://github.com/nexu-io/open-design/tree/main/design-templates/x-research)
+
+- [x-research](https://skillsmp.com/creators/nexu-io/open-design/plugins-official-examples-x-research) — by nexu-io
+	- [GitHub](https://github.com/nexu-io/open-design/tree/main/plugins/_official/examples/x-research)
 
 - [continuous-learning-v2](https://skillsmp.com/creators/affaan-m/ecc/docs-zh-tw-skills-continuous-learning-v2) — by affaan-m
 	- [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/zh-TW/skills/continuous-learning-v2)
@@ -4384,9 +4384,6 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [agent-testing-bot](https://skillsmp.com/creators/lobehub/lobehub/agents-skills-agent-testing-bot) — by lobehub
 	- [GitHub](https://github.com/lobehub/lobehub/tree/canary/.agents/skills/agent-testing-bot)
 
-- [deepseek-reason](https://skillsmp.com/creators/ruvnet/ruflo/plugins-ruflo-deepseek-harness-skills-deepseek-reason) — by ruvnet
-	- [GitHub](https://github.com/ruvnet/ruflo/tree/main/plugins/ruflo-deepseek-harness/skills/deepseek-reason)
-
 - [community-marketing](https://skillsmp.com/creators/coreyhaines31/marketingskills/skills-community-marketing) — by coreyhaines31
 	- [GitHub](https://github.com/coreyhaines31/marketingskills/tree/main/skills/community-marketing)
 
@@ -4411,6 +4408,9 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [social-publishing](https://skillsmp.com/creators/wshobson/agents/plugins-social-publishing-skills-social-publishing) — by wshobson
 	- [GitHub](https://github.com/wshobson/agents/tree/main/plugins/social-publishing/skills/social-publishing)
 
+- [configure-notifications](https://skillsmp.com/creators/yeachan-heo/oh-my-claudecode/skills-configure-notifications) — by Yeachan-Heo
+	- [GitHub](https://github.com/Yeachan-Heo/oh-my-claudecode/tree/main/skills/configure-notifications)
+
 ### Code Review & Developer Tools
 
 - [reverse-engineer-anything](https://skillsmp.com/creators/morluto/rea/agents-skills-reverse-engineer-anything) — by morluto
@@ -4434,18 +4434,6 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [node-connect](https://skillsmp.com/creators/openclaw/openclaw/skills-node-connect) — by openclaw
 	- [GitHub](https://github.com/openclaw/openclaw/tree/main/skills/node-connect)
 
-- [receiving-code-review](https://skillsmp.com/creators/obra/superpowers/skills-receiving-code-review) — by obra
-	- [GitHub](https://github.com/obra/superpowers/tree/main/skills/receiving-code-review)
-
-- [requesting-code-review](https://skillsmp.com/creators/obra/superpowers/skills-requesting-code-review) — by obra
-	- [GitHub](https://github.com/obra/superpowers/tree/main/skills/requesting-code-review)
-
-- [test-driven-development](https://skillsmp.com/creators/obra/superpowers/skills-test-driven-development) — by obra
-	- [GitHub](https://github.com/obra/superpowers/tree/main/skills/test-driven-development)
-
-- [writing-plans](https://skillsmp.com/creators/obra/superpowers/skills-writing-plans) — by obra
-	- [GitHub](https://github.com/obra/superpowers/tree/main/skills/writing-plans)
-
 - [code-review](https://skillsmp.com/creators/mattpocock/skills/skills-engineering-code-review) — by mattpocock
 	- [GitHub](https://github.com/mattpocock/skills/tree/main/skills/engineering/code-review)
 
@@ -4458,6 +4446,18 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [codebase-design](https://skillsmp.com/creators/mattpocock/skills/skills-engineering-codebase-design) — by mattpocock
 	- [GitHub](https://github.com/mattpocock/skills/tree/main/skills/engineering/codebase-design)
 
+- [receiving-code-review](https://skillsmp.com/creators/obra/superpowers/skills-receiving-code-review) — by obra
+	- [GitHub](https://github.com/obra/superpowers/tree/main/skills/receiving-code-review)
+
+- [requesting-code-review](https://skillsmp.com/creators/obra/superpowers/skills-requesting-code-review) — by obra
+	- [GitHub](https://github.com/obra/superpowers/tree/main/skills/requesting-code-review)
+
+- [test-driven-development](https://skillsmp.com/creators/obra/superpowers/skills-test-driven-development) — by obra
+	- [GitHub](https://github.com/obra/superpowers/tree/main/skills/test-driven-development)
+
+- [writing-plans](https://skillsmp.com/creators/obra/superpowers/skills-writing-plans) — by obra
+	- [GitHub](https://github.com/obra/superpowers/tree/main/skills/writing-plans)
+
 - [flutter-dart-code-review](https://skillsmp.com/creators/affaan-m/ecc/docs-ja-jp-skills-flutter-dart-code-review) — by affaan-m
 	- [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/ja-JP/skills/flutter-dart-code-review)
 
@@ -4467,11 +4467,11 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [flutter-dart-code-review](https://skillsmp.com/creators/affaan-m/ecc/pi-core-skills-flutter-dart-code-review) — by affaan-m
 	- [GitHub](https://github.com/affaan-m/ECC/tree/main/pi/core/skills/flutter-dart-code-review)
 
+- [issue-review](https://skillsmp.com/creators/affaan-m/ecc/skills-issue-review) — by affaan-m
+	- [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/issue-review)
+
 - [intent-driven-development](https://skillsmp.com/creators/affaan-m/ecc/pi-core-skills-intent-driven-development) — by affaan-m
 	- [GitHub](https://github.com/affaan-m/ECC/tree/main/pi/core/skills/intent-driven-development)
-
-- [frontend-a11y](https://skillsmp.com/creators/affaan-m/ecc/pi-core-skills-frontend-a11y) — by affaan-m
-	- [GitHub](https://github.com/affaan-m/ECC/tree/main/pi/core/skills/frontend-a11y)
 
 - [plankton-code-quality](https://skillsmp.com/creators/affaan-m/ecc/docs-ja-jp-skills-plankton-code-quality) — by affaan-m
 	- [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/ja-JP/skills/plankton-code-quality)
@@ -4536,14 +4536,14 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [fix-linting-types-on-pr](https://skillsmp.com/creators/storybookjs/storybook/agents-skills-fix-linting-types-on-pr) — by storybookjs
 	- [GitHub](https://github.com/storybookjs/storybook/tree/next/.agents/skills/fix-linting-types-on-pr)
 
+- [text-to-speech](https://skillsmp.com/creators/calesthio/openmontage/claude-skills-text-to-speech) — by calesthio
+	- [GitHub](https://github.com/calesthio/OpenMontage/tree/main/.claude/skills/text-to-speech)
+
 - [learn-reverse-engineering](https://skillsmp.com/creators/rohitg00/ai-engineering-from-scratch/claude-skills-learn-reverse-engineering) — by rohitg00
 	- [GitHub](https://github.com/rohitg00/ai-engineering-from-scratch/tree/main/.claude/skills/learn-reverse-engineering)
 
 - [write-manual](https://skillsmp.com/creators/rohitg00/ai-engineering-from-scratch/claude-skills-write-manual) — by rohitg00
 	- [GitHub](https://github.com/rohitg00/ai-engineering-from-scratch/tree/main/.claude/skills/write-manual)
-
-- [tel-mailto](https://skillsmp.com/creators/thedaviddias/front-end-checklist/skills-tel-mailto) — by thedaviddias
-	- [GitHub](https://github.com/thedaviddias/Front-End-Checklist/tree/main/skills/tel-mailto)
 
 ### AI & LLM Tools
 
@@ -4822,6 +4822,9 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [dsh-doc](https://skillsmp.com/creators/deepseek-ai/deepseek-harness/agents-skills-dsh-doc) — by deepseek-ai
 	- [GitHub](https://github.com/deepseek-ai/deepseek-harness/tree/master/.agents/skills/dsh-doc)
 
+- [dsh-cua-macos-signing](https://skillsmp.com/creators/deepseek-ai/deepseek-harness/agents-skills-dsh-cua-macos-signing) — by deepseek-ai
+	- [GitHub](https://github.com/deepseek-ai/deepseek-harness/tree/master/.agents/skills/dsh-cua-macos-signing)
+
 - [project-graveyard](https://skillsmp.com/creators/shubhamsaboo/awesome-llm-apps/agent-skills-project-graveyard) — by Shubhamsaboo
 	- [GitHub](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/agent_skills/project-graveyard)
 
@@ -4834,11 +4837,14 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 - [plan-tune](https://skillsmp.com/creators/garrytan/gstack/plan-tune) — by garrytan
 	- [GitHub](https://github.com/garrytan/gstack/tree/main/plan-tune)
 
-- [spec-generator](https://skillsmp.com/creators/google-gemini/gemini-cli/tools-caretaker-agent-cloudrun-triage-worker-gemini-skills-spec-generator) — by google-gemini
-	- [GitHub](https://github.com/google-gemini/gemini-cli/tree/main/tools/caretaker-agent/cloudrun/triage-worker/.gemini/skills/spec_generator)
-
 - [paperclip-create-plugin](https://skillsmp.com/creators/paperclipai/paperclip/agents-skills-paperclip-create-plugin) — by paperclipai
 	- [GitHub](https://github.com/paperclipai/paperclip/tree/master/.agents/skills/paperclip-create-plugin)
+
+- [design-taste-frontend](https://skillsmp.com/creators/leonxlnx/taste-skill/skills-taste-skill) — by Leonxlnx
+	- [GitHub](https://github.com/Leonxlnx/taste-skill/tree/main/skills/taste-skill)
+
+- [spec-generator](https://skillsmp.com/creators/google-gemini/gemini-cli/tools-caretaker-agent-cloudrun-triage-worker-gemini-skills-spec-generator) — by google-gemini
+	- [GitHub](https://github.com/google-gemini/gemini-cli/tree/main/tools/caretaker-agent/cloudrun/triage-worker/.gemini/skills/spec_generator)
 
 - [brandkit](https://skillsmp.com/creators/nexu-io/open-design/skills-brandkit) — by nexu-io
 	- [GitHub](https://github.com/nexu-io/open-design/tree/main/skills/brandkit)
@@ -4857,12 +4863,6 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 
 - [webgl-pixel-reveal-gallery](https://skillsmp.com/creators/nexu-io/open-design/plugins-official-examples-webgl-pixel-reveal-gallery) — by nexu-io
 	- [GitHub](https://github.com/nexu-io/open-design/tree/main/plugins/_official/examples/webgl-pixel-reveal-gallery)
-
-- [angular-developer](https://skillsmp.com/creators/angular/angular/skills-dev-skills-angular-developer) — by angular
-	- [GitHub](https://github.com/angular/angular/tree/main/skills/dev-skills/angular-developer)
-
-- [playwright-dev](https://skillsmp.com/creators/microsoft/playwright/claude-skills-playwright-dev) — by microsoft
-	- [GitHub](https://github.com/microsoft/playwright/tree/main/.claude/skills/playwright-dev)
 
 ## Related
 - [DevRel Academy](https://devrelacademy.com) — Interactive platform to browse, search, and filter all these resources
