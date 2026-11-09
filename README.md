@@ -2086,6 +2086,7 @@ Video channels dedicated to different areas of DevRel:
 - [Build to Succeed](https://verygood.ventures/podcasts)
 - [Building Developer Communities](https://dev.to/ladybugpodcast/building-developer-communities)
 - [Building platforms, ecosystems & open-source communities: Lessons from Viam & MongoDB](https://sfelc.com/podcasts/building-platforms-ecosystems-and-open-source-communities-lessons-from-viam-and-mongodb-eliot-horowitz-viam)
+- [Chain of Thought](https://chainofthought.show/)
 - [Changelog Master Feed](https://podcasts.apple.com/us/podcast/changelog-master-feed/id1164554936)
 - [Cloud Native Podcast](https://cloudnativepodcast.com/)
 - [Cloud Unfiltered Podcast: Understanding API Gateways](https://blogs.cisco.com/developer/podcastapigateways01)
