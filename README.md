@@ -4866,3 +4866,4 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 
 ## Related
 - [DevRel Academy](https://devrelacademy.com) — Interactive platform to browse, search, and filter all these resources
+- [No Stairs Please MCP](https://nostairsplease.com/mcp) - Live-music venue directory and DIY tour booking guide with a public MCP server
