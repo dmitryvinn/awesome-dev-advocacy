@@ -2756,6 +2756,7 @@ Video channels dedicated to different areas of DevRel:
 - [Gemma 4](https://deepmind.google/models/gemma/gemma-4/)
 - [Generative AI | Build AI-powered apps with speed, security, and scalability](https://firebase.google.com/products/generative-ai)
 - [GetSphere](https://www.getsphere.com/)
+- [GetYouTubeTranscript](https://getyoutubetranscript.com/)
 - [GGV Capital API-First Index](https://www.apifirstindex.com/)
 - [gifbrewery (for Mac)](https://gfycat.com/gifbrewery)
 - [gifcurry (for Linux/Mac)](https://github.com/lettier/gifcurry)
